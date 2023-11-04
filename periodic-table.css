@@ -1,0 +1,127 @@
+@keyframes element {
+    0%  {
+
+    }
+    100% {
+        margin: 5vh 80vw;
+        opacity: 0.4;
+    }
+}
+
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    width: 100vw;
+    height: 100vh;
+
+    overflow-y: hidden;
+}
+a {
+    width: fit-content;
+}
+
+.wrapper {
+    position: relative;
+    margin: auto 10vw;
+    margin-top: 5vh;
+
+    width: 80vw;
+    height: 90vh;
+}
+.row {
+    width: 100%;
+
+    display: inline-flex;
+
+    padding-top: 0.4vh;
+    padding-bottom: 0.4vh;
+
+}
+.spacer {
+    height: var(--rowHeight);
+
+}
+.cell {
+    top: auto;
+    left: auto;
+    position: relative;
+    width: 4.44vw;
+    height: var(--rowHeight);
+    background-color: var(--colorSecundary);
+
+    margin-left: 0.2vw;
+    border-radius: 7px;
+
+    cursor: pointer;
+
+    transition: background-color ease-in-out 0.1s, transform ease-in-out 0.1s, opacity ease-in-out 0.1s, z-index ease-in-out 0.1s;
+    z-index: 3;
+}
+.cellNot {
+    width: 4.44vw;
+    height: var(--rowHeight);
+
+    margin-left: 0.2vw;
+    border-radius: 7px;
+}
+.cell:hover{
+    transform: scale(1.4);
+    background-color: var(--colorTerciary);
+
+
+    z-index: 4;
+}
+.cell:hover .atomicNumber{
+    color: var(--colorSecundary);
+}
+.atomicNumber {
+    font-family: Mulish-Bold;
+
+    padding-top: 0.4vh;
+    padding-left: 0.3vw;
+
+    color: var(--colorPrimary);
+
+    transition: color ease-in-out 0.1s;
+}
+.elementSymbol {
+    color: var(--colorText);
+    font-family: Mulish;
+    margin-top: 0.3vh;
+    font-size: 1.5vw;
+
+    text-align: center;
+}
+.elementName {
+    color: var(--colorText);
+    font-family: Mulish-ExtraLight;
+    text-align: center;
+    margin-top: 0.8vh;
+
+    font-size: 0.5vw;
+}
+.atomicMass {
+    color: var(--colorText);
+    font-family: Mulish-ExtraLight;
+    text-align: center;
+    margin-top: 0.3vh;
+    margin-bottom: 1vh;
+
+    font-size: 0.5vw;
+}
+
+/*      Spacers         */
+#spacerFirstRow {
+    width: calc(16*(((100%)/ 18) + 0.1vw));
+}
+.spacerSecundRow {
+    width: calc(10.45*((80vw)/ 18));
+}
+#spacerOneCell {
+    width: calc(((80vw)/ 18));
+}

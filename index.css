@@ -1,0 +1,30 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    width: 100vw;
+    height: 100vh;
+}
+a {
+    width: fit-content;
+}
+
+
+.toolButton {
+    position: relative;
+    margin: auto auto;
+    margin-top: 10vh;
+
+    background-color: var(--colorTerciary);
+    width: 70vw;
+    height: 80vh;
+
+    border-radius: 20px;
+    border: 1px solid rgb(255 255 255 / 5%);
+
+    cursor: pointer;
+}

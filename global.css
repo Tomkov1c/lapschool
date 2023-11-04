@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Mulish;
+    src: url(fonts/Mulish-Medium.ttf);
+}
+@font-face {
+    font-family: Mulish-Bold;
+    src: url(fonts/Mulish-Bold.ttf);
+}
+@font-face {
+    font-family: Mulish-Light;
+    src: url(fonts/Mulish-Light.ttf);
+}@font-face {
+    font-family: Mulish-ExtraLight;
+    src: url(fonts/Mulish-ExtraLight.ttf);
+}
+
+:root {
+    --colorText: #e9e7ef;
+    --colorBackground: #131018;
+    --colorPrimary: #8678a5;
+    --colorSecundary: #1e1b23;
+    --colorTerciary: #6a5c8a;
+    --colorAccent: #6593ae;
+
+}
+
+/*
+
+--colorText: #fcfdfd;
+    --colorBackground: #020303;
+    --colorPrimary: #5485a0;
+    --colorSecundary: #19272f;
+    --colorTerciary: #0f1010;
+    --colorAccent: #6593ae;
+
+*/
