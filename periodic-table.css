@@ -3,8 +3,19 @@
 
     }
     100% {
-        margin: 5vh 80vw;
+        margin: 5vh 90vw;
         opacity: 0.4;
+    }
+}
+@keyframes elementShowcase {
+    0%  {
+
+        left: -20vw;
+        opacity: 0;
+    }
+    100% {
+        left: 5vw;
+        opacity: 1;
     }
 }
 
@@ -26,7 +37,7 @@ a {
 }
 
 .wrapper {
-    position: relative;
+    position: fixed;
     margin: auto 10vw;
     margin-top: 5vh;
 
@@ -96,6 +107,7 @@ a {
     font-size: 1.5vw;
 
     text-align: center;
+    text-transform: capitalize;
 }
 .elementName {
     color: var(--colorText);
@@ -104,6 +116,8 @@ a {
     margin-top: 0.8vh;
 
     font-size: 0.5vw;
+
+    text-transform: capitalize;
 }
 .atomicMass {
     color: var(--colorText);
@@ -124,4 +138,68 @@ a {
 }
 #spacerOneCell {
     width: calc(((80vw)/ 18));
+}
+
+#iframeTable {
+    width: 100vw;
+    height: 100;
+}
+
+
+
+/*      Secundary Section       */
+#elemntShowcase {
+    width: 10vw;
+    height: 30vh;
+    background-color: var(--colorSecundary);
+    position: fixed;
+
+    top: 30vh;
+    left: 5vw;
+
+    padding: 1vw 2vh;
+
+    border-radius: 15px;
+}
+
+#showcaseAtomicNumber {
+    font-family: Mulish-Bold;
+    font-size: 1.5vw;
+
+    padding-top: 0.4vh;
+    padding-left: 0.3vw;
+
+    color: var(--colorPrimary);
+
+    transition: color ease-in-out 0.1s;
+
+}
+#showcaseElementSymbol {
+    color: var(--colorText);
+    font-family: Mulish;
+    margin-top: 3vh;
+    font-size: 4vw;
+    text-transform: capitalize;
+
+    text-align: center;
+}
+#showcaseElementName {
+    color: var(--colorText);
+    font-family: Mulish-ExtraLight;
+    text-align: center;
+    margin-top: 2vh;
+
+    font-size: 1vw;
+    text-transform: capitalize;
+
+}
+#showcaseAtomicMass {
+    color: var(--colorText);
+    font-family: Mulish-ExtraLight;
+    text-align: center;
+    margin-top: 0.7vh;
+    margin-bottom: 1vh;
+
+    
+    font-size: 1vw;
 }

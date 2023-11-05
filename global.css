@@ -34,3 +34,8 @@
     --colorAccent: #6593ae;
 
 */
+
+::selection {
+    background-color: var(--colorPrimary);
+    color: var(--colorBackground);
+}
