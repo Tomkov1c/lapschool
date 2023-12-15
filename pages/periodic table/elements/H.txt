@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Hydrogen</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">H</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">1</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">1.01</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkaline</span></p>
+
+<p class="aboutElementDetailParagraph">Hydrogen, the first element on the periodic table, is a fundamental building block of the universe. As the lightest and most abundant element, it exists in vast quantities both on Earth and in the cosmos. In its gaseous form, hydrogen is colorless, odorless, and tasteless, and it consists of diatomic molecules, each comprising two hydrogen atoms.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its omnipresence, hydrogen plays a pivotal role in various industries. It serves as a crucial component in the synthesis of ammonia, a key ingredient in fertilizers. Moreover, hydrogen is integral to petroleum refining processes, facilitating the production of fuels and other essential products. Its versatility extends to the realm of chemistry, where it acts as a building block for a myriad of chemical compounds.</p>
+
+<p class="aboutElementDetailParagraph">Recently, hydrogen has emerged as a promising candidate for addressing environmental challenges. The concept of hydrogen as a clean and renewable energy source is gaining traction, especially in the context of fuel cell technology. In fuel cells, hydrogen reacts with oxygen to produce electricity, with water as the sole byproduct — a process that holds great potential for sustainable energy solutions and reducing our carbon footprint.</p>
+
+<p class="aboutElementDetailParagraph">Hydrogen has three isotopes: protium, deuterium, and tritium. Protium is the most common and stable isotope, while deuterium and tritium are heavier isotopes with one and two neutrons, respectively. Deuterium is used in heavy water reactors, and tritium is employed in nuclear weapons and experimental fusion reactions.</p>
+
+<p class="aboutElementDetailParagraph">In terms of physical properties, hydrogen is the lightest and simplest element. It has the lowest boiling and melting points among all elements. Hydrogen gas, when ignited, burns with a pale blue flame, forming water vapor as the combustion product.</p>
+
+<p class="aboutElementDetailParagraph">Historically, hydrogen gained attention in the 18th century when Henry Cavendish isolated it and recognized it as a distinct substance. Its name, derived from the Greek words "hydro" (water) and "genes" (forming), reflects its role in forming water.</p>
+
+<p class="aboutElementDetailParagraph">Hydrogen's role in astronomy is crucial. It is a primary component of stars and plays a vital role in the fusion reactions that power the sun. Spectral lines of hydrogen are fundamental in astronomical observations, providing insights into the composition and temperature of celestial objects.</p>
+
+<p class="aboutElementDetailParagraph">Apart from its industrial applications, hydrogen is gaining attention as a potential energy carrier. It can be produced through various methods, including electrolysis and steam methane reforming. The idea of a "hydrogen economy" envisions using hydrogen as a clean fuel for transportation and energy storage, with the potential to reduce dependence on fossil fuels.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Hydrogen" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

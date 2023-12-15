@@ -1,0 +1,98 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    width: 100vw;
+    height: 100vh;
+
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+
+    overflow: hidden;
+
+
+    display: inline-flex;
+}
+#blogPanelL {
+    position: relative;
+    width: 18vw;
+    height: 100vh;
+
+    border-right: 1px solid var(--colorSecundary);
+}
+#blogPanelLLapschoolButton {
+    display: inline-flex;
+
+    margin: 10%;
+    height: 7vh;
+    width: 80%;
+
+    cursor: default;
+
+}
+#blogPanelLLapschoolButtonImage {
+    position: relative;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+
+    filter: invert(51%) sepia(48%) saturate(271%) hue-rotate(217deg) brightness(89%) contrast(87%);
+
+    height: 60%;
+}
+#blogPanelLLapschoolButtonTitle {
+    position: relative;
+
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1vw;
+    margin-right: auto;
+
+    color: var(--colorPrimary);
+
+    font-family: Mulish;
+    font-size: 1.3vw;
+}
+#blogPanelLPosts {
+    width: 80%;
+    margin: 10%;
+
+    height: fit-content;
+
+}
+.blogPanelLPostButton {
+    color: var(--colorText);
+
+    font-family: Mulish;
+    font-size: 1vw;
+
+    padding-left: 0.7vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+
+    margin: 0.5vh 0;
+    border-radius: 7px;
+
+    transition: background-color 0.05s ease-in-out;
+}
+.blogPanelLPostButton:hover {
+    color: var(--colorText);
+    background-color: var(--colorMuted);
+
+    cursor: pointer;
+}
+
+
+
+#blogPanelR {
+    position: relative;
+    width: 70vw;
+    height: 90vh;
+    margin: auto;
+
+    margin-left: 6vw;
+}

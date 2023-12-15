@@ -9,17 +9,24 @@
 @font-face {
     font-family: Mulish-Light;
     src: url(fonts/Mulish-Light.ttf);
-}@font-face {
+}
+@font-face {
     font-family: Mulish-ExtraLight;
     src: url(fonts/Mulish-ExtraLight.ttf);
+}
+@font-face {
+    font-family: Mulish-ExtraBold;
+    src: url(fonts/Mulish-ExtraBold.ttf);
 }
 
 :root {
     --colorText: #e9e7ef;
-    --colorBackground: #131018;
+    --colorTextOff: #767676a5;
+    --colorBackground: #0c0a10;
     --colorPrimary: #8678a5;
     --colorSecundary: #1e1b23;
     --colorTerciary: #6a5c8a;
+    --colorMuted: #3d3451;
     --colorAccent: #6593ae;
 
 }

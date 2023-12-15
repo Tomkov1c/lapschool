@@ -7,16 +7,46 @@
         opacity: 0.4;
     }
 }
+@keyframes elementReverse {
+    0%  {
+        margin: 5vh 90vw;
+        opacity: 0.4;
+    }
+    100% {
+        margin: 5vh 10vw;
+        opacity: 1;
+    }
+}
 @keyframes elementShowcase {
     0%  {
 
-        left: -20vw;
+        margin-left: -20vw;
         opacity: 0;
     }
     100% {
-        left: 5vw;
+        margin-left: 5vw;
         opacity: 1;
     }
+}
+@keyframes elementShowcaseReverse {
+    0%  {
+
+        margin-left: 5vw;
+        opacity: 1;
+    }
+    100% {
+        margin-left: -20vw;
+        opacity: 0;
+    }
+}
+:root {
+    --colorTypeAlkali: #A5A679;
+    --colorLanthenides: #7980A6;
+    --colorActinides: #A67979;
+    --colorTransitionMetals: #79A679;
+    --colorHalogens: #79A6A2;
+    --colorNobleGasses: #A68F79;
+    --colorOtherNonMetals: #79A68A;
 }
 
 * {
@@ -80,6 +110,21 @@ a {
     margin-left: 0.2vw;
     border-radius: 7px;
 }
+.cellNoHover {
+    top: auto;
+    left: auto;
+    position: relative;
+    width: 4.44vw;
+    height: var(--rowHeight);
+    background-color: var(--colorSecundary);
+
+    margin-left: 0.2vw;
+    border-radius: 7px;
+
+    cursor: pointer;
+    z-index: 3;
+}
+
 .cell:hover{
     transform: scale(1.4);
     background-color: var(--colorTerciary);
@@ -152,10 +197,9 @@ a {
     width: 10vw;
     height: 30vh;
     background-color: var(--colorSecundary);
-    position: fixed;
+    position: relative;
 
-    top: 30vh;
-    left: 5vw;
+    margin-top: 30vh;
 
     padding: 1vw 2vh;
 
@@ -202,4 +246,118 @@ a {
 
     
     font-size: 1vw;
+}
+
+#aboutElement {
+    display: flex;
+}
+#elemntSidePanelGoBack {
+    color: var(--colorBackground);
+    font-family: Mulish-Bold;
+    font-size: 1vw;
+
+    position: relative;
+    
+    margin-top: 2.5vh;
+
+    padding: 1.5vh 0;
+    border-radius: 12px;
+
+    width: 12vw;
+    text-align: center;
+
+    cursor: pointer;
+    border: 1.5px solid transparent;
+
+    background-color: var(--colorTerciary);
+
+    transition: margin-top 0.3s ease-in-out, border 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+#elemntSidePanelGoBack:hover {
+    margin-top: 2vh;
+    border: 1.5px solid var(--colorPrimary);
+    background-color: var(--colorPrimary);
+
+}
+
+/*                                  */
+/*                                  */
+/*                                  */
+/*                                  */
+/*                                  */
+/*                                  */
+/*                                  */
+/*          Element Detail          */
+#aboutElementDetail {
+    position: relative;
+    width: 70vw;
+    height: 90vh;
+
+    margin: 2vw 5vh;
+    border-radius: 20px;
+
+    display: none;
+}
+.aboutElementDetailShort {
+    color: var(--colorPrimary);
+    font-family: Mulish;
+    font-size: 1vw;
+}
+.aboutElementDetailShortNum {
+    color: var(--colorText);
+    font-family: Mulish-Bold;
+    font-size: inherit;
+}
+.aboutElementDetailParagraph {
+    color: var(--colorText);
+    font-family: Mulish;
+    font-size: 1vw;
+
+    text-align: justify;
+
+    padding-top: 2vh;
+}
+#aboutElementDetailLinks {
+    position: relative;
+    width: 100%;
+
+    display: inline-flex;
+
+    z-index: 100;
+    
+}
+.aboutElementDetailLink {
+    margin-top: 2vh;
+    background-color: var(--colorTerciary);
+    display: inline-flex;
+
+    padding: 1vh 1.5vw;
+
+    border-radius: 8px;
+
+    margin-right: 1vw;
+
+    text-decoration: none;
+
+    transition: background-color 0.3s ease-in-out, margin-top 0.3s ease-in-out;
+}
+.aboutElementDetailLink:hover {
+    background-color: var(--colorPrimary);
+    margin-top: 1.5vh;
+}
+.aboutElementDetailLink i {
+    color: var(--colorBackground);
+    font-size: 1vw;
+
+    margin: auto;
+}   
+.aboutElementDetailLink p {
+    width: fit-content;
+    
+    color: var(--colorBackground);
+    font-family: Mulish-Bold;
+    font-size: 0.7vw;
+
+    padding: auto;
+    padding-left: 0.4vw;
 }
