@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Helium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">He</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">2</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">4.00</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gas</span></p>
+
+<p class="aboutElementDetailParagraph">Helium, a member of the noble gas family, is an intriguing element with diverse applications and unique properties. Discovered in 1868, its importance spans scientific research, industrial applications, and even festive occasions.</p>
+
+<p class="aboutElementDetailParagraph">In its natural state, helium is colorless, odorless, and tasteless. Its most notable feature is its low boiling point, making it the only element that remains liquid at standard temperature and pressure. This characteristic is exploited in cryogenic applications, including the cooling of superconducting magnets in medical MRI machines and particle accelerators.</p>
+
+<p class="aboutElementDetailParagraph">Helium's inert and non-flammable nature makes it a safe choice for applications where other gases might pose risks. Its use in filling balloons and airships provides a lift without the combustibility associated with other lifting gases.</p>
+
+<p class="aboutElementDetailParagraph">Helium has two stable isotopes, helium-3 and helium-4. Helium-4 is the most common and is extensively used in various industries. Helium-3, while less abundant, has unique properties that make it valuable for certain scientific applications, including neutron detection and experimental physics.</p>
+
+<p class="aboutElementDetailParagraph">In addition to its role in cryogenics, helium is widely used in welding as a shielding gas to prevent contamination and ensure a stable arc. Its application extends to leak detection, where its small atomic size allows it to escape from the smallest openings, making it effective in locating leaks in pipelines and refrigeration systems.</p>
+
+<p class="aboutElementDetailParagraph">Economically, helium is a critical resource, and its supply is carefully managed due to its non-renewable nature. The majority of the world's helium is extracted from natural gas fields, with efforts ongoing to find more efficient extraction methods and alternative sources.</p>
+
+<p class="aboutElementDetailParagraph">In recent years, helium's role in scientific research has expanded. Researchers are exploring its applications in advanced technologies, including quantum computing and quantum information processing. The unique properties of helium, such as its superfluidity, make it a fascinating subject of study in condensed matter physics and low-temperature research.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to explore and understand the properties of helium, it remains a captivating element with a wide range of applications, from enhancing our understanding of fundamental physics to ensuring the safety and success of various industrial processes.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Helium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

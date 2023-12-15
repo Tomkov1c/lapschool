@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Boron</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">B</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">5</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">10.81</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metalloid</span></p>
+
+<p class="aboutElementDetailParagraph">Boron, the fifth element in the periodic table, stands as a metalloid with unique properties that contribute to its diverse range of applications across various industries. Discovered in the early 19th century, boron has evolved from historical uses to cutting-edge applications in modern technology.</p>
+
+<p class="aboutElementDetailParagraph">In its natural state, boron exists in several allotropes, each with distinct physical and chemical properties. Amorphous boron and crystalline boron are common forms, and their unique characteristics make boron compounds essential in the production of a wide array of materials.</p>
+
+<p class="aboutElementDetailParagraph">One notable application of boron is in the manufacturing of borosilicate glass, famous for its resistance to thermal expansion and chemical durability. Boron compounds also contribute to the hardness and heat resistance of materials such as boron carbide, a superhard substance used in cutting tools and armor-piercing ammunition.</p>
+
+<p class="aboutElementDetailParagraph">Boron has two stable isotopes, boron-10 and boron-11. Boron-10, with its ability to absorb neutrons, plays a crucial role in nuclear applications, acting as a neutron absorber in control rods for nuclear reactors. Boron-11, while less effective in neutron absorption, has applications in nuclear medicine and various research fields.</p>
+
+<p class="aboutElementDetailParagraph">Historically, boron gained recognition through compounds like borax, a mineral used in traditional glassmaking and cleaning. The name "boron" has its roots in the Arabic word "buraq," referring to borax. Over time, boron's significance expanded with the discovery of its diverse properties and applications.</p>
+
+<p class="aboutElementDetailParagraph">In modern times, boron compounds have found applications in the semiconductor industry, contributing to the production of electronic devices. Boron doping, a process of introducing boron into semiconductor materials like silicon, is essential for manipulating electrical properties in the development of advanced electronics.</p>
+
+<p class="aboutElementDetailParagraph">An exciting frontier for boron lies in nuclear fusion research. Boron-11, through reactions involving fusion, has the potential to release energy, making it a candidate for clean and sustainable power generation. Researchers are exploring boron as a fuel source in the quest for viable fusion technologies.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the 21st century, boron continues to captivate scientists and engineers, contributing to advancements in materials science, electronics, and energy research. Its unique combination of properties ensures that boron will remain a key element in shaping our technological future.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Boron" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

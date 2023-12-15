@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Oxygen</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">O</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">8</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">16.00</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Nonmetal</span></p>
+
+<p class="aboutElementDetailParagraph">Oxygen, the eighth element in the periodic table, is a vital component for life and plays a central role in various chemical and biological processes. Its unique properties make it essential for sustaining life and supporting a wide range of industrial applications.</p>
+
+<p class="aboutElementDetailParagraph">In its diatomic molecular form (O<sub>2</sub>), oxygen constitutes about 21% of Earth's atmosphere. This molecular oxygen is essential for the respiration of most living organisms, providing the energy needed for cellular processes through the process of cellular respiration.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, oxygen is a crucial element for aerobic organisms, supporting the efficient production of energy in the form of ATP. Photosynthesis, carried out by plants and certain bacteria, involves the conversion of carbon dioxide and water into glucose and oxygen using sunlight as an energy source.</p>
+
+<p class="aboutElementDetailParagraph">In industry, oxygen is used in various applications, including the production of metals through processes like steelmaking. The oxygen-enriched air is employed in combustion processes, enhancing efficiency and reducing emissions in applications such as metal cutting and welding.</p>
+
+<p class="aboutElementDetailParagraph">Medical applications of oxygen include its use in respiratory support for patients with respiratory disorders and in anesthesia. Liquid oxygen is used in rocket propulsion systems, providing the oxidizer needed for combustion in space exploration.</p>
+
+<p class="aboutElementDetailParagraph">Oxygen has three naturally occurring isotopes: oxygen-16, oxygen-17, and oxygen-18. These isotopes find applications in fields such as paleoclimatology and geology, where variations in isotopic composition can provide insights into past climate conditions and geological processes.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the discovery and understanding of oxygen are closely linked to the work of scientists such as Joseph Priestley and Antoine Lavoisier in the late 18th century. Lavoisier's experiments played a pivotal role in establishing the modern understanding of combustion and respiration.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the complexities of biology, chemistry, and industry, oxygen remains a fundamental element that sustains life and fuels human progress. Its role in diverse processes, from supporting cellular respiration to enabling advanced technologies, underscores its significance in the natural world and human civilization.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Oxygen" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

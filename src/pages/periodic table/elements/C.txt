@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Carbon</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">C</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">6</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">12.01</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Nonmetal</span></p>
+
+<p class="aboutElementDetailParagraph">Carbon, the sixth element in the periodic table, is a versatile and essential building block of life. With its unique properties, carbon forms the basis of a vast array of compounds and plays a central role in various fields, from chemistry and biology to materials science and industry.</p>
+
+<p class="aboutElementDetailParagraph">In its purest form, carbon can exist in different allotropes, each with distinct properties. Diamond, with its exceptional hardness, and graphite, known for its lubricating properties, are two of the most well-known allotropes. Carbon also forms nanoscale structures like fullerenes and graphene, opening up new possibilities in materials science.</p>
+
+<p class="aboutElementDetailParagraph">Carbon's ability to form stable covalent bonds makes it the backbone of organic chemistry. Organic compounds, which contain carbon-hydrogen bonds, are the foundation of life, and carbon's versatility allows for the vast diversity of molecules found in living organisms.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, carbon is the key element in all known life forms. It forms the structural basis of organic molecules, including carbohydrates, lipids, proteins, and nucleic acids. The carbon cycle, involving the exchange of carbon dioxide and organic carbon in the biosphere, is fundamental to sustaining life on Earth.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its biological significance, carbon has crucial applications in industry and technology. Carbon fibers, derived from carbon-rich precursors, are used in aerospace and automotive applications due to their high strength and low weight. Activated carbon finds use in water purification and air filtration due to its exceptional adsorption properties.</p>
+
+<p class="aboutElementDetailParagraph">Carbon's electronic properties make it an ideal candidate for semiconductors, contributing to the development of electronic devices. Carbon nanotubes and graphene, with their remarkable electrical and thermal conductivity, hold promise for future advancements in nanoelectronics and other fields.</p>
+
+<p class="aboutElementDetailParagraph">Historically, carbon has been known since ancient times, with various forms of carbon used in different cultures. The discovery of new carbon allotropes and the understanding of its diverse properties have significantly shaped scientific and technological progress.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to explore the frontiers of science and technology, carbon remains a focal point, driving innovations in materials, energy, and medicine. Its adaptability and ubiquity underscore its status as a fundamental element in the natural world and a cornerstone of human civilization.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Carbon" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

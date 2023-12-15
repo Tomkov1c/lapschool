@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Neon</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ne</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">10</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">20.180</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gas</span></p>
+
+<p class="aboutElementDetailParagraph">Neon, a member of the noble gas family, holds a unique place in the periodic table with its inert and colorful characteristics. This element, denoted by the symbol Ne, has fascinated scientists and illuminated our world in both artistic and technological ways since its discovery in the late 19th century.</p>
+
+<p class="aboutElementDetailParagraph">Physically, neon is a colorless, odorless gas with low reactivity, characteristics typical of noble gases. Its atomic structure, consisting of single atoms rather than molecules, contributes to its stability and lack of chemical affinity. These properties set neon apart in the realm of elemental behavior.</p>
+
+<p class="aboutElementDetailParagraph">The visual allure of neon becomes evident in its application in neon signs. When an electric current passes through the gas, it emits a brilliant glow in various vibrant colors, creating iconic and attention-grabbing signage. The artistry and visual impact of neon signs have made them a cultural symbol.</p>
+
+<p class="aboutElementDetailParagraph">Beyond the realm of signage, neon's unique properties find applications in various lighting technologies. Fluorescent lamps, plasma display panels, and other lighting devices leverage neon's ability to emit light efficiently. Its stability makes it a reliable component in these technologies, contributing to energy-efficient and visually appealing lighting solutions.</p>
+
+<p class="aboutElementDetailParagraph">Neon has several isotopes, with neon-20 being the most abundant and stable. Neon-22, another stable isotope, plays a crucial role in nuclear physics experiments and serves as a reliable calibration standard for mass spectrometers, aiding precision in scientific measurements.</p>
+
+<p class="aboutElementDetailParagraph">The historical discovery of neon in 1898 by Sir William Ramsay and Morris Travers marked a significant chapter in the exploration of noble gases. The name "neon" originates from the Greek word "neos," signifying new, reflecting the novel properties observed in this newly discovered element.</p>
+
+<p class="aboutElementDetailParagraph">In scientific research, neon's inertness proves valuable for creating controlled environments. Its lack of chemical reactivity allows researchers to study specific atomic and molecular behaviors without external interference, contributing to advancements in various scientific disciplines.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the 21st century, neon continues to symbolize both artistic expression and scientific inquiry. Its luminous presence in urban landscapes reminds us of its impact on visual culture, while its role in technological applications underscores its relevance in advancing lighting and research technologies.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Neon" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

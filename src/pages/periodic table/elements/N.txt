@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Nitrogen</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">N</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">7</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">14.01</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Nonmetal</span></p>
+
+<p class="aboutElementDetailParagraph">Nitrogen, the seventh element in the periodic table, is a crucial component of life and has diverse applications in various industries. Its unique properties and versatility make it essential in the realms of chemistry, biology, and industrial processes.</p>
+
+<p class="aboutElementDetailParagraph">In its molecular form (N<sub>2</sub>), nitrogen constitutes the majority of Earth's atmosphere. Nitrogen gas is inert and makes up about 78% of the air we breathe. Despite its abundance, molecular nitrogen is relatively unreactive, requiring specialized processes for its utilization in various applications.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, nitrogen is a fundamental element in amino acids, proteins, and nucleic acids. Nitrogen fixation, the conversion of atmospheric nitrogen into ammonia by certain bacteria, is a crucial step in the nitrogen cycle and provides plants with essential nutrients. This process forms the basis for the nitrogen that becomes part of the food chain.</p>
+
+<p class="aboutElementDetailParagraph">Industrially, nitrogen finds applications in the production of ammonia (NH<sub>3</sub>), a key component in fertilizers. The Haber-Bosch process, developed in the early 20th century, revolutionized the production of ammonia, enabling large-scale agricultural practices and supporting global food production.</p>
+
+<p class="aboutElementDetailParagraph">Nitrogen compounds are also essential in the synthesis of various chemicals, including explosives, dyes, and pharmaceuticals. Nitrogen is a vital component in the production of nitric acid (HNO<sub>3</sub>), an important industrial chemical with widespread applications.</p>
+
+<p class="aboutElementDetailParagraph">Isotopes of nitrogen, such as nitrogen-14 and nitrogen-15, find applications in diverse fields. Nitrogen-14 is the most abundant isotope and is commonly used in various analytical techniques, including mass spectrometry. Nitrogen-15, a stable isotope, is used in nuclear magnetic resonance (NMR) spectroscopy for studying the structure of organic molecules.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the discovery and understanding of nitrogen's properties have contributed significantly to the development of agriculture and industry. The synthesis of ammonia and the broader field of nitrogen chemistry have shaped the modern world and played a pivotal role in advancing science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the challenges and opportunities of the 21st century, nitrogen remains a cornerstone of sustainable agriculture, chemical synthesis, and environmental stewardship. Its significance underscores the intricate interplay between chemistry, biology, and human innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Nitrogen" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

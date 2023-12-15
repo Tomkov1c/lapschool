@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Beryllium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Be</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">4</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">9.0122</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkali Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Beryllium, a member of the alkaline earth metal group, stands as the fourth element in the periodic table with atomic number 4 and symbol Be. Renowned for its unique combination of properties, beryllium plays a significant role in various industries, from aerospace to nuclear technology.</p>
+
+<p class="aboutElementDetailParagraph">In its natural form, beryllium is a lightweight, steel-gray metal characterized by excellent strength and a high melting point. Its exceptional stiffness and thermal conductivity make it a valuable material in structural components for aerospace applications, where the demand for lightweight yet sturdy materials is critical.</p>
+
+<p class="aboutElementDetailParagraph">One of the remarkable features of beryllium is its use in beryllium-copper alloys. These alloys, notable for their high strength, hardness, and electrical conductivity, find applications in precision instruments, connectors, and various electronic components. The aerospace and telecommunications industries benefit significantly from the unique properties of beryllium-copper alloys.</p>
+
+<p class="aboutElementDetailParagraph">Beryllium exists in nature with only one stable isotope, beryllium-9. However, radioactive isotopes like beryllium-10 have proven invaluable in scientific research. Beryllium-10, formed in the atmosphere by cosmic ray spallation, serves as a tool for dating geological and archaeological samples.</p>
+
+<p class="aboutElementDetailParagraph">Historically, beryllium's presence in the mineral beryl led to its recognition. Varieties of beryl, such as emerald and aquamarine, have been prized gemstones for centuries. The challenge of extracting beryllium from beryl hindered its widespread use until advancements in extraction methods in the early 20th century.</p>
+
+<p class="aboutElementDetailParagraph">Beryllium, while having significant industrial applications, comes with health considerations. The metal and its compounds are toxic, and exposure, especially in occupational settings, can lead to chronic beryllium disease (CBD). Stringent safety measures are crucial when working with beryllium-containing materials.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its established applications, beryllium is of interest in nuclear technology. It serves as a neutron moderator in nuclear reactors due to its low neutron absorption cross-section. Research continues to explore the potential of beryllium in advanced materials for next-generation nuclear technologies.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the 21st century, beryllium remains a key element in the pursuit of technological innovation. Its unique properties continue to shape industries and contribute to advancements in materials science, aerospace engineering, and nuclear research.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Beryllium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

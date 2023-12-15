@@ -575,7 +575,31 @@ function DisplayInfo (symbol) {
 
 
 
+function OnLoad() {
+    console.log("load");
+    if(document.location.href == "") {
+        console.log("href empty");
+    }else {
+        console.log("searching");
+        var elements = document.getElementsByClassName("cell");
+        console.log(elements);
+        for(i = 0; i < elements.length; i++) {
+            var childrenTemp = elements[i];
+            let children = childrenTemp.getElementsByClassName("elementSymbol");
+            console.log(children)
 
+            console.log("got all children");
+            if(children.innerHTML == document.location.href) {
+                 selectElement(children[g].parentElement);
+                 console.log(children[g])
+            }else {
+                console.log("children not \"IT\" \n \n \n Checking again");
+            }
+                
+        }
+    }
+
+}
 
 
 
@@ -674,6 +698,7 @@ function selectElement(e) {
         DelementSymbol = getInnerHTMLByClassWithinElement("elementSymbol", e);
         document.getElementById("showcaseElementSymbol").innerHTML = DelementSymbol;
         DisplayInfo(DelementSymbol);
+        document.location.hash = DelementSymbol;
 
         DelementName = getInnerHTMLByClassWithinElement("elementName", e);
         document.getElementById("showcaseElementName").innerHTML = DelementName;

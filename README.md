@@ -1,5 +1,5 @@
 
-<img src=".github/logo.png" alt="Logo" width="80">
+<img src=".github/banner.png" alt="Banner">
 
 # Lapschool
 So in my 3rd year of highschool, I constantly had to carry
