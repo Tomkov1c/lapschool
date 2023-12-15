@@ -1,5 +1,5 @@
 
-<img src=".github/logo.png" alt="Logo" width="80" height="80">
+<img src=".github/logo.png" alt="Logo" width="80">
 
 # Lapschool
 So in my 3rd year of highschool, I constantly had to carry
@@ -13,7 +13,6 @@ So in my 3rd year of highschool, I constantly had to carry
 
 ## The Periodic Table
 This is currently the only ported "tool". It has everything that a regular paper periodic table would have but I added a new feature. You can click on the element and the site will display some additional information about that element. I am not a chemist and all data is sourced from Wikipedia, so please report any mistakes you find.
-
 <br>
 
 ![periodic-table.png](.github/periodic-table.png)
