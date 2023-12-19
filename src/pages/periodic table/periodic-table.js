@@ -685,6 +685,7 @@ function selectElement(e,) {
         }
 
         elementShowcase.style.animation="elementShowcase 0.7s ease-in-out forwards";
+        document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
 
         DatomicNumber = getInnerHTMLByClassWithinElement("atomicNumber", e);
@@ -731,6 +732,7 @@ function selectElementReverse(e) {
     setTimeout(function(){
         elementDetail.style.display = 'none';
     }, 200);
+    document.getElementById("otherButtons").style.animation="filterMoveReverse 0.7s ease-in-out forwards";
 }
 
 function getInnerHTMLByClassWithinElement(className, parentElement) {

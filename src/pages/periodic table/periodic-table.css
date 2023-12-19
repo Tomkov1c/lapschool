@@ -39,6 +39,26 @@
         opacity: 0;
     }
 }
+@keyframes filterMove {
+    0%  {
+        opacity: 1;
+        display: inline-flex;
+    }
+    100% {
+        opacity: 0;
+        display: none;
+    }
+}
+@keyframes filterMoveReverse {
+    0%  {
+        opacity: 0;
+        display: none;
+    }
+    100% {
+        opacity: 1;
+        display: inline-flex;
+    }
+}
 :root {
     --colorTypeAlkali: #A5A679;
     --colorLanthenides: #7980A6;
@@ -57,6 +77,8 @@
 body {
     background-color: var(--colorBackground);
 
+    position: relative;
+
     width: 100vw;
     height: 100vh;
 
@@ -68,11 +90,70 @@ a {
 
 .wrapper {
     position: fixed;
-    margin: auto 10vw;
+    margin: 0 10vw;
     margin-top: 5vh;
 
     width: 80vw;
-    height: 90vh;
+    height: 85vh;
+}
+#otherButtons {
+    position: fixed;
+
+    width: 79.9vw;
+    margin: 0 10vw;
+    margin-left: 10.1vw;
+    margin-top: 92vh;
+
+    display: flex;
+}
+.otherButtonsButton {
+    color: var(--colorPrimary);
+
+    display: inline-flex;
+
+    min-width: 14%;
+    width: 100%;
+
+    margin-right: 0.5vw;
+    padding: 2vh 1vw;
+    border-radius: 12px;
+
+    font-size: 1.4rem;
+    font-family: Mulish-Bold;
+
+    cursor: pointer;
+
+    opacity: 0.2;
+
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+.otherButtonsButton:last-of-type {
+    margin-right: 0;
+}
+.otherButtonsButton:hover {
+    color: var(--colorPrimary);
+    background-color: var(--colorSecundary);
+
+    opacity: 1;
+}
+.otherButtonsButton i {
+    margin-left: auto;
+    margin-right: 1vw;
+
+    width: fit-content;
+
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.otherButtonsButton p {
+    margin-left: 0;
+    margin-right: auto;
+
+    width: fit-content;
+
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .row {
     width: 100%;
@@ -92,7 +173,7 @@ a {
     left: auto;
     position: relative;
     width: 4.44vw;
-    height: var(--rowHeight);
+    height: 5.7vw;
     background-color: var(--colorSecundary);
 
     margin-left: 0.2vw;
@@ -105,7 +186,7 @@ a {
 }
 .cellNot {
     width: 4.44vw;
-    height: var(--rowHeight);
+    height: 5.7vw;
 
     margin-left: 0.2vw;
     border-radius: 7px;
@@ -115,7 +196,7 @@ a {
     left: auto;
     position: relative;
     width: 4.44vw;
-    height: var(--rowHeight);
+    height: 5.7vw;
     background-color: var(--colorSecundary);
 
     margin-left: 0.2vw;
@@ -137,6 +218,7 @@ a {
 }
 .atomicNumber {
     font-family: Mulish-Bold;
+    font-size: 0.7vw ;
 
     padding-top: 0.4vh;
     padding-left: 0.3vw;
@@ -149,7 +231,7 @@ a {
     color: var(--colorText);
     font-family: Mulish;
     margin-top: 0.3vh;
-    font-size: 1.5vw;
+    font-size: 1.5vw ;
 
     text-align: center;
     text-transform: capitalize;
@@ -160,7 +242,7 @@ a {
     text-align: center;
     margin-top: 0.8vh;
 
-    font-size: 0.5vw;
+    font-size: 0.55vw;
 
     text-transform: capitalize;
 }
