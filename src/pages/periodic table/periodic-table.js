@@ -576,31 +576,26 @@ function DisplayInfo (symbol) {
 
 
 function OnLoad() {
-    console.log("load");
-    if(document.location.href == "") {
-        console.log("href empty");
+    if(document.location.hash == "") {
+
+    }else if (document.location.hash === "#")
+    {
+        document.location.hash == "";
     }else {
-        console.log("searching");
-        var elements = document.getElementsByClassName("cell");
-        console.log(elements);
+        var elements = document.getElementsByClassName("elementSymbol");
         for(i = 0; i < elements.length; i++) {
             var childrenTemp = elements[i];
-            let children = childrenTemp.getElementsByClassName("elementSymbol");
-            console.log(children)
+            var children = childrenTemp.innerHTML;
 
-            console.log("got all children");
-            if(children.innerHTML == document.location.href) {
-                 selectElement(children[g].parentElement);
-                 console.log(children[g])
-            }else {
-                console.log("children not \"IT\" \n \n \n Checking again");
+            if(("#" + children) == document.location.hash) {
+                 elements[i].click();
+                 break;
             }
                 
         }
     }
 
 }
-
 
 
 
@@ -662,6 +657,7 @@ function disableHover () {
 }
 function enableHover () {
     var elementsWithClass = document.getElementsByClassName('cellNoHover');
+    document.location.hash = "";
         
         //IDK why but not all cells get the class without another loop
         for(var g = 0; g < (elementsWithClass.length + 10); g++) {
@@ -671,7 +667,7 @@ function enableHover () {
             }
         }
 }
-function selectElement(e) {
+function selectElement(e,) {
 
     if(!clicked)
     {

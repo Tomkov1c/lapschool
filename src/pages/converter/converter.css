@@ -1,0 +1,49 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    width: 100vw;
+
+    overflow-x: hidden;
+}
+
+#dragAndDrop {
+    position: relative;
+    text-align: center;
+
+    margin: 0 auto;
+    margin-top: 10vh;
+
+    width: 60vw;
+    height: 50vh;
+
+    border: 1px dashed var(--colorTerciary);
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: var(--colorSecundary);
+}
+#dragAndDrop div{
+    position: relative;
+    padding: 21vh;
+
+    height: 7.5vh;
+}
+#dragAndDrop i {
+    color: var(--colorPrimary);
+    font-size: 7rem;
+
+    margin-bottom: 5vh;
+
+    margin-top: -5vh;
+}
+#dragAndDrop h1 {
+    color: var(--colorPrimary);
+    font-family: Mulish;
+    font-size: 2rem;
+
+    margin-bottom: auto;
+}
