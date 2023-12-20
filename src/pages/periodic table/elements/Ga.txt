@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Gallium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ga</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">31</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">69.72</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Gallium, a fascinating metal with unique properties, has found diverse applications in technology and industry. Represented by the symbol Ga and holding atomic number 31, gallium's low melting point and semiconductor characteristics contribute to its role in electronics, solar technology, and more.</p>
+
+<p class="aboutElementDetailParagraph">Physically, gallium is a silvery-blue metal that remains solid near room temperature but undergoes a transition into a liquid state just above 29.76 degrees Celsius (85.57 degrees Fahrenheit). This low melting point makes gallium a valuable component in certain alloys and as a non-toxic alternative to mercury in thermometers.</p>
+
+<p class="aboutElementDetailParagraph">Gallium's semiconductor properties have led to its use in the electronics industry, particularly in the production of gallium arsenide (GaAs) semiconductors. These semiconductors are vital in the manufacturing of high-frequency devices such as microwave circuits, solar cells, and light-emitting diodes (LEDs).</p>
+
+<p class="aboutElementDetailParagraph">In solar technology, gallium is often incorporated into thin-film photovoltaic cells, enhancing the efficiency of solar panels. The unique properties of gallium contribute to the development of advanced materials that push the boundaries of renewable energy technologies.</p>
+
+<p class="aboutElementDetailParagraph">Gallium has multiple isotopes, with gallium-69 being the most abundant and stable. Isotopic studies provide insights into gallium's behavior in various scientific and industrial applications.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of gallium is intertwined with its discovery in the 19th century by French chemist Paul-Émile Lecoq de Boisbaudran. Its existence was predicted by Dmitri Mendeleev in his periodic table, and its discovery filled a gap in the table, confirming the power of Mendeleev's predictive model.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the unique landscape of gallium, from its intriguing physical properties to its crucial role in cutting-edge technologies, the metal's significance in modern science and industry becomes evident. Gallium, a versatile player in the periodic ensemble, continues to shape the forefront of technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Gallium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

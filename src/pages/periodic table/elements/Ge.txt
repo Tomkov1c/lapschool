@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Germanium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ge</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">32</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">72.63</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metalloid</span></p>
+
+<p class="aboutElementDetailParagraph">Germanium, a versatile metalloid with a rich history in semiconductor technology, continues to captivate the world of materials science and electronics. Represented by the symbol Ge and holding atomic number 32, germanium's unique blend of metallic and non-metallic properties positions it as a cornerstone in the evolution of electronic devices.</p>
+
+<p class="aboutElementDetailParagraph">Physically, germanium manifests as a grayish-white, lustrous material, possessing characteristics that bridge the realms of metals and non-metals. Its significance in electronic applications stems from its status as a semiconductor, a material with an intermediate electrical conductivity, crucial for the creation of transistors and diodes.</p>
+
+<p class="aboutElementDetailParagraph">Germanium rose to prominence in the mid-20th century as a key player in the development of transistors. While silicon eventually took center stage in semiconductor technology, germanium's properties continue to find specialized applications, particularly in high-frequency devices and certain optical technologies.</p>
+
+<p class="aboutElementDetailParagraph">The optical transparency of germanium in the infrared spectrum opens doors to applications in lenses and windows for infrared spectroscopy and thermal imaging systems. Its unique optical properties contribute to advancements in scientific research, astronomy, and military technologies.</p>
+
+<p class="aboutElementDetailParagraph">Germanium's isotopic landscape unfolds with multiple variants, with germanium-76 standing out as the most abundant and stable. Isotopic studies delve into germanium's behavior in geological, environmental, and technological contexts, offering valuable insights into its dynamic interactions.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of germanium intertwines with the meticulous work of German chemist Clemens Winkler, who discovered the element in the late 19th century. Its isolation and characterization filled a gap predicted by Dmitri Mendeleev in the periodic table, solidifying its place among the elements.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the intricate tapestry of germanium's properties and applications, from its pivotal role in early electronics to its modern-day contributions in optics and beyond, the metalloid stands as a testament to the enduring impact of scientific discovery on technological progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Germanium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

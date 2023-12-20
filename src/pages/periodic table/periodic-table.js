@@ -672,6 +672,8 @@ function selectElement(e,) {
     if(!clicked)
     {
         disableHover();
+        document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
+
 
         clicked = true;
         elementShowcase.style.display = 'block';
@@ -685,7 +687,6 @@ function selectElement(e,) {
         }
 
         elementShowcase.style.animation="elementShowcase 0.7s ease-in-out forwards";
-        document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
 
         DatomicNumber = getInnerHTMLByClassWithinElement("atomicNumber", e);
@@ -732,7 +733,9 @@ function selectElementReverse(e) {
     setTimeout(function(){
         elementDetail.style.display = 'none';
     }, 200);
-    document.getElementById("otherButtons").style.animation="filterMoveReverse 0.7s ease-in-out forwards";
+    setTimeout(function(){
+        document.getElementById("otherButtons").style.animation="filterMoveReverse 0.7s ease-in-out forwards";
+    }, 100);
 }
 
 function getInnerHTMLByClassWithinElement(className, parentElement) {

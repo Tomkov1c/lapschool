@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Iron</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Fe</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">26</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">55.85</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Iron, an elemental cornerstone of civilization, stands as a testament to its enduring significance. Represented by the symbol Fe and holding atomic number 26, iron's properties and applications weave a rich tapestry that spans industries, technology, and the very fabric of life.</p>
+
+<p class="aboutElementDetailParagraph">Physically, iron manifests as a lustrous, silvery-grey metal, characterized by a high melting point and magnetic properties. Its most profound impact is felt in the realm of metallurgy, where iron serves as the backbone of steel production. Steel, an alloy of iron and carbon, epitomizes strength, durability, and versatility, forming the backbone of structures, machinery, and transportation.</p>
+
+<p class="aboutElementDetailParagraph">Iron's magnetic attributes find expression in technologies such as electromagnets and magnetic storage. From powering electric motors to enabling magnetic resonance imaging (MRI), iron's role in modern technology is as diverse as it is indispensable.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, iron emerges as an elemental linchpin, integral to the functioning of living organisms. Hemoglobin, the oxygen-carrying protein in red blood cells, relies on iron for its oxygen-binding capacity. Beyond oxygen transport, iron participates in enzymatic processes and cellular respiration, underscoring its vital role in sustaining life.</p>
+
+<p class="aboutElementDetailParagraph">Iron's isotopic composition, with iron-56 as the predominant and stable isotope, facilitates investigations into its behavior in geological, environmental, and biological contexts. Isotopic studies deepen our understanding of iron's dynamic interactions across diverse domains.</p>
+
+<p class="aboutElementDetailParagraph">The historical odyssey of iron spans epochs, with the advent of the Iron Age marking a transformative era in human history. Iron tools, weapons, and implements revolutionized societies, shaping the course of civilizations and enabling unprecedented technological advancements.</p>
+
+<p class="aboutElementDetailParagraph">As we traverse the intricate narrative of iron, its contributions echo through the ages — from the foundational structures of buildings to the intricate machinery of the modern world. Iron's endurance, adaptability, and role in shaping both the tangible and intangible aspects of our existence underscore its timeless significance.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Iron" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

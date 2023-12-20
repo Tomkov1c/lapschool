@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Arsenic</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">As</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">33</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">74.92</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metalloid</span></p>
+
+<p class="aboutElementDetailParagraph">Arsenic, a metalloid with a multifaceted character, has etched its presence in the annals of chemistry, toxicology, and industry. Represented by the symbol As and holding atomic number 33, arsenic's intriguing properties weave a narrative that spans ancient remedies to modern challenges, embodying both its benefits and hazards.</p>
+
+<p class="aboutElementDetailParagraph">Physically, arsenic exhibits various forms, including metallic, yellow, and gray arsenic, showcasing its versatility and ability to adopt different structures. This metalloid nature bestows upon arsenic a unique blend of metallic and non-metallic properties, contributing to its diverse applications.</p>
+
+<p class="aboutElementDetailParagraph">Historically, arsenic has been both a remedy and a poison. In ancient cultures, arsenic-based compounds were employed in medicines and cosmetics. However, the toxic nature of arsenic became increasingly apparent, leading to a more nuanced understanding of its risks and benefits.</p>
+
+<p class="aboutElementDetailParagraph">In the modern era, arsenic plays a role in the semiconductor industry, where it is utilized in the production of certain electronic devices. The unique electronic properties of arsenic compounds contribute to the functionality of these devices, showcasing the metalloid's relevance in cutting-edge technologies.</p>
+
+<p class="aboutElementDetailParagraph">In agriculture, arsenic-based pesticides were once prevalent. However, due to environmental and health concerns, the use of arsenic in pesticides has declined, with a shift toward more sustainable and less harmful alternatives.</p>
+
+<p class="aboutElementDetailParagraph">Arsenic boasts several isotopes, with arsenic-75 among the stable variants. Isotopic studies provide valuable insights into the behavior of arsenic in geological, environmental, and biological contexts, contributing to our understanding of its impact on various systems.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of arsenic is a tapestry woven with cautionary tales and scientific discovery. From its historical applications in medicine and cosmetics to the challenges posed by its toxicity, arsenic's story reflects the evolving relationship between humanity and the elements.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Arsenic" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

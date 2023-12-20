@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Nickel</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ni</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">28</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">58.69</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Nickel, a resilient and versatile transition metal, stands at the crossroads of innovation, contributing significantly to the realms of industry, electronics, and catalysis. Represented by the symbol Ni and holding atomic number 28, nickel's unique properties weave a narrative of durability, corrosion resistance, and catalytic prowess.</p>
+
+<p class="aboutElementDetailParagraph">Physically, nickel unveils itself as a lustrous, silvery-white metal prized for its resistance to corrosion. This attribute positions nickel as a cornerstone in metallurgy, particularly in the formulation of stainless steel. The marriage of nickel with steel not only enhances structural strength but also bestows upon it an aesthetic allure, making stainless steel a staple in construction, manufacturing, and everyday products.</p>
+
+<p class="aboutElementDetailParagraph">The magnetic charm of nickel finds expression in various electronic applications. Alloys containing nickel, such as permalloy and invar, play pivotal roles in the creation of sensitive sensors, transformers, and electronic components. Nickel's magnetic properties contribute to the efficiency and precision of devices that permeate modern technology.</p>
+
+<p class="aboutElementDetailParagraph">Beyond metallurgy and electronics, nickel assumes a catalytic mantle in chemical processes. As a catalyst, nickel facilitates hydrogenation reactions crucial in the production of margarine and participates in diverse processes within the petrochemical industry, driving the synthesis of essential chemicals.</p>
+
+<p class="aboutElementDetailParagraph">The isotopic composition of nickel introduces a nuanced understanding, with nickel-58 standing out as the most abundant and stable isotope. Isotopic studies deepen our comprehension of nickel's behavior in geological, environmental, and biological contexts, shedding light on its dynamic interactions.</p>
+
+<p class="aboutElementDetailParagraph">The historical tapestry of nickel begins in the 18th century, with Swedish chemist Axel Fredrik Cronstedt credited for isolating nickel from the mineral niccolite. This milestone marked the inception of nickel's journey from a curiosity to an industrial powerhouse.</p>
+
+<p class="aboutElementDetailParagraph">As we unravel the multifaceted nature of nickel, its influence echoes through the gleaming surfaces of stainless steel appliances, the precision of electronic devices, and the efficiency of industrial processes. Nickel, a silent force in modern technology, continues to shape the world we inhabit, showcasing the enduring impact of elemental innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Nickel" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

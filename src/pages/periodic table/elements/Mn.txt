@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Manganese</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Mn</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">25</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">54.94</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Manganese, a versatile transition metal, holds significance in diverse applications, ranging from metallurgy to battery technology. Represented by the symbol Mn and possessing atomic number 25, manganese's unique properties contribute to its roles in industry, biology, and materials science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, manganese is a silvery-gray metal with a relatively high melting point. It forms various oxidation states, allowing it to participate in redox reactions. Manganese's primary application is as an alloying element in steel production, where it enhances strength, hardness, and resistance to wear and corrosion.</p>
+
+<p class="aboutElementDetailParagraph">One of the significant applications of manganese is in the production of batteries. Manganese dioxide, a compound derived from manganese, is a key component in dry cell batteries. Its role as a cathode material contributes to the efficiency and reliability of batteries used in electronic devices and electric vehicles.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, manganese is an essential trace element, playing a role in various enzymatic reactions. It is involved in processes such as bone formation, blood clotting, and energy metabolism. While required in small amounts, manganese is crucial for maintaining overall health and well-being.</p>
+
+<p class="aboutElementDetailParagraph">In the realm of metallurgy, manganese alloys find applications in the production of aluminum alloys and certain types of stainless steel. Manganese's ability to form strong, stable compounds contributes to the durability and performance of these materials.</p>
+
+<p class="aboutElementDetailParagraph">Manganese has several isotopes, with manganese-55 being the most abundant and stable. Isotopic variations play a role in understanding the geological and environmental distribution of manganese.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of manganese includes its recognition as a distinct element in the late 18th century. It was initially isolated by the Swedish chemist Johan Gottlieb Gahn and later independently by others, contributing to the understanding of manganese's properties.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the multifaceted nature of manganese, its impact on steel production, battery technology, and biological processes emerges as a testament to its versatility. From strengthening steel structures to powering electronic devices, manganese's contributions underscore its essential role in modern applications.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Manganese" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

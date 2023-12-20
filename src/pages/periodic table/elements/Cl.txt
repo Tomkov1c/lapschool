@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Chlorine</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Cl</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">17</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">35.45</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Halogen</span></p>
+
+<p class="aboutElementDetailParagraph">Chlorine, a reactive halogen, is a critical element with significant applications in various industries and essential roles in maintaining public health. Represented by the symbol Cl and possessing atomic number 17, chlorine is known for its distinctive odor, disinfectant properties, and contributions to chemical synthesis.</p>
+
+<p class="aboutElementDetailParagraph">Physically, chlorine is a greenish-yellow gas at room temperature, exhibiting a strong and suffocating odor. It is a diatomic molecule (Cl2) and plays a crucial role in water purification. Chlorine's disinfectant properties make it effective in killing bacteria and other microorganisms, ensuring the safety of drinking water supplies.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of chlorine is in the production of various chemicals. Chlorine compounds, such as sodium hypochlorite, are used as bleaching agents in the paper and textile industries. Chlorine is also a key component in the synthesis of PVC (polyvinyl chloride), a widely used plastic.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, chlorine is essential for maintaining hygiene and preventing the spread of waterborne diseases. Chlorine-based disinfectants, like chlorine gas and sodium hypochlorite, are employed to treat drinking water, swimming pools, and wastewater, ensuring the elimination of harmful pathogens.</p>
+
+<p class="aboutElementDetailParagraph">Chlorine has several isotopes, with chlorine-35 and chlorine-37 being the most abundant and stable isotopes. These isotopes find applications in nuclear magnetic resonance (NMR) spectroscopy, providing valuable information in the study of molecular structures in chemistry and biochemistry.</p>
+
+<p class="aboutElementDetailParagraph">The historical context of chlorine is marked by its discovery in the late 18th century by Carl Wilhelm Scheele and Humphry Davy. Initially recognized for its bleaching properties, chlorine's role expanded over the years, particularly in water treatment and chemical manufacturing.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the complexities of sanitation, industry, and chemical synthesis, chlorine remains a cornerstone element. Its contributions to public health and diverse industrial processes underscore its vital role in modern society.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Chlorine" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

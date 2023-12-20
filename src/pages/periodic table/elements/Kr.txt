@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Krypton</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Kr</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">36</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">83.80</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gases</span></p>
+
+<p class="aboutElementDetailParagraph">Krypton, a member of the illustrious noble gases, unfolds a narrative rich in scientific curiosity and practical applications. Represented by the symbol Kr and holding atomic number 36, krypton's journey through the periodic table is marked by its discreet presence in the atmosphere and its pivotal role in illuminating our technological landscape.</p>
+
+<p class="aboutElementDetailParagraph">Physically, krypton manifests as a colorless and odorless gas, contributing to the stable and unreactive nature characteristic of noble gases. Its Greek-derived name, 'kryptos,' alludes to its hidden nature, symbolizing the subtle interplay between its scarcity in the Earth's atmosphere and its significant impact in specific technological domains.</p>
+
+<p class="aboutElementDetailParagraph">Krypton's utility extends to the field of lighting technology, where it finds application in high-intensity discharge lamps. In this role, krypton enhances efficiency and prolongs the life of the lamps, showcasing the practical synergy between scientific understanding and technological innovation.</p>
+
+<p class="aboutElementDetailParagraph">Exploring the isotopic spectrum of krypton unveils a range of stable isotopes, with krypton-84 taking a prominent place. Isotopic studies provide a microscopic lens into krypton's behavior in natural processes, offering insights into its geological, atmospheric, and industrial interactions.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of krypton can be attributed to the collaborative efforts of the eminent British chemists Sir William Ramsay and Morris Travers in 1898. Their meticulous work in isolating krypton marked a significant leap in the exploration of noble gases, expanding our understanding of elements that resist chemical reactivity.</p>
+
+<p class="aboutElementDetailParagraph">As we traverse the multifaceted landscape of krypton, from its role as a noble gas to its application in advanced lighting systems, the element serves as a symbol of the intricate dance between scientific inquiry and practical innovation. Krypton invites us to appreciate the hidden stories encoded in the periodic table and the technological marvels that emerge from their discovery.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Krypton" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

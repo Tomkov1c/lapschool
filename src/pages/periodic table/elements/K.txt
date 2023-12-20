@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Potassium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">K</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">19</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">39.10</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkali Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Potassium, an essential alkali metal, plays a crucial role in biological systems and various industrial applications. Represented by the symbol K and possessing atomic number 19, potassium is known for its reactivity, abundance in nature, and significance in maintaining cellular functions.</p>
+
+<p class="aboutElementDetailParagraph">Physically, potassium is a soft, silvery-white metal that reacts vigorously with water, producing hydrogen gas. It belongs to the alkali metal group, residing in the first column of the periodic table. Potassium is a vital element for living organisms, playing a key role in cellular processes and the functioning of nerves and muscles.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of potassium is in agriculture. Potassium compounds, particularly potassium chloride, are essential components of fertilizers. Potassium promotes plant growth, regulates water uptake, and contributes to overall plant health, making it a crucial nutrient for crops.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, potassium is an electrolyte that plays a vital role in maintaining the balance of fluids within cells and regulating nerve impulses. It is essential for muscle contractions, including the contraction of the heart muscle. Adequate potassium intake is necessary for overall cardiovascular health.</p>
+
+<p class="aboutElementDetailParagraph">In industry, potassium compounds find applications in the production of soaps, glass, and certain chemicals. Potassium hydroxide (caustic potash) is a versatile compound used in the manufacture of detergents, textiles, and various industrial processes.</p>
+
+<p class="aboutElementDetailParagraph">Potassium has three naturally occurring isotopes: potassium-39, potassium-40, and potassium-41. Potassium-40, with a small but measurable radioactive component, is used in radiometric dating to determine the age of rocks and minerals.</p>
+
+<p class="aboutElementDetailParagraph">The historical context of potassium is closely tied to its discovery in the early 19th century by Sir Humphry Davy. Davy isolated potassium through the electrolysis of molten potassium hydroxide, marking a significant advancement in the understanding of alkali metals.</p>
+
+<p class="aboutElementDetailParagraph">As we explore the multifaceted nature of potassium, its roles in agriculture, biology, and industry underscore its importance in sustaining life and contributing to technological progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Potassium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

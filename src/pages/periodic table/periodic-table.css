@@ -372,7 +372,7 @@ a {
 /*          Element Detail          */
 #aboutElementDetail {
     position: relative;
-    width: 70vw;
+    width: 65vw;
     height: 90vh;
 
     overflow-y: auto;
@@ -404,7 +404,7 @@ a {
 
     text-align: justify;
 
-    padding-top: 2vh;
+    padding-top: 1gvh;
 }
 #aboutElementDetailLinks {
     position: relative;

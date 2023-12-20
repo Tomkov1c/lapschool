@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Titanium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ti</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">22</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">47.87</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Titanium, a versatile transition metal, is renowned for its strength, low density, and corrosion resistance. Represented by the symbol Ti and possessing atomic number 22, titanium is a crucial element in various industries, ranging from aerospace to medicine.</p>
+
+<p class="aboutElementDetailParagraph">Physically, titanium is a lustrous, silvery-white metal with a low density and high strength. It is often alloyed with other elements to enhance its properties. Titanium's strength-to-weight ratio makes it a preferred material for aerospace applications, where its corrosion resistance ensures durability in challenging environments.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of titanium is in the aerospace industry. Titanium alloys are used in the construction of aircraft components, such as airframes, jet engines, and landing gear. The metal's exceptional strength and resistance to corrosion contribute to the safety and performance of aerospace structures.</p>
+
+<p class="aboutElementDetailParagraph">Biomedically, titanium's biocompatibility and corrosion resistance make it an ideal material for medical implants. Titanium implants, ranging from dental fixtures to joint replacements, offer durability and compatibility with the human body, ensuring long-term functionality and reduced risk of adverse reactions.</p>
+
+<p class="aboutElementDetailParagraph">In industry, titanium finds applications in chemical processing, where its resistance to corrosion is advantageous in handling corrosive substances. Titanium dioxide, a compound derived from titanium, is widely used as a white pigment in paints, coatings, and various consumer products.</p>
+
+<p class="aboutElementDetailParagraph">Titanium has several isotopes, with titanium-48 being the most abundant and stable. These isotopes contribute to the various properties and applications of titanium in different fields.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of titanium is marked by its discovery in 1791 by clergyman and amateur geologist William Gregor. The element was later independently rediscovered and named by German chemist Martin Heinrich Klaproth. Over the years, advancements in metallurgy and materials science have elevated titanium to a critical role in modern technology.</p>
+
+<p class="aboutElementDetailParagraph">As we explore the exceptional qualities of titanium, its impact on aerospace, medicine, and industry emerges as a testament to the transformative power of advanced materials. From soaring through the skies to enhancing the quality of life through medical interventions, titanium stands as a symbol of innovation and progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Titanium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

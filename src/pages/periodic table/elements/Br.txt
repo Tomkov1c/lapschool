@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Bromine</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Br</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">35</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">79.90</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Halogens</span></p>
+
+<p class="aboutElementDetailParagraph">Bromine, a captivating element from the halogen family, reveals a rich tapestry of properties and applications that have left an indelible mark on various industries. Represented by the symbol Br and holding atomic number 35, bromine's journey unfolds with a nuanced exploration of its distinctive characteristics and multifaceted contributions.</p>
+
+<p class="aboutElementDetailParagraph">Physically, bromine defies the expectations associated with halogens by existing as a reddish-brown liquid at room temperature. This liquid state, a rarity among halogens, signifies bromine's unique reactivity and affinity for forming compounds, characteristics that have found applications across diverse fields.</p>
+
+<p class="aboutElementDetailParagraph">One of bromine's standout applications resides in flame retardants. Bromine-containing compounds act as crucial additives, enhancing the fire resistance of materials such as plastics and textiles. This pivotal role positions bromine as a cornerstone in the quest for improved fire safety standards across various industries.</p>
+
+<p class="aboutElementDetailParagraph">In the intricate world of organic synthesis, bromine compounds serve as indispensable reagents. Their selective reactivity proves instrumental in complex reactions, playing a pivotal role in the synthesis of pharmaceuticals, dyes, and intricate organic molecules. The versatility of bromine extends a helping hand to chemists navigating the intricacies of molecular design.</p>
+
+<p class="aboutElementDetailParagraph">Bromine's isotopic composition features two stable variants: bromine-79 and bromine-81, with bromine-79 being the more prevalent isotope. Isotopic studies, a key tool in understanding elemental behavior, provide insights into bromine's dynamics within environmental, geochemical, and industrial contexts.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of bromine unfolds with the discovery credited to French chemist Antoine Jérôme Balard in the mid-19th century. Balard's isolation of bromine marked a significant chapter in the exploration of halogens, contributing to the expanding knowledge of elements and their potential applications.</p>
+
+<p class="aboutElementDetailParagraph">As we traverse the expansive landscape of bromine's properties and applications, from its liquid state to its critical roles in flame retardants and organic synthesis, the element emerges as a testament to the versatility embedded in the periodic table and its enduring impact on scientific and industrial progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Bromine" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

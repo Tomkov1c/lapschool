@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Scandium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Sc</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">21</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">44.96</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Scandium, an exceptional member of the transition metals, possesses unique attributes that distinguish it in the realm of materials science and advanced technologies. Represented by the symbol Sc and holding atomic number 21, scandium's nuanced characteristics contribute to its pivotal role in shaping various industrial sectors.</p>
+
+<p class="aboutElementDetailParagraph">Physically, scandium is characterized by its silvery-white appearance, and its relatively low density and high melting point make it a standout among metals. Classified as a rare earth element, scandium's scarcity belies its significant impact, particularly in the realm of alloy development.</p>
+
+<p class="aboutElementDetailParagraph">One of the hallmark applications of scandium lies in its role as a critical alloying element in the production of aluminum-scandium alloys. These alloys, prized for their extraordinary strength-to-weight ratio, have found indispensable applications in aerospace engineering. Aircraft components, such as fuselage structures and landing gear, benefit from the lightweight and robust nature of scandium-infused alloys.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its contributions to aerospace, scandium is a key player in the burgeoning field of energy technologies. Ongoing research explores its potential in solid oxide fuel cells (SOFCs), where its high-temperature stability and electrical conductivity could pave the way for more efficient and sustainable energy conversion.</p>
+
+<p class="aboutElementDetailParagraph">Scandium's isotopic composition adds another layer to its scientific intrigue. Among its isotopes, scandium-45 stands out as the most stable, contributing to the element's overall stability and suitability for various applications.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of scandium is intertwined with its discovery in 1879 by Swedish chemist Lars Fredrik Nilson. Although initially isolated from rare minerals, scandium's true potential began to unfold with advancements in alloy development and materials science in the 20th century.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the multifaceted world of scandium, its influence spans from the microscopic scale of material structures to the macroscopic landscape of technological innovation. From enhancing the performance of aerospace components to contributing to the quest for cleaner energy, scandium stands as a testament to the transformative power of elemental properties.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Scandium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

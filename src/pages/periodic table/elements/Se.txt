@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Selenium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Se</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">34</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">78.97</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Nonmetal</span></p>
+
+<p class="aboutElementDetailParagraph">Selenium, a nonmetallic protagonist in the elemental saga, unveils its captivating narrative through essential biological roles and pioneering contributions to renewable energy. Represented by the symbol Se and bearing atomic number 34, selenium stands as a testament to the intricate interplay between science, technology, and sustainability.</p>
+
+<p class="aboutElementDetailParagraph">Physically, selenium's chameleon-like nature is evident in its allotropes, with the gray crystalline form asserting stability. As a nonmetal, selenium boasts a diverse range of properties, making it a versatile player in various realms, from biology to industry.</p>
+
+<p class="aboutElementDetailParagraph">In the biological symphony, selenium emerges as an indispensable micronutrient. Its integration into amino acids gives rise to selenoproteins, silent guardians with antioxidant prowess. These molecular sentinels contribute to cellular health, participating in the orchestration of vital biochemical processes.</p>
+
+<p class="aboutElementDetailParagraph">Venturing into the corridors of industry, selenium ascends to a crucial role in the realm of renewable energy. As a cornerstone in photovoltaic technology, selenium's photoconductive abilities enable the transformation of sunlight into electricity. Its presence in solar panels underscores its contribution to sustainable energy solutions.</p>
+
+<p class="aboutElementDetailParagraph">Selenium's isotopic ballet, with selenium-80 leading the stable ensemble, becomes a symphony of exploration. Isotopic studies unravel the dynamic behavior of selenium in geological, environmental, and biological systems, enriching our understanding of its multifaceted impact.</p>
+
+<p class="aboutElementDetailParagraph">The historical overture of selenium unfolds with the pioneering notes of Swedish chemist Jöns Jakob Berzelius in the early 19th century. Selenium's discovery marked the beginning of its journey from laboratory curiosity to a linchpin in scientific exploration and technological innovation.</p>
+
+<p class="aboutElementDetailParagraph">As we traverse the expansive landscape of selenium, from its molecular intricacies within living organisms to its pivotal role in harnessing solar energy, the element resonates as a symbol of harmonious coexistence between scientific understanding and sustainable progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Selenium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

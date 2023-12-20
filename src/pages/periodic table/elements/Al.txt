@@ -1,0 +1,27 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Aluminum</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Al</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">13</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">26.982</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Post-Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Aluminum, a versatile post-transition metal, is widely utilized in various industries and everyday products. Represented by the symbol Al and possessing atomic number 13, aluminum stands out for its lightness, corrosion resistance, and conductivity.</p>
+
+<p class="aboutElementDetailParagraph">Physically, aluminum is a silvery-white metal known for its low density. It is nonmagnetic, malleable, and ductile, making it highly adaptable for various applications. The corrosion resistance of aluminum is a key feature, contributing to its durability in diverse environments.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of aluminum is in the construction and transportation industries. Its combination of low weight and high strength makes it an ideal material for the manufacturing of aircraft, automobiles, and structural components in buildings and bridges.</p>
+
+<p class="aboutElementDetailParagraph">Aluminum is a good conductor of electricity, and it is widely used in electrical transmission lines, wiring, and components. Its conductivity and lightweight nature contribute to the efficiency and performance of electrical systems.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, aluminum is not considered an essential element for life. However, its salts have been used in various industrial and household products. Some studies have explored the potential health effects of aluminum exposure, leading to ongoing research in this area.</p>
+
+<p class="aboutElementDetailParagraph">In the production of aluminum, bauxite ore is the primary source. The Hall-Héroult process, developed in the late 19th century, revolutionized aluminum production by allowing the extraction of aluminum from bauxite on an industrial scale. This process is still widely used today.</p>
+
+<p class="aboutElementDetailParagraph">Isotopes of aluminum include aluminum-27, the stable and most abundant isotope. Aluminum-26, a radioactive isotope, has applications in dating extraterrestrial objects, such as meteorites, by measuring its decay over time.</p>
+
+<p class="aboutElementDetailParagraph">The historical context of aluminum is marked by its once-exotic status and high cost. In the 19th century, aluminum was considered more valuable than gold. The development of efficient extraction methods transformed aluminum into a widely accessible and economically viable material.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the modern world, aluminum continues to be an integral part of our daily lives. Its contributions to transportation, construction, and technology underscore its importance in shaping the contemporary landscape.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Aluminum" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

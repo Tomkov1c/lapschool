@@ -1,0 +1,27 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Sodium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Na</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">11</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">22.990</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkali Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Sodium, a foundational alkali metal, occupies a central role in the realms of chemistry, biology, and industry. Recognized by the symbol Na and possessing atomic number 11, sodium's unique properties make it a versatile and indispensable element in various applications.</p>
+
+<p class="aboutElementDetailParagraph">Physically, sodium exhibits characteristics of a soft, silvery-white metal with a lustrous surface. Its reactivity is notable, quickly tarnishing in the presence of air. As a representative of the alkali metal group, sodium is distinguished by its high reactivity and ability to form alkaline solutions when combined with water.</p>
+
+<p class="aboutElementDetailParagraph">One of the prominent and well-known reactions involving sodium is its vigorous response with water, producing sodium hydroxide and hydrogen gas. This property finds practical application in industries involved in soap and detergent manufacturing, showcasing the chemical versatility of sodium.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its chemical applications, sodium plays a vital role in biological systems. Sodium ions are essential for maintaining electrolyte balance, influencing nerve function, and contributing to muscle contraction. Common dietary sources of sodium include sodium chloride (table salt).</p>
+
+<p class="aboutElementDetailParagraph">In the industrial landscape, sodium's applications extend to the production of various chemicals. Sodium hydroxide, sodium carbonate, and sodium bicarbonate are key compounds utilized in processes such as paper manufacturing, water treatment, and the food industry.</p>
+
+<p class="aboutElementDetailParagraph">Isotopes of sodium include sodium-23, the stable and most abundant isotope. Sodium-24, a radioactive isotope, has applications in tracer studies and nuclear medicine, contributing to advancements in medical diagnostics and research.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of sodium dates back to ancient times when it was utilized for culinary and medicinal purposes. Sir Humphry Davy's groundbreaking work in 1807, isolating sodium through the electrolysis of sodium hydroxide, marked a pivotal moment in the understanding of alkali metals.</p>
+
+<p class="aboutElementDetailParagraph">As scientific exploration progresses, ongoing research delves into emerging aspects of sodium's behavior and applications. Understanding its role in biological systems and exploring new avenues in materials science and technology contribute to the evolving significance of sodium in the scientific community.</p>
+
+<p class="aboutElementDetailParagraph">In conclusion, sodium's multifaceted nature, from its foundational contributions to chemistry to its vital functions in biology and industry, underscores its importance. As we continue to uncover the intricacies of this alkali metal, sodium remains a linchpin element shaping our understanding and technological progress.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Sodium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

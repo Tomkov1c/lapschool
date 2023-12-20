@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Phosphorus</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">P</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">15</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">30.974</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Nonmetal</span></p>
+
+<p class="aboutElementDetailParagraph">Phosphorus, a versatile nonmetal, plays a pivotal role in various domains, ranging from agriculture to biology and industry. Represented by the symbol P and possessing atomic number 15, phosphorus exhibits diverse properties and profound impacts on the natural and technological world.</p>
+
+<p class="aboutElementDetailParagraph">Physically, phosphorus has multiple allotropes, with white phosphorus and red phosphorus being the most common. White phosphorus is known for its reactivity and luminescence in the dark, while red phosphorus is more stable and finds applications in safety matches and other products, showcasing the element's intriguing characteristics.</p>
+
+<p class="aboutElementDetailParagraph">Agriculture stands as a primary beneficiary of phosphorus, with phosphates being essential components of fertilizers. These compounds play a crucial role in enhancing plant growth, root development, and the efficient transfer of energy within cells, contributing significantly to global food production.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, phosphorus is a fundamental building block of life. It is a key component of DNA and RNA, playing a central role in genetic information storage and transfer. Adenosine triphosphate (ATP), a molecule vital for cellular energy transfer, relies on phosphorus for its structure, highlighting phosphorus's significance in cellular processes.</p>
+
+<p class="aboutElementDetailParagraph">In industry, phosphorus compounds find applications in diverse sectors. From the production of detergents to flame retardants, phosphorus plays a crucial role in the synthesis of various chemicals. While white phosphorus has historical associations with warfare, its use is limited today due to environmental and health concerns.</p>
+
+<p class="aboutElementDetailParagraph">Isotopes of phosphorus include phosphorus-31, a stable isotope commonly employed in nuclear magnetic resonance (NMR) spectroscopy. This technique is invaluable in structural analysis in fields such as chemistry and biology, contributing to advancements in scientific research.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of phosphorus is marked by its discovery in the 17th century by Hennig Brand. Originally pursued in the alchemical quest for the philosopher's stone, the isolation of phosphorus represented a breakthrough in the understanding of elements and their properties, shaping the foundations of modern chemistry.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the intricate web of natural and technological ecosystems, phosphorus remains a linchpin element. Its far-reaching contributions, from sustaining agricultural productivity to serving as a cornerstone in biological processes, underscore its enduring importance in shaping the world we live in.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Phosphorus" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

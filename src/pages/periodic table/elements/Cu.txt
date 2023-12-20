@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Copper</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Cu</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">29</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">63.55</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Copper, a venerable and indispensable metal, has left an indelible mark on human civilization through its myriad applications. Represented by the symbol Cu and holding atomic number 29, copper's distinctive properties make it a cornerstone in electrical conductivity, construction, and artistic endeavors.</p>
+
+<p class="aboutElementDetailParagraph">Physically, copper boasts a characteristic reddish-brown hue and malleable nature, allowing it to be shaped into intricate forms. Its exceptional thermal and electrical conductivity make it a primary choice in electrical wiring, where it forms the backbone of power transmission and distribution systems worldwide.</p>
+
+<p class="aboutElementDetailParagraph">Copper's role in construction extends beyond its electrical prowess. It has been used for millennia in architectural elements, roofing, and piping. The durability and corrosion resistance of copper contribute to its longevity, with iconic structures showcasing its timeless appeal.</p>
+
+<p class="aboutElementDetailParagraph">Artistically, copper finds expression in sculptures, jewelry, and architectural ornamentation. The greenish patina that forms over time gives copper a distinct aesthetic charm. This patina, known as verdigris, not only enhances its visual appeal but also provides a protective layer, preventing further corrosion.</p>
+
+<p class="aboutElementDetailParagraph">In the realm of health, copper is an essential trace element with antimicrobial properties. Its use in various applications, including hospital surfaces and medical equipment, contributes to maintaining hygienic environments and preventing the spread of infections.</p>
+
+<p class="aboutElementDetailParagraph">Copper has multiple isotopes, with copper-63 and copper-65 being the most abundant and stable. Isotopic studies offer insights into copper's behavior in geological, environmental, and biological systems.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of copper spans civilizations, with its use dating back to ancient times. From the Bronze Age to the modern era, copper has played a crucial role in technological advancements and cultural expressions.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the versatile landscape of copper, its influence in powering our homes, shaping our architectural marvels, and adorning our artistic creations becomes apparent. Copper's enduring legacy reflects its status as a metal that not only conducts electricity but also conducts the symphony of human innovation and creativity.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Copper" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

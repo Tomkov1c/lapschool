@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Calcium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ca</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">20</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">40.08</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkaline Earth Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Calcium, a vital alkaline earth metal, is essential for various biological functions and has diverse applications in industry. Represented by the symbol Ca and possessing atomic number 20, calcium is known for its role in bone health, muscle contractions, and its presence in various minerals.</p>
+
+<p class="aboutElementDetailParagraph">Physically, calcium is a silvery-white metal that is relatively hard and reacts with water, albeit not as vigorously as alkali metals. It is a key component of bones and teeth in animals and humans, providing structural support and contributing to the regulation of various physiological processes.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of calcium is in the construction industry. Calcium compounds, such as calcium carbonate, are used in the production of cement, concrete, and various building materials. Calcium oxide (quicklime) is also employed in construction and as a chemical reagent.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, calcium is crucial for nerve transmission, muscle contraction, and blood clotting. It serves as a second messenger in cellular signaling pathways, regulating numerous cellular processes. Adequate calcium intake is essential for maintaining bone density and preventing conditions like osteoporosis.</p>
+
+<p class="aboutElementDetailParagraph">In industry, calcium is used in the production of steel, aluminum, and various alloys. It is also employed in water treatment processes to remove impurities and soften water. Calcium carbonate has applications in the paper and pharmaceutical industries, contributing to the production of paper and medications.</p>
+
+<p class="aboutElementDetailParagraph">Calcium has several isotopes, with calcium-40 being the most abundant and stable isotope. Calcium-41 is used in radiometric dating, providing insights into the age of geological formations and archaeological artifacts.</p>
+
+<p class="aboutElementDetailParagraph">The historical context of calcium is intertwined with its recognition in ancient times for its role in building materials and biological structures. Over the centuries, advancements in chemistry and biology have deepened our understanding of calcium's significance in both natural and industrial processes.</p>
+
+<p class="aboutElementDetailParagraph">As we explore the multifaceted nature of calcium, its indispensable roles in biology and industry highlight its importance in maintaining health and contributing to the development of human civilization.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Calcium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

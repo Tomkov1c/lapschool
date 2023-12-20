@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Zinc</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Zn</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">30</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">65.38</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Zinc, a silent hero among the transition metals, orchestrates a symphony of contributions in diverse fields, from metallurgy to medicine. Represented by the symbol Zn and holding atomic number 30, zinc's unassuming bluish-white exterior belies its essential role in galvanization, health, and alloy craftsmanship.</p>
+
+<p class="aboutElementDetailParagraph">Physically, zinc unveils itself as a metal endowed with a bluish-white hue and a notable resistance to corrosion. Its most celebrated role lies in galvanization, a process where a protective layer of zinc shields iron and steel from the ravages of corrosion. This application permeates the realms of construction, infrastructure, and the automotive industry, fortifying structures against the relentless march of time.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its industrial prowess, zinc steps into the limelight in the domain of health. As an essential trace element, zinc is a linchpin in the proper functioning of enzymes and the immune system. Its inclusion in dietary supplements addresses zinc deficiencies, serving as a guardian of overall health and well-being.</p>
+
+<p class="aboutElementDetailParagraph">In the intricate dance of metallurgy, zinc finds a partner in the creation of alloys, most notably brass. This harmonious blend of copper and zinc lends itself to musical instruments, plumbing fittings, and ornate artifacts, embodying durability and aesthetic appeal.</p>
+
+<p class="aboutElementDetailParagraph">Zinc's isotopic ensemble unfolds with zinc-64 as the maestro, orchestrating its stability and prevalence. Isotopic studies become a melodic journey, unveiling zinc's nuances in geological, environmental, and biological contexts.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of zinc threads through time, with ancient whispers of its use in the production of brass. However, it wasn't until the 18th century that the distinct identity of zinc emerged. Chemists such as Andreas Marggraf and Anton von Swab played key roles in isolating pure zinc, opening doors to its industrial applications and cementing its place in the periodic ensemble.</p>
+
+<p class="aboutElementDetailParagraph">As we traverse the versatile symphony of zinc, from its protective embrace in galvanized structures to its silent contribution to our biological harmony, the metal's enduring legacy takes center stage. Zinc, a transition metal with a myriad of roles, echoes through the ages as a testament to the dynamic interplay between elements and the evolution of human understanding.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Zinc" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

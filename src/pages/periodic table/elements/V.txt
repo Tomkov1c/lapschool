@@ -1,0 +1,25 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Vanadium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">V</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">23</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">50.94</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Vanadium, a transition metal, exhibits unique properties that render it valuable in various industrial applications. Represented by the symbol V and possessing atomic number 23, vanadium plays a significant role in alloy production, energy storage, and catalysis.</p>
+
+<p class="aboutElementDetailParagraph">Physically, vanadium is a hard, silvery-grey metal with a high melting point. It is often alloyed with other metals to impart specific characteristics. Vanadium alloys, known for their strength and heat resistance, find applications in the aerospace industry, where they contribute to the construction of jet engines and other high-stress components.</p>
+
+<p class="aboutElementDetailParagraph">One of the notable applications of vanadium is in energy storage. Vanadium redox flow batteries (VRFBs) utilize the ability of vanadium ions to exist in multiple oxidation states, providing a scalable and efficient solution for storing renewable energy. VRFBs are considered a promising technology for grid-level energy storage.</p>
+
+<p class="aboutElementDetailParagraph">Vanadium is also employed as a catalyst in the production of sulfuric acid, a crucial industrial chemical. The vanadium(V) oxide catalyst facilitates the oxidation of sulfur dioxide to sulfur trioxide, a key step in sulfuric acid synthesis.</p>
+
+<p class="aboutElementDetailParagraph">In the realm of metallurgy, vanadium steel, known for its toughness and shock resistance, is utilized in applications such as tools, springs, and high-stress components. Vanadium's strengthening effect on steel has made it a sought-after alloying element in the production of high-performance steel alloys.</p>
+
+<p class="aboutElementDetailParagraph">Vanadium has several isotopes, with vanadium-51 being the most abundant and stable. These isotopes contribute to the diverse properties exhibited by vanadium in different contexts.</p>
+
+<p class="aboutElementDetailParagraph">The historical context of vanadium involves its discovery in 1801 by the Spanish-Mexican mineralogist Andrés Manuel del Río. However, due to a dispute over the discovery, vanadium was independently rediscovered and isolated in 1830 by the Swedish chemist Nils Gabriel Sefström.</p>
+
+<p class="aboutElementDetailParagraph">As we explore the multifaceted nature of vanadium, its contributions to metallurgy, energy storage, and catalysis underscore its importance in advancing technology and addressing contemporary challenges in energy and industry.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Vanadium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>
