@@ -59,16 +59,95 @@
         display: inline-flex;
     }
 }
-:root {
-    --colorTypeAlkali: #A5A679;
-    --colorLanthenides: #7980A6;
-    --colorActinides: #A67979;
-    --colorTransitionMetals: #79A679;
-    --colorHalogens: #79A6A2;
-    --colorNobleGasses: #A68F79;
-    --colorOtherNonMetals: #79A68A;
+@keyframes filterMenu {
+    0%  {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0.4) translateY(-60vh);
+        opacity: 0.5;
+    }
+}
+@keyframes filterMenuReverse {
+    0%  {
+        transform: scale(0.4) translateY(-60vh);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
 }
 
+
+/*                          */
+/*                          */
+/*                          */
+/*                          */
+/*      Element Groups      */
+[data-group = "Active_nonmetal"],
+.cell[data-group = "Active_nonmetal"] *,
+.cellNoHover[data-group = "Active_nonmetal"] *{
+    background-color: #97C4A4 !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_alkali"],
+.cell[data-group = "Active_alkali"] *,
+.cellNoHover[data-group = "Active_alkali"] *{
+    background-color: #CA6D7F !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_halogens"],
+.cell[data-group = "Active_halogens"] *,
+.cellNoHover[data-group = "Active_halogens"] *{
+    background-color: #CFC99D !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_metaloids"],
+.cell[data-group = "Active_metaloids"] *,
+.cellNoHover[data-group = "Active_metaloids"] *{
+    background-color: #B1AA9C !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_nobleGases"],
+.cell[data-group = "Active_nobleGases"] *,
+.cellNoHover[data-group = "Active_nobleGases"] *{
+    background-color: #A7C5DA !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_alkaliMetals"],
+.cell[data-group = "Active_alkaliMetals"] *,
+.cellNoHover[data-group = "Active_alkaliMetals"] *{
+    background-color: #CDB6A9 !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_lanthanides"],
+.cell[data-group = "Active_lanthanides"] *,
+.cellNoHover[data-group = "Active_lanthanides"] *{
+    background-color: #CEA5B7 !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+[data-group = "Active_poorMetals"],
+.cell[data-group = "Active_poorMetals"] *,
+.cellNoHover[data-group = "Active_poorMetals"] *{
+    background-color: #AFABBC !important;
+    color: var(--colorBackground) !important;
+    border-radius: 7px !important;
+}
+
+/*                          */
+/*                          */
+/*                          */
+/*                          */
+/*          Other           */
 * {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -106,7 +185,7 @@ a {
 
     display: flex;
 }
-.otherButtonsButton {
+#otherButtonsButton {
     color: var(--colorPrimary);
 
     display: inline-flex;
@@ -124,19 +203,20 @@ a {
     cursor: pointer;
 
     opacity: 0.2;
+    z-index: 99;
 
     transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
-.otherButtonsButton:last-of-type {
+#otherButtonsButton:last-of-type {
     margin-right: 0;
 }
-.otherButtonsButton:hover {
+#otherButtonsButton:hover {
     color: var(--colorPrimary);
     background-color: var(--colorSecundary);
 
     opacity: 1;
 }
-.otherButtonsButton i {
+#otherButtonsButton i {
     margin-left: auto;
     margin-right: 1vw;
 
@@ -146,7 +226,7 @@ a {
     margin-bottom: auto;
 
 }
-.otherButtonsButton p {
+#otherButtonsButton p {
     margin-left: 0;
     margin-right: auto;
 
@@ -404,7 +484,7 @@ a {
 
     text-align: justify;
 
-    padding-top: 1gvh;
+    padding-top: 1vh;
 }
 #aboutElementDetailLinks {
     position: relative;
@@ -454,3 +534,67 @@ a {
     padding: auto;
     padding-left: 0.4vw;
 }
+
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*              Advanced Settings                   */
+#advancedSettings {
+    position: fixed;
+
+    width: 80vw;
+    height: 46vh;
+    margin: 0 10vw;
+    margin-top: 45vh;
+}
+#advancedSettings h1{        
+    color: var(--colorText);
+    font-family: Mulish;
+    font-size: 2rem;
+
+    padding: 2vh;
+}      
+.advancedSettingsButtonWrapper {
+    display: flex;
+
+    margin-top: 2vh;
+}
+.advancedSettingsButtonWrapper p{
+    color: var(--colorTextOff);
+    font-family: Mulish;
+    font-size: 1.2rem;
+
+    font-style: italic;
+
+    margin: auto 0;
+
+    margin-left: 10vw;
+    margin-right: auto;
+
+    justify-content: right;
+}
+#advancedSettings button{
+    background-color: var(--colorSecundary);
+    padding: 2vh;
+    margin-left: 1vw;
+    width: 20%;
+
+    display: block;
+    
+    color: var(--colorText);
+    font-family: Mulish;
+    font-size: 1.2rem;
+
+    border: 0px solid transparent;
+    border-radius: 12px;
+
+    cursor: pointer;
+} 
+.advancedSettingsActiveButton{
+    background-color: var(--colorPrimary);
+}   

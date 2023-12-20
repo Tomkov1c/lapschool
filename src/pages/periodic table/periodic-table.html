@@ -15,7 +15,7 @@
 
         </div>
         <div id="otherButtons">
-            <div class="otherButtonsButton" onclick=""><i class="fa-solid fa-filter"></i><p>Filters</p></div>
+            <div id="otherButtonsButton" data-status="toOpen" onclick="advancedClick(this)"><i class="fa-solid fa-circle-plus"></i><p>Advanced</p></div>
         </div>
     </section>
     <section id="aboutElement">
@@ -31,6 +31,17 @@
         <div id="aboutElementDetail">
             
 
+        </div>
+    </section>
+    <section id="advancedSettings">
+        <h1>Periodic Table Display Settings</h1>
+        <div class="advancedSettingsButtonWrapper">
+            <button onclick="SettingsDisplayGroups(this)" data-active="false">Display Groups</button>
+            <p>Make the background of an element colored, making it easier to quickly identify the element's group.</p>
+        </div>
+        <div class="advancedSettingsButtonWrapper">
+            <button>Display Radioactive</button>
+            <p>Give a small icon to the top right of an element indicating if it's radioactive.</p>
         </div>
     </section>
 </body>
