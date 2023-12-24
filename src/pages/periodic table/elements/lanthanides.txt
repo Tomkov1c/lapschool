@@ -1,0 +1,106 @@
+<div class="row">
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">57</p>
+    <h1 class="elementSymbol" translate="no">La</h1>
+    <h3 class="elementName">Lanthanum</h3>
+    <h6 class="atomicMass">138.91</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">58</p>
+    <h1 class="elementSymbol" translate="no">Ce</h1>
+    <h3 class="elementName">Cerium</h3>
+    <h6 class="atomicMass">140.12</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">59</p>
+    <h1 class="elementSymbol" translate="no">Pr</h1>
+    <h3 class="elementName">Praseodymium</h3>
+    <h6 class="atomicMass">140.91</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">60</p>
+    <h1 class="elementSymbol" translate="no">Nd</h1>
+    <h3 class="elementName">Neodymium</h3>
+    <h6 class="atomicMass">144.24</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">61 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Pm</h1>
+    <h3 class="elementName">Promethium</h3>
+    <h6 class="atomicMass">(145)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">62</p>
+    <h1 class="elementSymbol" translate="no">Sm</h1>
+    <h3 class="elementName">Samarium</h3>
+    <h6 class="atomicMass">150.36</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">63</p>
+    <h1 class="elementSymbol" translate="no">Eu</h1>
+    <h3 class="elementName">Europium</h3>
+    <h6 class="atomicMass">151.96</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">64</p>
+    <h1 class="elementSymbol" translate="no">Gd</h1>
+    <h3 class="elementName">Gadolinium</h3>
+    <h6 class="atomicMass">157.25</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">65</p>
+    <h1 class="elementSymbol" translate="no">Tb</h1>
+    <h3 class="elementName">Terbium</h3>
+    <h6 class="atomicMass">158.93</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">66</p>
+    <h1 class="elementSymbol" translate="no">Dy</h1>
+    <h3 class="elementName">Dysprosium</h3>
+    <h6 class="atomicMass">162.50</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">67</p>
+    <h1 class="elementSymbol" translate="no">Ho</h1>
+    <h3 class="elementName">Holmium</h3>
+    <h6 class="atomicMass">164.93</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">68</p>
+    <h1 class="elementSymbol" translate="no">Er</h1>
+    <h3 class="elementName">Erbium</h3>
+    <h6 class="atomicMass">167.26</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">69</p>
+    <h1 class="elementSymbol" translate="no">Tm</h1>
+    <h3 class="elementName">Thulium</h3>
+    <h6 class="atomicMass">168.93</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">70</p>
+    <h1 class="elementSymbol" translate="no">Yb</h1>
+    <h3 class="elementName">Ytterbium</h3>
+    <h6 class="atomicMass">173.04</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="lanthanides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">71</p>
+    <h1 class="elementSymbol" translate="no">Lu</h1>
+    <h3 class="elementName">Lutetium</h3>
+    <h6 class="atomicMass">174.97</h6>
+</div>
+</div>

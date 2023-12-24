@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Tellurium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Te</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">52</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">127.60</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metalloids</span></p>
+
+<p class="aboutElementDetailParagraph">Tellurium, a captivating and versatile metalloid, unravels a narrative woven with distinctive properties, widespread applications, and a historical journey that mirrors the evolving relationship between science and technology. With the symbol Te and elegantly positioned at atomic number 52, tellurium beckons us to delve deeper into its physical characteristics, its pivotal roles in various industries such as electronics and renewable energy, the intricate dance of its isotopes, and the compelling story of its discovery and utilization by humankind.</p>
+
+<p class="aboutElementDetailParagraph">Physically, tellurium presents itself as a lustrous, brittle, and silvery-white metalloid, exhibiting both metallic and non-metallic properties. Its semiconductor nature makes tellurium a crucial element in the electronics industry, contributing to the production of phase-change memory devices and certain types of sensors. Moreover, tellurium's alloying capabilities play a significant role in enhancing the properties of specific alloys used in metallurgical processes.</p>
+
+<p class="aboutElementDetailParagraph">The isotopic landscape of tellurium is diverse, boasting eight stable isotopes. Among these, tellurium-128, with its highest natural abundance, becomes a key player in scientific studies, environmental monitoring, and various applications across different fields.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of tellurium begins with its discovery in the late 18th century. Franz-Joseph Müller von Reichenstein identified the element in 1782, and Martin Heinrich Klaproth successfully isolated it in 1798. The naming of tellurium, derived from the Latin word "tellus" meaning Earth, reflects its connection to the Earth's crust and its abundance in the planet's composition.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary applications, tellurium plays a crucial role in the realm of renewable energy. It is a key component in certain types of thin-film solar cells, such as cadmium telluride (CdTe) and copper indium gallium selenide (CIGS). These technologies contribute significantly to the development of efficient and cost-effective photovoltaic devices, furthering the advancement of sustainable energy solutions.</p>
+
+<p class="aboutElementDetailParagraph">Tellurium's multifaceted nature, spanning the realms of electronics, metallurgy, and renewable energy, positions it as a valuable and indispensable element in advancing technology and addressing the challenges of the modern era. Its journey from discovery to contemporary applications reflects the ongoing synergy between scientific exploration and technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Tellurium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

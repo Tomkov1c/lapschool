@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Iodine</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">I</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">53</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">126.90</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Halogens</span></p>
+
+<p class="aboutElementDetailParagraph">Iodine, an essential halogen, unfolds a story characterized by its distinctive properties, crucial roles in human health, and a historical journey interwoven with scientific discovery and societal impact. Carrying the symbol I and gracefully positioned at atomic number 53, iodine invites exploration into its physical characteristics, applications in medicine and industry, isotopic diversity, and the captivating tale of its discovery and widespread use.</p>
+
+<p class="aboutElementDetailParagraph">Physically, iodine exhibits a unique violet-black color in its solid form, and its distinctive purple vapor. As a halogen, iodine plays a vital role in biological systems, particularly as an essential component for the production of thyroid hormones. Its radioisotope, iodine-131, finds use in medical treatments, including thyroid cancer therapy and diagnostic imaging.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, iodine displays a variety of stable isotopes, with iodine-127 being the most abundant. The study of iodine isotopes contributes to understanding its behavior in environmental processes, such as the iodine cycle in nature and its role in geochemistry.</p>
+
+<p class="aboutElementDetailParagraph">Historically, iodine's discovery is attributed to the French chemist Bernard Courtois in 1811. Courtois accidentally discovered iodine while extracting sodium carbonate from seaweed ash. The element's name is derived from the Greek word "iodes," meaning violet, acknowledging its distinctive color.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary applications, iodine's significance extends beyond its role in medicine. It is used in various industries, including the production of chemicals, dyes, and as a disinfectant. Iodine's antiseptic properties make it valuable in the formulation of solutions used for wound care and sterilization.</p>
+
+<p class="aboutElementDetailParagraph">Iodine's impact on human health cannot be overstated. The inclusion of iodine in salt, known as iodized salt, is a global public health initiative to prevent iodine deficiency disorders. Iodine's essential role in thyroid function underscores its importance for overall well-being.</p>
+
+<p class="aboutElementDetailParagraph">The story of iodine is one of scientific curiosity, accidental discovery, and enduring contributions to human health and industry. Its journey from the laboratories of 19th-century chemists to its vital roles in contemporary medicine and beyond exemplifies the dynamic interplay between science, technology, and societal well-being.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Iodine" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

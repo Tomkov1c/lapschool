@@ -5,14 +5,14 @@ elementShowcase.style.opacity = '0';
 elementShowcase.style.display = 'none';
 advancedSettings.style.display = 'none';
 
-// Fetch all of the table
-var filePath = "periodic-table.txt";
-fetch(filePath)
-.then(response => response.text())
-.then(content => {
-    document.getElementById('section').innerHTML = content;
-})
-
+// // Fetch all of the table (not needed anymore)
+// var filePath = "periodic-table.txt";
+// fetch(filePath)
+// .then(response => response.text())
+// .then(content => {
+//     document.getElementById('section').innerHTML = content;
+// })
+// //
 
 
 
@@ -38,6 +38,23 @@ function DisplayInfo (symbol) {
 
 
 function OnLoad() {
+    var displayGroup = localStorage.getItem('groups');
+    if (displayGroup == "display") {
+        SettingsDisplayGroups()
+
+        var element = document.getElementsByClassName("cell");
+        for(i = 0; i < element.length; i++) {
+            element[i].dataset.group = "Active_" + element[i].dataset.group;
+        }
+        
+    }
+
+    var displayRadioactive = localStorage.getItem('radioactive');
+    if (displayRadioactive == "display") {
+        SettingsDisplayRadioactive()
+    }
+
+
     if(document.location.hash == "") {
 
     }else if (document.location.hash === "#")
@@ -92,12 +109,28 @@ function hover(e) {
                     elementsWithClass[i].style.zindx = '7';
                 }
             }
+        var elementsWithClass = document.getElementsByClassName('cellLaAc');
+            // Loop through the elements and do something with them
+            for (var i = 0; i < elementsWithClass.length; i++) {
+                if (!elementsWithClass[i].matches(":hover"))
+                {
+                    elementsWithClass[i].style.opacity = '0.3';
+                    elementsWithClass[i].style.zindx = '7';
+                }
+            }
         }
 }
 
 function leave(e) {
     if (!clicked) {
         var elementsWithClass = document.getElementsByClassName('cell');
+
+            // Loop through the elements and do something with them
+            for (var i = 0; i < elementsWithClass.length; i++) {
+                elementsWithClass[i].style.opacity = '1';
+                elementsWithClass[i].style.zindx = '3';
+            }
+        var elementsWithClass = document.getElementsByClassName('cellLaAc');
 
             // Loop through the elements and do something with them
             for (var i = 0; i < elementsWithClass.length; i++) {
@@ -139,14 +172,12 @@ function selectElement(e) {
 
         clicked = true;
         elementShowcase.style.display = 'block';
+        document.getElementById("aboutElement").style.display = "flex";
 
 
-        var elementsWithClass = document.getElementsByClassName('wrapper');
+        var elementsWithClass = document.getElementById('all');
         
-
-        for (var i = 0; i < elementsWithClass.length; i++) {
-            elementsWithClass[i].style.animation="element 0.7s ease-in-out forwards";
-        }
+            elementsWithClass.style.animation="element 0.7s ease-in-out forwards";
 
         elementShowcase.style.animation="elementShowcase 0.7s ease-in-out forwards";
 
@@ -169,6 +200,7 @@ function selectElement(e) {
         setTimeout(function(){
             elementDetail.style.display = 'block';
         }, 500);
+        
     }else {
         clicked = false
         selectElementReverse();
@@ -182,12 +214,9 @@ function selectElementReverse(e) {
 
     clicked = false;
     elementDetail.style.display = 'none';
-    var elementsWithClass = document.getElementsByClassName('wrapper');
-    
+    var elementsWithClass = document.getElementById('all');
 
-    for (var i = 0; i < elementsWithClass.length; i++) {
-        elementsWithClass[i].style.animation="elementReverse 0.7s ease-in-out forwards";
-    }
+        elementsWithClass.style.animation="elementReverse 0.7s ease-in-out forwards";
 
     elementShowcase.style.animation="elementShowcaseReverse 0.7s ease-in-out forwards";
 
@@ -196,8 +225,11 @@ function selectElementReverse(e) {
         elementDetail.style.display = 'none';
     }, 200);
     setTimeout(function(){
-        document.getElementById("otherButtons").style.animation="filterMoveReverse 0.7s ease-in-out forwards";
-    }, 100);
+        document.getElementById("otherButtons").style.animation="filterMoveReverse 0.3s ease-in-out forwards";
+    }, 450);
+    setTimeout(function(){
+        document.getElementById("aboutElement").style.display = "none";
+    }, 400);
 }
 
 function getInnerHTMLByClassWithinElement(className, parentElement) {
@@ -210,6 +242,25 @@ function getInnerHTMLByClassWithinElement(className, parentElement) {
     return innerHTMLArray;
 }
 
+//
+//
+//  Lanthanides / Actinides Section
+function LaAcShow () {
+
+    document.getElementById("section").style.animation="elementLaAcTable 0.7s ease-in-out forwards";
+    document.getElementById("LaAcSection").style.animation="elementLaAc 0.7s ease-in-out forwards";
+
+    var elements = document.getElementsByClassName("cell");
+        for(i = 0; i < elements.length; i++) {
+            elements[i].setAttribute('onclick','');
+            elements[i].setAttribute('onmouseover','');
+        }
+    disableHover()
+}
+
+//
+//
+//  Advanced Settings Section
 function advancedClick(e) {
 
     var status = e.dataset.status;
@@ -218,24 +269,41 @@ function advancedClick(e) {
         e.dataset.status = "toClose";
 
         document.getElementById("section").style.animation="filterMenu 0.7s ease-in-out forwards";
+        document.getElementById("advancedSettings").style.animation="menuFilterMenu 0.7s ease-in-out forwards";
         //document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
         disableHover();
         advancedSettings.style.display = 'block';
 
-        document.getElementById("otherButtonsButton").innerHTML = "<i class=\"fa-solid fa-square-xmark\"></i><p>Close</p>"
+        document.getElementById("otherButtonsButton").innerHTML = "<i class=\"fa-solid fa-square-xmark\"></i><p>Close</p>";
+
+        var elements = document.getElementsByClassName("cellNoHover");
+        for(i = 0; i < elements.length; i++) {
+            elements[i].setAttribute('onclick','');
+        }
 
     }else {
         e.dataset.status = "toOpen";
 
         document.getElementById("section").style.animation="filterMenuReverse 0.7s ease-in-out forwards";
+        document.getElementById("advancedSettings").style.animation="menuFilterMenuReverse 0.7s ease-in-out forwards";
         //document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
         enableHover();
-        advancedSettings.style.display = 'none';
+        setTimeout(function(){
+            advancedSettings.style.display = 'none';
+        }, 700);
 
-        document.getElementById("otherButtonsButton").innerHTML = "<i class=\"fa-solid fa-circle-plus\"></i><p>Advanced</p>"
+        document.getElementById("otherButtonsButton").innerHTML = "<i class=\"fa-solid fa-circle-plus\"></i><p>Advanced</p>";
 
+        var elements = document.getElementsByClassName("cell");
+        for(i = 0; i < elements.length; i++) {
+            if ((elements[i].dataset.group == "lanthanides" || elements[i].dataset.group == "actinides") || elements[i].dataset.group == "Active_lanthanides" || elements[i].dataset.group == "Active_actinides") {
+                elements[i].setAttribute('onclick','LaAcShow()');
+            }else {
+                elements[i].setAttribute('onclick','selectElement(this)');
+            }
+        }
     }
 
 }
@@ -243,25 +311,69 @@ function advancedClick(e) {
 
 
 // Advanced Settings Buttons
-function SettingsDisplayGroups(e) {
+function SettingsDisplayGroups(onload) {
+    var e = document.getElementById("displayGroups");
     var status = e.dataset.active;
 
-    if(status === "false") {
+    if(status === "false" || onload === "hide") {
         e.dataset.active = "true";
+        localStorage.setItem('groups', 'display');
+        saveLocalStorage = localStorage.getItem('groups');
 
         var element = document.getElementsByClassName("cellNoHover");
-
+        for(i = 0; i < element.length; i++) {
+            element[i].dataset.group = "Active_" + element[i].dataset.group;
+        }
+        var element = document.getElementsByClassName("cellLaAc");
         for(i = 0; i < element.length; i++) {
             element[i].dataset.group = "Active_" + element[i].dataset.group;
         }
 
-    }else {
+    }else if (status === "true" || onload === "display"){
         e.dataset.active = "false";
+        localStorage.setItem('groups', 'hide');
+        saveLocalStorage = localStorage.getItem('groups');
 
         var element = document.getElementsByClassName("cellNoHover")
         for(i = 0; i < element.length; i++) {
             element[i].dataset.group = element[i].dataset.group.replace('Active_','');
         }
+        var element = document.getElementsByClassName("cellLaAc")
+        for(i = 0; i < element.length; i++) {
+            element[i].dataset.group = element[i].dataset.group.replace('Active_','');
+        }
 
+    }else {
+
+    }
+}
+
+function SettingsDisplayRadioactive(onload) {
+    var e = document.getElementById("displayRadioactive");
+    var status = e.dataset.active;
+
+    if(status === "true" || onload === "display") {
+        e.dataset.active = "false";
+        localStorage.setItem('radioactive', 'hide');
+        saveLocalStorage = localStorage.getItem('radioactive');
+
+        var elements = document.getElementsByClassName("fa-radiation");
+        for(i = 0; i < elements.length; i++) {
+            elements[i].style.opacity = 0;
+        }
+
+
+    }else if (status === "false" || onload === "hide"){
+        e.dataset.active = "true";
+        localStorage.setItem('radioactive', 'display');
+        saveLocalStorage = localStorage.getItem('radioactive');
+
+        var elements = document.getElementsByClassName("fa-radiation");
+        for(i = 0; i < elements.length; i++) {
+            elements[i].style.opacity = 1;
+        }
+
+    }else {
+        
     }
 }

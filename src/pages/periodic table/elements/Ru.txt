@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Ruthenium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ru</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">44</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">101.07</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Ruthenium, a distinguished member of the transition metals, unveils a story woven with unique properties, diverse applications, and a historical journey that mirrors its ascent from relative obscurity to scientific and industrial prominence. With the symbol Ru and an atomic number of 44, ruthenium beckons exploration into its catalytic prowess, contributions to electronics, and its role in shaping the landscapes of chemistry and materials science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, ruthenium presents itself as a rare and precious metal, characterized by a lustrous sheen and remarkable corrosion resistance. These properties render ruthenium a sought-after component in the production of corrosion-resistant alloys, particularly those used in severe chemical environments. Ruthenium's inclusion enhances the durability and longevity of materials utilized in various industrial applications, from chemical plants to electrical components.</p>
+
+<p class="aboutElementDetailParagraph">Ruthenium's catalytic capabilities amplify its significance in chemical processes. Serving as a catalyst, ruthenium facilitates reactions in the production of chemicals ranging from ammonia to organic compounds. This catalytic versatility extends its influence into the realms of industrial synthesis and environmental remediation, contributing to sustainable and efficient processes.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its industrial prowess, ruthenium finds a niche in the field of electronics. Ruthenium-based compounds exhibit unique electrical and magnetic properties, making them valuable in the development of electronic devices. From advanced memory storage to novel materials for computing, ruthenium's contributions to the electronic frontier underscore its role in shaping the technological landscape.</p>
+
+<p class="aboutElementDetailParagraph">Ruthenium's isotopic composition adds another layer to its story, with several stable isotopes contributing to its varied applications. The isotopic fingerprint of ruthenium is instrumental in studies of nuclear processes, tracing its behavior in geological and cosmic contexts, and understanding its role in the intricate dance of elements in the universe.</p>
+
+<p class="aboutElementDetailParagraph">The historical narrative of ruthenium unfolds against the backdrop of the early 19th century. Discovered in 1844 by Russian chemist Karl Ernst Claus, ruthenium earned its name from "Ruthenia," the Latin name for Russia. Initially overshadowed by its more illustrious counterparts, ruthenium gradually rose to prominence as scientists uncovered its unique properties and applications, cementing its status as a valuable and versatile element.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Ruthenium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

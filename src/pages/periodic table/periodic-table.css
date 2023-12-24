@@ -3,17 +3,58 @@
 
     }
     100% {
-        margin: 5vh 90vw;
+        margin: auto 90vw;
         opacity: 0.4;
     }
 }
 @keyframes elementReverse {
     0%  {
-        margin: 5vh 90vw;
+        margin: auto 90vw;
         opacity: 0.4;
     }
     100% {
-        margin: 5vh 10vw;
+        margin: auto 0;
+        opacity: 1;
+    }
+}
+@keyframes elementLaAcTable {
+    0%  {
+        
+    }
+    100% {
+        transform: translateY(-60vh) scale(0.6);
+        opacity: 0.2;
+    }
+}
+@keyframes elementLaAcTableReverse {
+    0%  {
+        transform: translateY(-60vh) scale(0.6);
+        opacity: 0.2;
+    }
+    100% {
+        transform: translateY(0) scale(1);
+        opacity: 1;
+    }
+}
+@keyframes elementLaAc {
+    0%  {
+        visibility: visible;
+        opacity: 0;
+        transform: translateY(60vh) scale(0.6);
+    }
+    100% {
+        visibility: visible;
+        transform: translateY(0) scale(1);
+        opacity: 1;
+    }
+}
+@keyframes elementLaAcReverse {
+    0%  {
+        transform: translateY(-60vh) scale(0.6);
+        opacity: 0.2;
+    }
+    100% {
+        transform: translateY(0) scale(1);
         opacity: 1;
     }
 }
@@ -41,8 +82,6 @@
 }
 @keyframes filterMove {
     0%  {
-        opacity: 1;
-        display: inline-flex;
     }
     100% {
         opacity: 0;
@@ -79,6 +118,23 @@
         opacity: 1;
     }
 }
+@keyframes menuFilterMenu {
+    0%  {
+        transform: translateY(60vh);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+@keyframes menuFilterMenuReverse {
+    0%  {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(60vh);
+        opacity: 0;
+    }
+}
 
 
 /*                          */
@@ -90,57 +146,73 @@
 .cell[data-group = "Active_nonmetal"] *,
 .cellNoHover[data-group = "Active_nonmetal"] *{
     background-color: #97C4A4 !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 [data-group = "Active_alkali"],
 .cell[data-group = "Active_alkali"] *,
 .cellNoHover[data-group = "Active_alkali"] *{
     background-color: #CA6D7F !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 [data-group = "Active_halogens"],
 .cell[data-group = "Active_halogens"] *,
 .cellNoHover[data-group = "Active_halogens"] *{
     background-color: #CFC99D !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 [data-group = "Active_metaloids"],
 .cell[data-group = "Active_metaloids"] *,
 .cellNoHover[data-group = "Active_metaloids"] *{
     background-color: #B1AA9C !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 [data-group = "Active_nobleGases"],
 .cell[data-group = "Active_nobleGases"] *,
 .cellNoHover[data-group = "Active_nobleGases"] *{
     background-color: #A7C5DA !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 [data-group = "Active_alkaliMetals"],
 .cell[data-group = "Active_alkaliMetals"] *,
 .cellNoHover[data-group = "Active_alkaliMetals"] *{
     background-color: #CDB6A9 !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
+}
+[data-group = "Active_transitional"],
+.cell[data-group = "Active_transitional"] *,
+.cellNoHover[data-group = "Active_transitional"] *{
+    background-color: #CFA5A5 !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    color: var(--colorBackground) !important;
 }
 [data-group = "Active_lanthanides"],
 .cell[data-group = "Active_lanthanides"] *,
-.cellNoHover[data-group = "Active_lanthanides"] *{
+.cellNoHover[data-group = "Active_lanthanides"] *,
+.cellLaAc[data-group = "Active_lanthanides"] *{
     background-color: #CEA5B7 !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
+}
+[data-group = "Active_actinides"],
+.cell[data-group = "Active_actinides"] *,
+.cellNoHover[data-group = "Active_actinides"] *,
+.cellLaAc[data-group = "Active_actinides"] *{
+    background-color: #A9A5CF !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    color: var(--colorBackground) !important;
 }
 [data-group = "Active_poorMetals"],
 .cell[data-group = "Active_poorMetals"] *,
 .cellNoHover[data-group = "Active_poorMetals"] *{
     background-color: #AFABBC !important;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: var(--colorBackground) !important;
-    border-radius: 7px !important;
 }
 
 /*                          */
@@ -162,18 +234,21 @@ body {
     height: 100vh;
 
     overflow-y: hidden;
+    overflow-x: hidden;
 }
 a {
     width: fit-content;
 }
 
 .wrapper {
-    position: fixed;
-    margin: 0 10vw;
-    margin-top: 5vh;
+    position: absolute;
+    margin: auto 10vw;
+
+    top: -3vh;
+    bottom: 0;
 
     width: 80vw;
-    height: 85vh;
+    height: fit-content;
 }
 #otherButtons {
     position: fixed;
@@ -182,6 +257,8 @@ a {
     margin: 0 10vw;
     margin-left: 10.1vw;
     margin-top: 92vh;
+    margin-bottom: 2vh;
+
 
     display: flex;
 }
@@ -240,8 +317,7 @@ a {
 
     display: inline-flex;
 
-    padding-top: 0.4vh;
-    padding-bottom: 0.4vh;
+    padding-top: 0.2vw;
 
 }
 .spacer {
@@ -257,9 +333,10 @@ a {
     background-color: var(--colorSecundary);
 
     margin-left: 0.2vw;
-    border-radius: 7px;
+    border-radius: 0.4vw;
 
     cursor: pointer;
+    overflow: hidden;
 
     transition: background-color ease-in-out 0.1s, transform ease-in-out 0.1s, opacity ease-in-out 0.1s, z-index ease-in-out 0.1s;
     z-index: 3;
@@ -269,7 +346,7 @@ a {
     height: 5.7vw;
 
     margin-left: 0.2vw;
-    border-radius: 7px;
+    border-radius: 0.4vw;
 }
 .cellNoHover {
     top: auto;
@@ -278,21 +355,43 @@ a {
     width: 4.44vw;
     height: 5.7vw;
     background-color: var(--colorSecundary);
+    color: var(--colorText);
 
     margin-left: 0.2vw;
-    border-radius: 7px;
+    border-radius: 0.4vw;
+
+    overflow: hidden;
 
     cursor: pointer;
     z-index: 3;
+    
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
+.cellLaAc {
+    top: auto;
+    left: auto;
+    position: relative;
+    width: 4.44vw;
+    height: 5.7vw;
+    background-color: var(--colorSecundary);
 
+    margin-left: 0.2vw;
+    border-radius: 0.4vw;
+
+    cursor: pointer;
+    overflow: hidden;
+
+    transition: background-color ease-in-out 0.1s, transform ease-in-out 0.1s, opacity ease-in-out 0.1s, z-index ease-in-out 0.1s;
+    z-index: 3;
+}
+.cellLaAc:hover,
 .cell:hover{
     transform: scale(1.4);
     background-color: var(--colorTerciary);
 
-
     z-index: 4;
 }
+.cellLaAc:hover .atomicNumber,
 .cell:hover .atomicNumber{
     color: var(--colorSecundary);
 }
@@ -300,40 +399,46 @@ a {
     font-family: Mulish-Bold;
     font-size: 0.7vw ;
 
-    padding-top: 0.4vh;
+    padding-top: 0.2vw;
     padding-left: 0.3vw;
 
     color: var(--colorPrimary);
 
     transition: color ease-in-out 0.1s;
 }
+.atomicNumber i{
+    opacity: 0;
+}
 .elementSymbol {
     color: var(--colorText);
     font-family: Mulish;
-    margin-top: 0.3vh;
     font-size: 1.5vw ;
 
     text-align: center;
-    text-transform: capitalize;
+    text-transform: capitalize;  
+
+    padding: 0.3vw;
 }
 .elementName {
     color: var(--colorText);
     font-family: Mulish-ExtraLight;
     text-align: center;
-    margin-top: 0.8vh;
+    padding-top: 0.4vw;
 
     font-size: 0.55vw;
 
     text-transform: capitalize;
+    
 }
 .atomicMass {
     color: var(--colorText);
     font-family: Mulish-ExtraLight;
     text-align: center;
-    margin-top: 0.3vh;
-    margin-bottom: 1vh;
+    padding-top: 0.15vw;
+    padding-bottom: 0.5vw;
 
     font-size: 0.5vw;
+
 }
 
 /*      Spacers         */
@@ -415,8 +520,9 @@ a {
 }
 #elemntSidePanelGoBack {
     color: var(--colorBackground);
+    background-color: var(--colorTerciary);
     font-family: Mulish-Bold;
-    font-size: 1.5rem;
+    font-size: 1.5vw;
 
     position: relative;
     
@@ -431,14 +537,14 @@ a {
     cursor: pointer;
     border: 1.5px solid transparent;
 
-    background-color: var(--colorTerciary);
 
-    transition: margin-top 0.3s ease-in-out, border 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    transition: margin-top 0.3s ease-in-out, border 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 #elemntSidePanelGoBack:hover {
     margin-top: 2vh;
     border: 1.5px solid var(--colorPrimary);
     background-color: var(--colorPrimary);
+    color: var(--colorBackground);
 
 }
 
@@ -534,6 +640,29 @@ a {
     padding: auto;
     padding-left: 0.4vw;
 }
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                                                  */
+/*                  LaAc Settings                   */
+#LaAcSection {
+    position: absolute;
+    margin: auto 15vw;
+
+    top: -3vh;
+    bottom: 0;
+
+    width: fit-content;
+    height: fit-content;
+
+    z-index: 1;
+    visibility: hidden;
+}
+
 
 /*                                                  */
 /*                                                  */
@@ -551,6 +680,8 @@ a {
     height: 46vh;
     margin: 0 10vw;
     margin-top: 45vh;
+
+    z-index: 1;
 }
 #advancedSettings h1{        
     color: var(--colorText);
@@ -561,6 +692,8 @@ a {
 }      
 .advancedSettingsButtonWrapper {
     display: flex;
+
+    z-index: 100;
 
     margin-top: 2vh;
 }
@@ -580,20 +713,28 @@ a {
 }
 #advancedSettings button{
     background-color: var(--colorSecundary);
-    padding: 2vh;
+    padding: 2vh 0;
     margin-left: 1vw;
-    width: 20%;
+    max-width: 18vw;
+    min-width: 18vw;
 
     display: block;
     
     color: var(--colorText);
-    font-family: Mulish;
+    font-family: Mulish-Bold;
     font-size: 1.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 
     border: 0px solid transparent;
     border-radius: 12px;
 
     cursor: pointer;
+} 
+#advancedSettings button[data-active = "true"]{
+    background-color: var(--colorPrimary);  
+    color: var(--colorBackground);
 } 
 .advancedSettingsActiveButton{
     background-color: var(--colorPrimary);

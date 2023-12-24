@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Tin</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Sn</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">50</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">118.71</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Post-Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Tin, a versatile and enduring post-transition metal, unfolds a narrative characterized by its unique properties, historical significance, and diverse applications across various industries. With the symbol Sn and gracefully positioned at atomic number 50, tin invites exploration into its physical characteristics, contributions to metallurgy and alloys, isotopic composition, and the intriguing story of its use by civilizations throughout history.</p>
+
+<p class="aboutElementDetailParagraph">Physically, tin presents itself as a malleable, silvery-white metal with a relatively low melting point. This characteristic makes it an integral component in the world of metallurgy, where tin alloys, such as bronze and pewter, have played pivotal roles in shaping human civilization. The malleability of tin also makes it suitable for coating other metals in processes like tin plating or tinning, enhancing corrosion resistance.</p>
+
+<p class="aboutElementDetailParagraph">Tin's historical significance is deeply intertwined with its applications in ancient civilizations. The use of tin in alloying, such as the creation of bronze, marked significant advancements in tools, weaponry, and artistic endeavors. The Bronze Age, characterized by the widespread use of tin-bronze alloys, stands as a testament to the transformative impact of tin on human technological progress.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, tin exhibits a range of stable isotopes, with tin-118 being one of the primary contributors to its isotopic composition. The study of tin isotopes provides insights into its behavior in geological and environmental processes, contributing to our understanding of Earth's natural cycles.</p>
+
+<p class="aboutElementDetailParagraph">In modern times, tin continues to be a crucial element in various applications. It finds use in the production of solder, essential for electronic components and circuitry. Tin's corrosion-resistant properties make it valuable in coating steel to create tinplate, widely used in the packaging industry for cans and containers.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of tin extends from its use in ancient civilizations to its contemporary applications in industry. Its enduring presence, marked by versatility and adaptability, showcases tin as a metal that has stood the test of time, leaving an indelible mark on human history and technological advancement.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Tin" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

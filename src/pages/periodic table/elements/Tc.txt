@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Technetium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Tc</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">43</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(98)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Technetium, a captivating enigma within the transition metals, unfolds its narrative through a symphony of unique characteristics, groundbreaking applications, and a historical journey marked by scientific ingenuity. Bearing the symbol Tc and nestled at atomic number 43, technetium invites us to unravel the mysteries of its radioactivity, delve into its role in nuclear medicine, and appreciate its contribution to advancing our understanding of the atomic realm.</p>
+
+<p class="aboutElementDetailParagraph">Physically, technetium resides in the realm of transience, primarily existing in a collection of radioactive isotopes. This inherent radioactivity forms the bedrock of its significance, particularly in the field of nuclear medicine. The isotope Technetium-99m stands as a beacon, illuminating medical diagnostics with its gamma-emitting properties. From bone scans to myocardial perfusion imaging, technetium-99m plays a pivotal role in non-invasive medical procedures, aiding clinicians in diagnosing and treating a spectrum of health conditions.</p>
+
+<p class="aboutElementDetailParagraph">The isotopic tapestry of technetium, devoid of stable isotopes, positions it as an elemental nomad crafted in the crucible of nuclear reactors. This synthetic genesis contributes to our understanding of nuclear physics, as scientists create and study elements under controlled conditions, unraveling the mysteries of atomic structure and behavior.</p>
+
+<p class="aboutElementDetailParagraph">The historical saga of technetium unfolds against the backdrop of mid-20th century scientific exploration. In 1937, Italian scientists Carlo Perrier and Emilio Segrè, driven by curiosity and propelled by technological advancements, successfully synthesized technetium, marking it as the first artificially produced element. Its name, derived from the Greek word "technetos" meaning artificial, echoes the pioneering spirit of its discovery.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its pivotal role in medical diagnostics, technetium finds utility in the realm of materials science. Its incorporation into corrosion-resistant alloys enhances the durability of materials exposed to challenging environments. Additionally, as a catalyst in certain chemical processes, technetium contributes to the synthesis of diverse compounds, expanding its reach into the chemical industry.</p>
+
+<p class="aboutElementDetailParagraph">Technetium, with its ephemeral nature and far-reaching applications, epitomizes the intersection of science, medicine, and technological innovation. As humanity continues to unravel the secrets of the atomic world, technetium stands as a testament to our ability to harness the power of the synthetic and advance our understanding of the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Technetium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

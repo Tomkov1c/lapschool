@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Yttrium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Y</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">39</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">88.91</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Yttrium, a versatile element within the transition metals group, unfolds its narrative across a spectrum of scientific, industrial, and technological domains. Symbolized by Y and possessing atomic number 39, yttrium entices exploration into its distinctive properties, applications in cutting-edge technologies, and its crucial role in advancing materials science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, yttrium stands as a resilient and lustrous metal, demonstrating remarkable stability and resistance to corrosion. Its unique mechanical properties make it a sought-after component in the production of high-strength alloys, particularly in the aerospace industry. Yttrium alloys contribute to the construction of components that withstand extreme temperatures and demanding conditions, pushing the boundaries of technological innovation.</p>
+
+<p class="aboutElementDetailParagraph">The electronic properties of yttrium add another layer to its significance. Yttrium is a key player in the development of superconductors, materials that can conduct electricity with zero resistance at low temperatures. Yttrium barium copper oxide (YBCO) is a notable high-temperature superconductor, holding promise for applications in energy transmission and magnetic levitation.</p>
+
+<p class="aboutElementDetailParagraph">Yttrium's presence in the field of electronics is underscored by its role in phosphors. Yttrium-based phosphors are crucial for producing the vibrant colors in displays, ranging from television screens to LED technologies. This application has transformed the visual experience in modern electronic devices, enhancing clarity and color representation.</p>
+
+<p class="aboutElementDetailParagraph">The medical field benefits significantly from yttrium, particularly in cancer treatment. Yttrium-90, a radioactive isotope, is employed in targeted radiotherapy. This approach allows for precise and localized treatment of cancerous tissues, minimizing damage to surrounding healthy cells and offering a promising avenue in the fight against cancer.</p>
+
+<p class="aboutElementDetailParagraph">Delving into yttrium's isotopic composition reveals a range of stable isotopes, each contributing to the element's behavior in diverse environments. Isotopic studies are pivotal in understanding yttrium's interactions in geological, industrial, and biological contexts, enriching our comprehension of this multifaceted element.</p>
+
+<p class="aboutElementDetailParagraph">The historical tapestry of yttrium begins with its discovery by Johan Gadolin in 1794. Initially identified in the mineral gadolinite, yttrium became a linchpin in the exploration of rare earth elements. Its unique properties and applications continue to fuel scientific curiosity, making yttrium an indispensable element in the ever-evolving landscape of materials science and technology.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Yttrium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

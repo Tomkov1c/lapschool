@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Cadmium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Cd</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">48</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">112.41</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Cadmium, a discreet yet pivotal participant among the transition metals, unfolds a narrative marked by its unique properties, diverse applications, environmental considerations, and a historical journey that intertwines with the progress of science and industry. With the symbol Cd and an atomic number of 48, cadmium beckons exploration into its physical characteristics, contributions to batteries and pigments, environmental impact, and the story of its discovery.</p>
+
+<p class="aboutElementDetailParagraph">Physically, cadmium emerges as a soft, bluish-white metal with distinctive characteristics. Its low melting and boiling points, coupled with malleability, render it versatile for industrial applications. However, the double-edged nature of cadmium is evident in its toxicity, posing challenges that necessitate careful handling and management to prevent environmental and health risks.</p>
+
+<p class="aboutElementDetailParagraph">Cadmium's imprint on technology is seen prominently in the realm of batteries. Nickel-cadmium batteries, known for their efficiency and rechargeability, have been instrumental in powering portable electronic devices, tools, and serving as backup systems. Despite their advantages, the environmental impact of cadmium has spurred research into alternative battery technologies.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its role in energy storage, cadmium extends its influence to the world of pigments. Cadmium sulfide, a compound of cadmium, manifests as a vibrant yellow and orange pigment. Renowned for its stability and colorfastness, cadmium pigments are prized in the realms of art and industry, adding a spectrum of hues to paints and plastics.</p>
+
+<p class="aboutElementDetailParagraph">Environmental considerations cast a shadow over cadmium usage. Industrial activities, such as mining and manufacturing, can release cadmium into the environment, posing risks to ecosystems and human health. Regulations and sustainable practices play a pivotal role in mitigating these concerns, emphasizing the importance of responsible cadmium management.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of cadmium unfolds in the early 19th century when German chemist Friedrich Stromeyer identified it while studying zinc carbonate. The name "cadmium" itself reflects its association with zinc carbonate, as it is derived from the Latin word "cadmia." Over time, cadmium's unique properties and applications propelled it into various industries, shaping its role in the landscape of modern materials and technologies.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Cadmium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

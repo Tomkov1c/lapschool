@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Niobium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Nb</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">41</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">92.91</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Niobium, a stalwart member of the transition metals group, unfolds its story through a tapestry woven with unique properties, industrial applications, and a rich historical legacy. Bearing the symbol Nb and graced with atomic number 41, niobium beckons exploration into its superconductive wonders, contributions to materials science, and pivotal role in shaping technological advancements.</p>
+
+<p class="aboutElementDetailParagraph">Physically, niobium presents itself as a lustrous, silver-gray metal with remarkable resistance to corrosion. This exceptional corrosion resistance renders niobium invaluable in environments where durability is paramount. Niobium's inclusion in various alloys enhances their strength and stability, making them indispensable in aerospace engineering, medical devices, and even the production of superalloys for jet engines.</p>
+
+<p class="aboutElementDetailParagraph">Niobium's superconductive prowess sets it apart in the world of materials science. At low temperatures, niobium exhibits superconductivity, allowing for the efficient transmission of electrical currents with zero resistance. This property finds applications in the development of superconducting magnets for magnetic resonance imaging (MRI) machines and particle accelerators, pushing the boundaries of medical diagnostics and scientific research.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its superconductive marvels, niobium plays a crucial role in the production of high-performance steels and alloys. Its addition to these materials enhances their mechanical properties, making them resilient under extreme conditions. The aerospace industry, in particular, benefits from niobium's contributions to the development of lightweight and durable components for aircraft and spacecraft.</p>
+
+<p class="aboutElementDetailParagraph">The isotopic landscape of niobium encompasses several stable isotopes, with niobium-93 being the most prevalent. Isotopic studies provide insights into the behavior of niobium in geological and industrial processes, contributing to our understanding of its role in diverse environments.</p>
+
+<p class="aboutElementDetailParagraph">The historical journey of niobium intertwines with its discovery in 1801 by Charles Hatchett. Initially named "columbium" due to its association with the mineral columbite, the element underwent a naming dispute that persisted for decades. Eventually, the name niobium was officially adopted in the 1950s, honoring Niobe, the daughter of Tantalus in Greek mythology.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Niobium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

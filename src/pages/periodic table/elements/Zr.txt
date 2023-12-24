@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Zirconium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Zr</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">40</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">91.22</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Zirconium, residing within the illustrious realm of transition metals, unfolds as a cornerstone in the symphony of elements, offering a narrative rich in unique properties, versatile applications, and historical significance. Embodied by the symbol Zr and gracefully holding atomic number 40, zirconium extends an invitation to explore its enduring role in advancing technology, enhancing industrial processes, and contributing to the intricate tapestry of scientific exploration.</p>
+
+<p class="aboutElementDetailParagraph">Physically, zirconium graces the periodic table as a lustrous, silver-gray metal with a notable resistance to corrosion. This exceptional corrosion resistance has elevated zirconium to a pivotal position in various industrial applications. Zirconium alloys, particularly zircaloy, have become stalwarts in the construction of components for the chemical processing industry, where exposure to corrosive substances demands materials of unwavering resilience.</p>
+
+<p class="aboutElementDetailParagraph">Zirconium emerges as a luminary in the realm of nuclear technology. Zirconium alloys find their calling in the construction of fuel rods for nuclear reactors, where their inert nature shields the integrity of the fuel elements. Zircaloy's neutron-absorbing properties contribute to the safety and efficiency of nuclear power plants, symbolizing zirconium's vital role in the pursuit of clean and sustainable energy.</p>
+
+<p class="aboutElementDetailParagraph">Venturing beyond its nuclear prowess, zirconium unfurls its applications in diverse technological landscapes. Zirconium oxide, with its exceptional thermal stability and electrical conductivity, takes center stage in the production of advanced ceramics. These ceramics find applications in aerospace engineering, electronic components, and even medical implants, where the biocompatible nature of zirconium contributes to the field of modern healthcare.</p>
+
+<p class="aboutElementDetailParagraph">The isotopic diversity of zirconium, embracing several stable isotopes with zirconium-90 as a prominent constituent, underscores its adaptability in various scientific and industrial arenas. Isotopic studies unravel the intricate behavior of zirconium, providing insights into its interactions within geological formations, industrial processes, and biological systems.</p>
+
+<p class="aboutElementDetailParagraph">The historical odyssey of zirconium traces back to the late 18th century with the discovery of the mineral zircon. However, it wasn't until the early 19th century that zirconium emerged as a distinct element. Its name, derived from the Persian word "zargun," meaning gold-like, pays homage to its metallic brilliance and enduring legacy in the world of materials science.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Zirconium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

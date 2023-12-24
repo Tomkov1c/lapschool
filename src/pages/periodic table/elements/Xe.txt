@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Xenon</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Xe</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">54</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">131.29</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gases</span></p>
+
+<p class="aboutElementDetailParagraph">Xenon, an intriguing noble gas, unveils a narrative defined by its unique properties, diverse applications, and a historical journey intertwined with the exploration of rare gases. Bearing the symbol Xe and positioned at atomic number 54, xenon beckons exploration into its physical characteristics, contributions to lighting and medical imaging, isotopic diversity, and the captivating story of its discovery and utilization in various fields.</p>
+
+<p class="aboutElementDetailParagraph">Physically, xenon is a colorless, odorless noble gas, known for its remarkable stability and lack of reactivity. Its inert nature makes xenon suitable for various applications, particularly in lighting. Xenon arc lamps, employed in applications like movie projectors and high-intensity discharge lamps, benefit from the unique properties of xenon to produce intense and bright light.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, xenon exhibits a range of stable isotopes, with xenon-129 being one of the most abundant. The study of xenon isotopes extends to diverse scientific fields, including cosmochemistry, where xenon isotopic compositions provide insights into the origin and evolution of celestial bodies.</p>
+
+<p class="aboutElementDetailParagraph">Historically, xenon's discovery is credited to Scottish chemist Sir William Ramsay and his assistant Morris Travers in 1898. They isolated xenon from the residue left after evaporating components of liquid air. The name "xenon" is derived from the Greek word "xenos," meaning stranger or foreigner, highlighting its rarity in the Earth's atmosphere.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, xenon finds use beyond lighting. Its unique properties make it valuable in medical imaging, particularly in xenon-enhanced computed tomography (CT) scans. Xenon gas is used as a contrast agent in these scans to visualize blood flow in the brain, offering detailed insights into neurological conditions.</p>
+
+<p class="aboutElementDetailParagraph">Beyond Earth, xenon has been detected in the atmospheres of certain celestial bodies, adding to our understanding of the composition and processes in the broader universe. Xenon's presence in the cosmos contributes to unraveling the mysteries of planetary formation and stellar evolution.</p>
+
+<p class="aboutElementDetailParagraph">The story of xenon encompasses the realms of rare gases, lighting technology, medical diagnostics, and cosmic exploration. From its discovery as an enigmatic and rare component of the atmosphere to its diverse applications in contemporary science and technology, xenon continues to captivate the curiosity of researchers and enrich our understanding of the physical world and beyond.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Xenon" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

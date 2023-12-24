@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Molybdenum</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Mo</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">42</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">95.95</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Molybdenum, a cornerstone within the transition metals, weaves a tale of resilience, versatility, and indispensability. With the symbol Mo and a distinguished atomic number of 42, molybdenum stands as a linchpin in the realms of metallurgy, catalysis, biological processes, and beyond, leaving an indelible mark on the tapestry of scientific and industrial exploration.</p>
+
+<p class="aboutElementDetailParagraph">Physically, molybdenum emerges as a silvery-white metal, possessing a robustness that extends its applications into the heart of metallurgy. Renowned for its high melting point and exceptional strength, molybdenum alloys play a pivotal role in crafting tools, aerospace components, and industrial machinery that withstand the rigors of high-temperature environments, elevating the standards of durability and performance.</p>
+
+<p class="aboutElementDetailParagraph">Molybdenum's catalytic prowess unfurls in the intricate dance of chemical processes. Catalysts enriched with molybdenum become catalysts of change, facilitating the synthesis of vital chemicals like acrylonitrile for synthetic fibers and propylene oxide for polyurethane. In the crucible of catalysis, molybdenum emerges as a silent architect, contributing to the efficiency and sustainability of industrial production.</p>
+
+<p class="aboutElementDetailParagraph">Biologically, molybdenum transcends the confines of the laboratory and enters the realm of life itself. A silent partner in enzymatic activity, molybdenum serves as a cofactor for enzymes critical to nitrogen metabolism. Xanthine oxidase, armed with molybdenum, takes center stage in purine breakdown, while sulfite oxidase tackles the detoxification of sulfite, highlighting molybdenum's essential role in maintaining biochemical equilibrium.</p>
+
+<p class="aboutElementDetailParagraph">Diving into the isotopic landscape of molybdenum reveals a nuanced ensemble of stable isotopes, with molybdenum-98 claiming prominence. Isotopic studies, akin to a cosmic fingerprint, unravel the intricate dance of molybdenum in geological formations, environmental matrices, and the intricate pathways of biological systems, enriching our understanding of its multifaceted interactions.</p>
+
+<p class="aboutElementDetailParagraph">The historical odyssey of molybdenum echoes through the corridors of scientific discovery. Unveiled in the late 18th century by Carl Wilhelm Scheele, molybdenum stepped into the spotlight under the skilled hands of Peter Jacob Hjelm, who successfully isolated this metallic virtuoso. Its name, etched with ancient resonance, speaks of its lead-like qualities, harkening back to its initial association with lead minerals and its early contributions to metallurgy.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Molybdenum" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

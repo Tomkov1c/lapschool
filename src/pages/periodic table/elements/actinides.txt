@@ -1,0 +1,106 @@
+<div class="row">
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">89 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Ac</h1>
+    <h3 class="elementName">Actinium</h3>
+    <h6 class="atomicMass">227.03</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">90 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Th</h1>
+    <h3 class="elementName">Thorium</h3>
+    <h6 class="atomicMass">232.04</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">91 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Pa</h1>
+    <h3 class="elementName">Protactinium</h3>
+    <h6 class="atomicMass">231.04</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">92 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">U</h1>
+    <h3 class="elementName">Uranium</h3>
+    <h6 class="atomicMass">238.03</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">93 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Np</h1>
+    <h3 class="elementName">Neptunium</h3>
+    <h6 class="atomicMass">(237)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">94 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Pu</h1>
+    <h3 class="elementName">Plutonium</h3>
+    <h6 class="atomicMass">(244)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">95 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Am</h1>
+    <h3 class="elementName">Americium</h3>
+    <h6 class="atomicMass">(243)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">96 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Cm</h1>
+    <h3 class="elementName">Curium</h3>
+    <h6 class="atomicMass">(247)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">97 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Bk</h1>
+    <h3 class="elementName">Berkelium</h3>
+    <h6 class="atomicMass">(247)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">98 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Cf</h1>
+    <h3 class="elementName">Californium</h3>
+    <h6 class="atomicMass">(251)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">99 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Es</h1>
+    <h3 class="elementName">Einsteinium</h3>
+    <h6 class="atomicMass">(252)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">100 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Fm</h1>
+    <h3 class="elementName">Fermium</h3>
+    <h6 class="atomicMass">(257)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">101 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Md</h1>
+    <h3 class="elementName">Mendelevium</h3>
+    <h6 class="atomicMass">(258)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">102 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">No</h1>
+    <h3 class="elementName">Nobelium</h3>
+    <h6 class="atomicMass">(259)</h6>
+</div>
+
+<div onclick="selectElement(this)" class="cellLaAc" data-group="actinides" onmouseover="hover(this)" onmouseleave="leave(this)">
+    <p class="atomicNumber" translate="no">103 <i class="fa-solid fa-radiation"></i></p>
+    <h1 class="elementSymbol" translate="no">Lr</h1>
+    <h3 class="elementName">Lawrencium</h3>
+    <h6 class="atomicMass">(262)</h6>
+</div>
+</div>
