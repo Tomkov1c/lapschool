@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Radon</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Rn</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">86</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">[222]</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gas</span></p>
+
+<p class="aboutElementDetailParagraph">Radon, an enigmatic noble gas with unique radioactive properties, weaves a complex narrative marked by its gaseous form, potential health implications, isotopic intricacies, and a history intertwined with the evolution of our understanding of radioactivity. Occupying atomic number 86 with the symbol Rn, radon beckons exploration into its physical characteristics, roles in health and environmental contexts, isotopic nuances, and the captivating tale of its historical significance within the broader landscape of radioactive elements.</p>
+
+<p class="aboutElementDetailParagraph">Physically, radon emerges as a colorless and odorless gas, belonging to the noble gas group. What sets it apart is its radioactivity, a feature inherited from the decay of heavy elements like uranium and thorium. As a result, radon is ubiquitously present in the Earth's crust, with varying concentrations in soil, rocks, and groundwater.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, radon unfolds a diverse array of isotopes, with radon-222 being the most stable and prevalent in nature. Originating from the decay of uranium-238, radon-222 undergoes a series of transformations, releasing alpha particles and contributing to the radioactive equilibrium in the environment. Understanding these isotopic dynamics is essential for evaluating the associated health risks.</p>
+
+<p class="aboutElementDetailParagraph">Historically, radon's story is intertwined with the broader narrative of radioactivity. Its discovery as a decay product of radium by Friedrich Ernst Dorn in 1900 marked a crucial milestone in understanding the complexities of radioactive decay. Further research by luminaries such as Ernest Rutherford expanded our knowledge of radon's behavior, paving the way for advancements in nuclear physics.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, radon is primarily acknowledged for its potential health risks due to prolonged exposure. Elevated radon levels in indoor environments, resulting from the infiltration of radon gas, have been associated with an increased risk of lung cancer. Mitigation strategies, including proper ventilation systems and routine radon testing, are pivotal in minimizing health hazards.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of radon unfolds as a chapter in the ongoing saga of scientific discovery and its implications for public health. From its roots as a decay product to its role in the understanding of radioactivity and its impact on human health, radon serves as a testament to the ongoing commitment to balancing scientific exploration with the responsibility to safeguard the well-being of individuals and communities.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Radon" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Mercury</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Hg</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">80</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">200.59</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Mercury, a mysterious and liquid member of the transition metals, unfolds a tale of unique properties, historical intrigue, diverse applications, and a legacy intertwined with human civilization. Positioned at atomic number 80 with the symbol Hg, mercury invites exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating narrative of its discovery and contributions to various facets of human life.</p>
+
+<p class="aboutElementDetailParagraph">Physically, mercury stands apart as the only metal that is liquid at room temperature. With a silver-white appearance and a mesmerizing reflective surface, mercury's liquidity has captivated scientists and alchemists throughout history, contributing to its enigmatic allure. Its high density and low melting point make it an exceptional conductor of electricity, adding to its significance in certain technological applications.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, mercury encompasses multiple isotopes, with mercury-202 being the most abundant. The study of mercury isotopes plays a crucial role in environmental science, aiding in tracing the sources and pathways of mercury pollution, a challenge associated with its toxicological effects on ecosystems and human health.</p>
+
+<p class="aboutElementDetailParagraph">Historically, mercury's journey is entwined with alchemical pursuits and scientific exploration. Known to ancient civilizations, mercury earned its name from the Roman god Mercury, reflecting its fluid nature. In more recent history, mercury found applications in thermometers, barometers, and even early electrical switches, showcasing its versatility and unique properties.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, mercury's use is tempered by its toxicity. While it has been largely phased out in thermometers and many other consumer products, it still finds applications in some industrial processes, such as the production of chlorine and caustic soda. Additionally, mercury is a critical component in certain scientific instruments and technologies, including fluorescent lights and some types of batteries.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of mercury unfolds as a dichotomy, balancing its historical significance with the challenges posed by its toxicity. From alchemical curiosity to modern applications and environmental concerns, mercury continues to occupy a unique place in the periodic table, prompting ongoing scientific exploration and responsible usage.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Mercury_(element)" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Cerium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ce</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">58</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">140.12</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Cerium, a prominent member of the lanthanide series, reveals a captivating story marked by its distinct properties, versatile applications, and a historical journey intertwined with the exploration of rare earth elements. Carrying the symbol Ce and elegantly positioned at atomic number 58, cerium invites exploration into its physical characteristics, roles in industry and technology, isotopic diversity, and the fascinating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, cerium manifests as a soft, ductile, and silvery-white metal with notable chemical reactivity. Its properties make cerium a valuable component in various industrial applications, including the production of alloys, glass polishing, and catalysis. Cerium oxide, also known as ceria, finds use as a catalyst in automotive catalytic converters.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, cerium encompasses multiple isotopes, with cerium-140 being the most abundant. The study of cerium isotopes contributes to understanding its behavior in geological processes and its presence in minerals and soils.</p>
+
+<p class="aboutElementDetailParagraph">Historically, cerium's discovery is linked to the exploration of rare earth elements in the early 19th century. Swedish chemist Jöns Jakob Berzelius and German chemist Wilhelm Hisinger, along with Austrian mineralogist Martin Heinrich Klaproth, independently isolated cerium compounds. The name "cerium" is derived from the dwarf planet Ceres, discovered around the same time.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, cerium's versatility is showcased in various industries. Cerium compounds are essential in the automotive sector, contributing to the reduction of emissions through catalytic converters. Cerium oxide, with its unique properties, is utilized in glass polishing, fuel cells, and as a catalyst in industrial processes.</p>
+
+<p class="aboutElementDetailParagraph">The electronic and magnetic properties of cerium, along with other lanthanides, find applications in technology. Cerium is used in the manufacturing of phosphors for color television tubes and energy-efficient light-emitting diodes (LEDs).</p>
+
+<p class="aboutElementDetailParagraph">The story of cerium reflects its journey from a curiosity in the exploration of rare earth elements to a key player in multiple industries. Its role in addressing environmental challenges, enhancing industrial processes, and contributing to technological advancements underscores the dynamic interplay between scientific discovery and practical applications.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Cerium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

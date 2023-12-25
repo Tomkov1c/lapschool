@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Protactinium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Pa</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">91</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(231)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Protactinium, a captivating element residing in the actinide group, unfolds its unique narrative, revealing a tale of rare properties, scientific intrigue, and potential future applications. With an atomic number of 91 and the symbol Pa, protactinium beckons us to explore the depths of its atomic intricacies.</p>
+
+<p class="aboutElementDetailParagraph">Physically, protactinium presents itself as a dense, silvery-gray metal, characterized by its scarcity and challenging extraction processes. Discovered in 1917 by Otto Hahn and Lise Meitner, its physical properties add to its allure, contributing to its relative obscurity in comparison to other elements.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, protactinium offers a complex array of isotopes, with protactinium-231 taking center stage. This radioactive isotope undergoes a series of transformations, ultimately leading to the formation of stable uranium-231. This isotopic journey plays a significant role in nuclear processes and contributes to our understanding of decay chains.</p>
+
+<p class="aboutElementDetailParagraph">Historically, protactinium's discovery marked a milestone in the exploration of radioactive elements. The name "protactinium," meaning "pre-actinium," reflects its position as an intermediate step in the decay chain of uranium-235, showcasing its importance in advancing our understanding of nuclear physics.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, protactinium's uses are limited due to its scarcity and radioactivity. However, its role in scientific research is crucial, contributing to studies on nuclear reactions and the behavior of radioactive elements. Protactinium-233, produced through neutron irradiation of thorium-232, holds potential in advanced nuclear fuel cycles.</p>
+
+<p class="aboutElementDetailParagraph">Beyond immediate applications, protactinium symbolizes the frontiers of scientific exploration. As technology advances, its unique properties may find new roles in addressing challenges in nuclear science and technology, pushing the boundaries of our knowledge.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Protactinium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

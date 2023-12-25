@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Dubnium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Db</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">105</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">270</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Dubnium, a synthetic element in the transition metal group, stands as a testament to human achievement in the exploration of the periodic table. With the symbol Db and atomic number 105, dubnium is a product of controlled nuclear reactions, enabling scientists to study the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, dubnium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, dubnium shares properties with other transition metals, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it a valuable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Dubnium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of dubnium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Dubnium has several isotopes, with dubnium-270 being one of the more stable ones. The radioactive decay of dubnium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of dubnium is credited to a team of scientists at the Joint Institute for Nuclear Research in the mid-20th century. The element was named after Dubna, the Russian town where the research institute is located, in recognition of the institute's contributions to the discovery of new elements.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, dubnium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of atomic research, dubnium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Dubnium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

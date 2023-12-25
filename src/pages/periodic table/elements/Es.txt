@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Einsteinium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Es</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">99</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">252</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Einsteinium, a member of the actinide series, is a synthetic element with unique properties that have contributed to scientific research, particularly in the field of nuclear physics. With the symbol Es and atomic number 99, einsteinium is a product of human ingenuity in the synthesis of heavy elements.</p>
+
+<p class="aboutElementDetailParagraph">Physically, einsteinium does not occur naturally and is produced through artificial means, typically in nuclear reactors. As a radioactive metal, einsteinium shares characteristics with other actinides and plays a crucial role in advancing our understanding of nuclear reactions and the behavior of heavy elements.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of einsteinium is in the study of nuclear structure and decay. Due to its radioactive nature, einsteinium is utilized as a target material in nuclear physics experiments, contributing to our knowledge of the fundamental forces that govern atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Einsteinium has several isotopes, with einsteinium-252 being one of the most stable. The radioactive decay of einsteinium isotopes produces a range of daughter nuclides, allowing scientists to investigate various nuclear processes and gain insights into the behavior of heavy elements over time.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of einsteinium is credited to a team of scientists at the Lawrence Berkeley National Laboratory in the mid-20th century. The element was named after Albert Einstein, honoring the renowned physicist's contributions to the understanding of the relationship between energy and mass.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, einsteinium continues to be a valuable tool for studying nuclear properties and processes. Its applications extend to the investigation of the transuranium elements and their role in the broader context of nuclear science.</p>
+
+<p class="aboutElementDetailParagraph">As we delve deeper into the mysteries of atomic structure and behavior, einsteinium stands as a testament to our ability to create and explore elements that do not exist in nature. Its contributions to nuclear physics exemplify the ongoing quest for knowledge and the advancement of scientific understanding.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Einsteinium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

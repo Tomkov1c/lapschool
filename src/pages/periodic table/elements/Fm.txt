@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Fermium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Fm</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">100</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">257</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Fermium, a synthetic element in the actinide series, showcases the frontiers of human achievement in nuclear science. Represented by the symbol Fm and atomic number 100, fermium is a product of controlled nuclear reactions and serves as a key element in the study of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">Physically, fermium is not found in nature and is exclusively produced in laboratories. As a radioactive metal, fermium shares characteristics with other actinides, contributing to our understanding of nuclear properties and the behavior of heavy elements. Its unique properties make it an invaluable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">One of the primary applications of fermium is in the investigation of nuclear reactions and the behavior of heavy nuclei. Fermium isotopes are utilized as target materials in nuclear physics experiments, allowing scientists to explore the dynamics of nuclear processes and study the fundamental forces at play.</p>
+
+<p class="aboutElementDetailParagraph">Fermium has several isotopes, with fermium-257 being one of the most stable. The radioactive decay of fermium isotopes produces daughter nuclides, enabling researchers to study the transmutation of heavy elements and gain insights into the stability and structure of atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of fermium is credited to a team of scientists led by Albert Ghiorso and his colleagues at the Lawrence Berkeley National Laboratory in the mid-20th century. The element was named in honor of Enrico Fermi, the physicist known for his contributions to the development of the atomic bomb and his pioneering work in nuclear physics.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, fermium continues to be a subject of exploration, contributing to our understanding of nuclear structure and processes. Its applications extend to the study of transuranium elements and their role in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of nuclear science, fermium stands as a symbol of human curiosity and our quest for knowledge. Its role in unraveling the mysteries of atomic nuclei highlights the ongoing pursuit of understanding the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Fermium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

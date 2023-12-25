@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Iridium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ir</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">77</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">192.22</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Iridium, a remarkable member of the transition metals, unfolds a tale marked by its unique properties, diverse applications, and a historical journey steeped in scientific discovery. Positioned at atomic number 77 with the symbol Ir, iridium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, iridium is characterized by its dense, corrosion-resistant, and lustrous nature. It holds the distinction of being one of the densest elements, making it a sought-after material for applications requiring durability and resistance to harsh conditions. Iridium's resilience to corrosion contributes to its use in various industrial sectors, including electronics and spark plugs for internal combustion engines.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, iridium encompasses multiple isotopes, with iridium-192 being notable for its applications in industrial radiography and cancer treatment. The study of iridium isotopes plays a crucial role in both scientific research and practical applications in nuclear technology.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the discovery of iridium is credited to British chemist Smithson Tennant and his colleague William Hyde Wollaston in 1803. The name "iridium" is derived from the Latin word "iris," meaning rainbow, reflecting the diverse and colorful compounds formed by iridium.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, iridium showcases its versatility across various fields. Its combination with platinum forms alloys with enhanced hardness and corrosion resistance, making them valuable in the production of electrical contacts, spark plugs, and certain types of laboratory equipment. Iridium's use in spark plugs contributes to efficient combustion in internal combustion engines, improving fuel efficiency.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of iridium extends beyond its physical properties and applications; it embodies the spirit of innovation and adaptation. From its discovery in the early 19th century to its contemporary uses, iridium stands as a symbol of enduring strength, reliability, and its integral role in advancing technology and industry.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Iridium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

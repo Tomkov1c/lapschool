@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Praseodymium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Pr</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">59</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">140.91</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Praseodymium, a notable member of the lanthanide series, weaves a narrative marked by its unique properties, applications in various industries, and a historical journey intertwined with the exploration of rare earth elements. Bearing the symbol Pr and elegantly positioned at atomic number 59, praseodymium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, praseodymium presents itself as a soft, silvery-white metal with notable ductility and malleability. Its properties render praseodymium valuable in various technological applications, including the production of certain types of magnets, especially in combination with neodymium.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, praseodymium encompasses multiple isotopes, with praseodymium-141 being one of the most abundant. The study of praseodymium isotopes contributes to understanding its behavior in geological processes and its presence in minerals and soils.</p>
+
+<p class="aboutElementDetailParagraph">Historically, praseodymium's discovery is entwined with the broader exploration of rare earth elements in the 19th century. Swiss chemist Carl Auer von Welsbach is credited with the isolation of praseodymium in 1885. The name "praseodymium" is derived from the Greek words "prasios" and "didymos," meaning green twin, reflecting the green color of its salts.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, praseodymium finds significance in several technological realms. Its inclusion in alloys enhances the properties of certain magnets, contributing to the development of powerful permanent magnets used in electric motors, wind turbines, and various electronic devices.</p>
+
+<p class="aboutElementDetailParagraph">Praseodymium compounds also find applications in the production of colored glasses, ceramics, and as a component in certain types of lighting, such as energy-efficient light-emitting diodes (LEDs). The unique properties of praseodymium make it a valuable element in the pursuit of sustainable technologies and innovations.</p>
+
+<p class="aboutElementDetailParagraph">The story of praseodymium unfolds as a journey from the exploration of rare earth elements to a key player in advancing technologies. Its role in creating powerful magnets, enhancing electronic devices, and contributing to sustainable solutions underscores the dynamic interplay between scientific discovery and the evolution of modern applications.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Praseodymium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

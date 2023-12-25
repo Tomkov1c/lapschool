@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Gadolinium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Gd</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">64</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">157.25</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Gadolinium, a significant member of the lanthanide series, unravels a story defined by its unique properties, diverse applications, and a historical journey intertwined with the exploration of rare earth elements. Positioned at atomic number 64 with the symbol Gd, gadolinium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, gadolinium is a silvery-white, malleable metal with notable magnetic properties. It is one of the few elements exhibiting ferromagnetism at room temperature, making it valuable for various applications, including magnetic resonance imaging (MRI) in medical diagnostics.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, gadolinium encompasses multiple isotopes, with gadolinium-158 being the most stable. The study of gadolinium isotopes contributes to the understanding of its behavior in nuclear reactors, where certain isotopes are employed as neutron absorbers for control and safety purposes.</p>
+
+<p class="aboutElementDetailParagraph">Historically, gadolinium's discovery is linked to Finnish chemist Johan Gadolin, who first observed it in 1792. The name "gadolinium" pays tribute to his contributions to the exploration of rare earth elements. Gadolinium's isolation marked a significant milestone in the understanding of lanthanides.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, gadolinium plays a crucial role in medical imaging. Gadolinium-based contrast agents are commonly used in MRI scans to enhance the visibility of blood vessels and tissues. This application has revolutionized diagnostic medicine, providing detailed and non-invasive imaging for various medical conditions.</p>
+
+<p class="aboutElementDetailParagraph">Beyond medicine, gadolinium is utilized in the nuclear industry. Gadolinium-155, with its high neutron absorption capability, is employed in control rods of nuclear reactors to regulate the rate of nuclear fission reactions.</p>
+
+<p class="aboutElementDetailParagraph">The story of gadolinium reflects its dual roles in both improving medical diagnostics and contributing to nuclear safety. From its discovery in the 18th century to its modern applications, gadolinium stands as a testament to the enduring impact of rare earth elements on scientific progress and technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Gadolinium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

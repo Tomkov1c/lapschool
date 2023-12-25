@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Thorium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Th</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">90</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">232.04</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Thorium, an extraordinary element occupying the actinide group, invites us to explore the intricacies of its atomic dance, from its luminescent glow to its potential role in reshaping the energy landscape. With an atomic number of 90 and the symbol Th, thorium's story unfolds as a symphony of scientific curiosity, technological innovation, and environmental responsibility.</p>
+
+<p class="aboutElementDetailParagraph">Physically, thorium unveils its elegance in a silvery sheen, concealing within its atomic nucleus a dance of particles that has captivated scientists since its isolation by Jöns Jacob Berzelius. The luminescent charm that drew attention in early gas mantles for lighting now sets the stage for its journey into the heart of nuclear science.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, thorium boasts a gallery of isotopes, with thorium-232 taking center stage. This isotope, with its fertile nature, transforms through neutron capture, giving birth to fissile uranium-233. This intricate dance of particles positions thorium as not just a passive element but a potential protagonist in the quest for sustainable nuclear energy.</p>
+
+<p class="aboutElementDetailParagraph">Historically, thorium's luminescence was not limited to gas mantles; it illuminated the path to innovative nuclear solutions. Mid-20th century explorations marked its potential as a nuclear fuel, and contemporary efforts renew the interest, driven by the imperative to create cleaner, safer, and more sustainable energy sources.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, thorium's versatility extends beyond conventional reactors. Imaginative designs like molten salt reactors harness its potential for enhanced safety, reduced nuclear waste, and increased fuel efficiency. As the world seeks a transition to greener energy alternatives, thorium emerges as a beacon in the nuclear renaissance.</p>
+
+<p class="aboutElementDetailParagraph">Beyond the realms of nuclear energy, thorium's alpha-particle emissive nature finds purpose in the medical arena. The prospect of targeted alpha-particle cancer therapy, leveraging thorium-232, holds promise for precision treatments that minimize collateral damage.</p>
+
+<p class="aboutElementDetailParagraph">Thorium, with its rich history, dynamic isotopic dance, and promising applications, stands as a symbol of scientific ingenuity and a potential catalyst for a sustainable future. Its narrative is an ever-evolving chapter in the collective human endeavor to harness the power of the elements for the betterment of society.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Thorium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

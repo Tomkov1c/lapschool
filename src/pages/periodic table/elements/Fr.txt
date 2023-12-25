@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Francium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Fr</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">87</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(223)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkali Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Francium, the enigmatic alkali metal, beckons scientists with its extreme rarity and inherent radioactivity. As the heaviest member of the alkali metal group, Francium, with the symbol Fr and atomic number 87, resides in the shadowy realms of scientific exploration, offering tantalizing glimpses into the fundamental nature of matter.</p>
+
+<p class="aboutElementDetailParagraph">Physically, Francium exhibits characteristics typical of alkali metals, showcasing a silvery luster and intense reactivity with water and air. However, its extreme scarcity, fleeting existence, and the challenges associated with its study make Francium a captivating yet elusive subject of scientific inquiry.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, Francium is dominated by its primary isotope, Francium-223, a product of the radioactive decay of actinium. This isotope's short half-life poses significant obstacles to direct experimentation, necessitating sophisticated techniques and theoretical models to unravel its properties and behavior.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the discovery of Francium by Marguerite Perey in 1939 added a fascinating chapter to the exploration of the periodic table. The challenges faced during its isolation underscore the dedication and ingenuity required in the pursuit of understanding the fundamental building blocks of the universe.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, the extreme rarity and radioactivity of Francium limit practical uses. However, its study contributes to advancing our understanding of nuclear physics, radioactive decay processes, and the behavior of alkali metals in unique environments.</p>
+
+<p class="aboutElementDetailParagraph">Notable for its potential applications in nuclear physics research, Francium serves as a valuable tool for investigating fundamental atomic and nuclear properties. Its role in experiments contributes to unraveling mysteries related to atomic structure, nuclear reactions, and the broader landscape of particle physics.</p>
+
+<p class="aboutElementDetailParagraph">In the grand tapestry of scientific exploration, Francium represents a puzzle piece that continues to captivate the imaginations of researchers, pushing the boundaries of our knowledge. As technology and methodologies evolve, the secrets of Francium may unlock new realms of understanding, inspiring future generations to delve deeper into the mysteries of the atomic world.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Francium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

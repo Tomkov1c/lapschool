@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Americium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Am</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">95</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(243)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Americium, a synthetic marvel in the vast landscape of elements, stands as both a testament to scientific ingenuity and a source of innovative applications. With the symbol Am and atomic number 95, americium invites us to explore its diverse properties and the profound impact it has had on various fields.</p>
+
+<p class="aboutElementDetailParagraph">Physically, americium is a silvery metal that captures the essence of the actinide series. Synthesized through nuclear reactions, its artificial creation represents a milestone in the exploration of elements beyond uranium. The ability to manipulate matter at the atomic level underscores the strides made in nuclear science during the mid-20th century.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, americium showcases a range of isotopes, with americium-241 taking the spotlight. This isotope's unique emission of alpha particles finds practical use in everyday items, such as smoke detectors. The integration of americium-241 in these devices enhances fire safety by enabling the early detection of smoke particles.</p>
+
+<p class="aboutElementDetailParagraph">Historically, americium's nomenclature reflects its ties to the Western Hemisphere and the collaborative efforts of scientists. Named after the Americas, it symbolizes a collective pursuit of knowledge and discovery in the aftermath of World War II. The synthetic nature of americium embodies the human capacity to extend the periodic table through scientific exploration.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, americium's impact extends beyond its role in household safety. Its radioisotopes, particularly americium-241, find application in the medical field, contributing to the development of portable X-ray machines. The controlled emission of alpha particles becomes a valuable asset in creating compact and efficient technologies for healthcare diagnostics, emphasizing its role in advancing medical science.</p>
+
+<p class="aboutElementDetailParagraph">Scientifically, americium remains a dynamic subject of exploration. Ongoing research endeavors delve into its behavior in diverse environments, aiming to unlock further insights into its potential applications. Additionally, the quest for sustainable energy solutions explores the role of americium in advanced fuel cycles for nuclear reactors, showcasing the element's potential contributions to the evolving landscape of energy technology.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Americium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

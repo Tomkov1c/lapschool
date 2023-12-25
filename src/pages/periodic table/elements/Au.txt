@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Gold</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Au</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">79</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">196.97</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Gold, the embodiment of timeless allure and symbol of wealth among the transition metals, narrates a story woven with its radiant properties, versatile applications, and profound impact on human history. Nestled at atomic number 79 with the symbol Au, gold beckons exploration into its physical characteristics, roles in technology, isotopic nuances, and the captivating tapestry of its discovery and contributions to civilizations across the ages.</p>
+
+<p class="aboutElementDetailParagraph">Physically, gold stands as a beacon of luminosity, characterized by its distinctive warm, yellow color. Unmatched in malleability and ductility, gold transcends its elemental nature, allowing artisans and craftsmen to shape it into intricate jewelry, artifacts, and coveted treasures that have withstood the tests of time. Its exceptional resistance to corrosion, tarnish, and oxidation further elevate gold as a symbol of enduring beauty and permanence.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, gold's isotopic variations, with Gold-197 being the predominant isotope, contribute to a nuanced understanding of Earth's geological processes and the formation of gold deposits. The exploration of gold isotopes extends beyond Earth, offering insights into celestial events and the origins of precious metals in the cosmos.</p>
+
+<p class="aboutElementDetailParagraph">Historically, gold's journey through time has been interwoven with human culture, rituals, and the pursuit of opulence. From ancient civilizations such as Egypt, where it adorned the tombs of pharaohs, to its role in shaping monetary systems and global economies, gold has been an enduring symbol of wealth and prestige. The very word "gold" finds its roots in the Old English word "geolu," echoing its intrinsic association with the radiant hue that defines it.</p>
+
+<p class="aboutElementDetailParagraph">In the contemporary realm, gold extends its influence into the heart of technology. Beyond its ornamental and monetary roles, gold's conductivity and resistance to corrosion make it an indispensable component in the production of electronic devices. From connectors to thin coatings on spacecraft, gold plays a crucial role in ensuring the reliability and longevity of technological advancements.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of gold transcends its physical and material aspects; it encapsulates the essence of human aspirations, creativity, and the enduring quest for beauty and prosperity. From the glistening artifacts of ancient civilizations to the microscopic realms of modern technology, gold remains a testament to the intersection of science, culture, and the eternal pursuit of brilliance.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Gold" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

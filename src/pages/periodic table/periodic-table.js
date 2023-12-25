@@ -60,6 +60,8 @@ function OnLoad() {
     }else if (document.location.hash === "#")
     {
         document.location.hash == "";
+    }else if (document.location.hash == "#LaAc") {
+        LaAcShow();
     }else {
         var elements = document.getElementsByClassName("elementSymbol");
         for(i = 0; i < elements.length; i++) {
@@ -245,7 +247,7 @@ function getInnerHTMLByClassWithinElement(className, parentElement) {
 //
 //
 //  Lanthanides / Actinides Section
-function LaAcShow () {
+function LaAcShow() {
 
     document.getElementById("section").style.animation="elementLaAcTable 0.7s ease-in-out forwards";
     document.getElementById("LaAcSection").style.animation="elementLaAc 0.7s ease-in-out forwards";
@@ -255,7 +257,8 @@ function LaAcShow () {
             elements[i].setAttribute('onclick','');
             elements[i].setAttribute('onmouseover','');
         }
-    disableHover()
+    disableHover();
+    document.location.hash = "LaAc";
 }
 
 //

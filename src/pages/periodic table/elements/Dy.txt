@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Dysprosium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Dy</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">66</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">162.50</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Dysprosium, a remarkable member of the lanthanide series, reveals a story marked by its unique properties, diverse applications, and a historical journey intertwined with the exploration of rare earth elements. Positioned at atomic number 66 with the symbol Dy, dysprosium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, dysprosium is a silvery-white, rare-earth metal known for its high magnetic susceptibility. It exhibits unique magnetic properties, making it valuable in the production of powerful magnets used in various technological applications, including electric vehicles and wind turbines.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, dysprosium encompasses multiple isotopes, with dysprosium-164 being the most abundant. The study of dysprosium isotopes contributes to understanding its behavior in magnetic materials and its application in the development of advanced magnets with enhanced magnetic strength.</p>
+
+<p class="aboutElementDetailParagraph">Historically, dysprosium's discovery is credited to French chemist Paul Émile Lecoq de Boisbaudran, who isolated it in 1886. The name "dysprosium" is derived from the Greek word "dysprositos," meaning hard to get, reflecting the challenges associated with isolating rare earth elements at the time.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, dysprosium plays a crucial role in the development of high-performance magnets, particularly in neodymium-iron-boron magnets used in electric vehicles and renewable energy technologies. Dysprosium is added to these magnets to enhance their temperature stability and magnetic properties, contributing to the efficiency of various green technologies.</p>
+
+<p class="aboutElementDetailParagraph">Beyond its role in magnets, dysprosium is utilized in nuclear reactors. Dysprosium-164, with its high neutron absorption capability, serves as a control rod material, regulating the rate of nuclear fission reactions and ensuring the safety and stability of nuclear power plants.</p>
+
+<p class="aboutElementDetailParagraph">The story of dysprosium intertwines scientific discovery with practical applications, showcasing its vital role in both sustainable technologies and nuclear safety. From its isolation in the late 19th century to its contemporary applications, dysprosium stands as a testament to the enduring impact of rare earth elements on technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Dysprosium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

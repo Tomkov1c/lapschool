@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Uranium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">U</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">92</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">238.03</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Uranium, a heavyweight in the world of elements, unfolds a saga of scientific curiosity, technological breakthroughs, and geopolitical implications. With an atomic number of 92 and the symbol U, uranium's journey spans centuries, leaving an indelible mark on the fields of nuclear science, energy, and international relations.</p>
+
+<p class="aboutElementDetailParagraph">Physically, uranium presents itself as a dense, malleable metal with a characteristic silvery-white luster. Its discovery by Martin Heinrich Klaproth in 1789 marked the initiation of a scientific exploration that would shape the course of human history. The distinctive properties of uranium, including its radioactivity and capacity for nuclear fission, have placed it at the forefront of scientific inquiry.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, uranium boasts a family of isotopes, but two stand out: uranium-235 and uranium-238. Uranium-235, constituting a mere 0.7% of natural uranium, possesses the unique ability to sustain a chain reaction of nuclear fission—a characteristic exploited in both nuclear power and weaponry. Uranium-238, while not fissile, undergoes neutron capture, contributing to the intricate dynamics of nuclear reactions.</p>
+
+<p class="aboutElementDetailParagraph">Historically, uranium's impact on the global stage has been profound. Its pivotal role in the development of the atomic bomb during World War II ushered in the nuclear age, altering the geopolitical landscape. The subsequent Cold War era saw heightened tensions driven by nuclear arsenals, with uranium at the center of strategic considerations.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, uranium's primary role is in nuclear power generation. Nuclear reactors harness the energy released through controlled fission reactions of uranium-235, providing a significant source of electricity. Ongoing research explores advanced reactor designs, fuel cycles, and thorium-based alternatives to address concerns related to safety, proliferation, and radioactive waste.</p>
+
+<p class="aboutElementDetailParagraph">Beyond energy, uranium finds applications in various fields. In medicine, uranium-238 is used for radiography and X-ray fluorescence, contributing to diagnostic imaging. Scientific research involving uranium continues to unravel the mysteries of nuclear physics, aiding in isotope dating, understanding nuclear reactions, and exploring potential advancements in materials science.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Uranium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

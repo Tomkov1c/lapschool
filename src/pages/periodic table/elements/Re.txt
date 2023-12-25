@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Rhenium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Re</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">75</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">186.21</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Rhenium, a remarkable and rare member of the transition metals, unfolds a tale of extraordinary properties, diverse applications, and a historical journey that mirrors the advancement of scientific understanding. Positioned at atomic number 75 with the symbol Re, rhenium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating narrative of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, rhenium exhibits a distinctive silvery-white luster, and it boasts one of the highest melting points among all elements. Renowned for its exceptional heat resistance and mechanical strength, rhenium finds itself in a league of its own, particularly in demanding applications where extreme temperatures and durability are paramount.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, rhenium's isotopes contribute to its unique role in nuclear applications. Rhenium-185, the most abundant isotope, holds significance in nuclear reactors, serving as a neutron absorber. This property, along with its stability, positions rhenium as a crucial element in the field of nuclear technology.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the credit for rhenium's discovery goes to the pioneering work of German chemists Ida Tacke, Walter Noddack, and Otto Berg in 1925. The name "rhenium" pays homage to the Latin word "Rhenus," reflecting its discovery along the river Rhine in Germany, a testament to the geographical ties that often influence the naming of elements.</p>
+
+<p class="aboutElementDetailParagraph">In the contemporary landscape, rhenium plays a pivotal role in cutting-edge technologies. Its inclusion in superalloys, along with other metals like nickel, enhances the performance of components in jet engines, ensuring reliability under extreme conditions. Rhenium catalysts contribute to chemical processes, and its use in the field of nuclear medicine, particularly in radioisotope production for diagnostic imaging, underscores its importance in healthcare.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of rhenium extends beyond its physical properties and applications; it encapsulates the spirit of exploration, collaboration, and the ever-evolving relationship between science and technology. From its discovery to its contemporary applications, rhenium stands as a symbol of ingenuity, resilience, and its indispensable role in pushing the boundaries of human knowledge and capability.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Rhenium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

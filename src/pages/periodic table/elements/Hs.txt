@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Hassium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Hs</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">108</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">277</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Hassium, a synthetic element in the transition metal group, represents a significant achievement in the exploration of the periodic table. With the symbol Hs and atomic number 108, hassium is a product of controlled nuclear reactions, enabling scientists to study the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, hassium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, hassium shares properties with other transition metals, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it a valuable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Hassium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of hassium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Hassium has several isotopes, with hassium-277 being one of the more stable ones. The radioactive decay of hassium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of hassium is credited to a team of scientists led by Peter Armbruster and Gottfried Münzenberg at the Gesellschaft für Schwerionenforschung (GSI) in Germany in the late 20th century. The element was named after the German state of Hesse, where the GSI is located.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, hassium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of atomic research, hassium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Hassium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

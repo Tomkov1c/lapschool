@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Berkelium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Bk</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">97</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">247</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Berkelium, a member of the actinide series, stands as a testament to human curiosity and scientific exploration. With the symbol Bk and atomic number 97, berkelium represents a synthetic element that has played a significant role in advancing our understanding of the periodic table and the behavior of matter.</p>
+
+<p class="aboutElementDetailParagraph">Physically, berkelium does not occur naturally and is synthesized through nuclear reactions in laboratories. As a radioactive metal, berkelium exhibits a characteristic metallic luster, and its properties contribute to the broader study of actinide elements, which includes uranium and thorium.</p>
+
+<p class="aboutElementDetailParagraph">The primary application of berkelium lies in the realm of scientific research, particularly in the synthesis of transuranium elements. Scientists use berkelium as a target material in nuclear reactions to create heavier elements, expanding our knowledge of nuclear physics and the limits of the periodic table.</p>
+
+<p class="aboutElementDetailParagraph">Berkelium has several isotopes, with berkelium-247 being the most stable. Due to its radioactive nature, berkelium poses challenges in handling and storage, requiring specialized facilities and safety precautions to mitigate potential risks associated with its use.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of berkelium is closely tied to the pioneering efforts of scientists at the University of California, Berkeley. It was first synthesized in the mid-20th century, and its name reflects the collaborative nature of scientific endeavors, honoring both the university and the city of Berkeley.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, berkelium remains a subject of exploration, contributing to our understanding of nuclear structure, stability, and the fundamental forces that govern the behavior of matter. Its synthetic nature and radioactivity make it a unique tool in unraveling the mysteries of the atomic world.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of science and technology, berkelium exemplifies the human capacity for discovery and innovation. Its role in the synthesis of elements beyond uranium showcases our ability to explore the unknown and expand our comprehension of the fundamental building blocks of the universe.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Berkelium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

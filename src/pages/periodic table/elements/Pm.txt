@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Promethium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Pm</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">61</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(145)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Promethium, a remarkable member of the actinide series, occupies a unique position in the periodic table with its lack of stable isotopes and radioactive nature. Positioned at atomic number 61 and bearing the symbol Pm, promethium's journey unfolds through its distinct properties, applications in nuclear science, and the historical context of its discovery during a pivotal era of scientific exploration.</p>
+
+<p class="aboutElementDetailParagraph">Physically, promethium does not have any stable isotopes, making its presence in nature exceedingly rare. This characteristic, however, makes it a fascinating subject for nuclear scientists, who have synthesized and studied its radioactive isotopes for various applications.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, promethium encompasses several radioactive isotopes, with promethium-145 being one of the most significant. The study of promethium isotopes plays a crucial role in nuclear physics, providing insights into nuclear reactions, decay processes, and the behavior of radioactive elements in controlled environments.</p>
+
+<p class="aboutElementDetailParagraph">Historically, promethium's story is intertwined with the scientific advancements of the 20th century, notably the Manhattan Project. In 1945, scientists Glenn T. Seaborg and Ralph A. James successfully synthesized promethium. The name "promethium" pays homage to the Titan Prometheus from Greek mythology, symbolizing the element's connection to fire and its potential applications.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, promethium's radioactive properties find practical use in nuclear batteries. Promethium-147, with its beta decay, emits electrons that can be captured to generate electrical power in radioisotope thermoelectric generators (RTGs). RTGs have been employed in various space missions, providing a reliable and long-lasting power source in environments where solar panels may be impractical.</p>
+
+<p class="aboutElementDetailParagraph">Beyond power generation, promethium has historical significance in luminescent paint. In the mid-20th century, it was commonly used in watches and aircraft instruments to provide a self-sustaining light source. However, environmental and safety concerns led to a decline in its use for this purpose over time.</p>
+
+<p class="aboutElementDetailParagraph">The story of promethium highlights its role in advancing nuclear science, its application in space exploration, and the ethical considerations surrounding its use. As a testament to the dynamic relationship between scientific discovery and societal impact, promethium remains a subject of fascination and exploration in the realms of nuclear physics and technology.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Promethium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

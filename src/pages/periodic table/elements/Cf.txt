@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Californium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Cf</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">98</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">251</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Californium, a member of the actinide series, is a synthetic element with distinctive properties that have contributed to scientific research and applications in nuclear engineering. With the symbol Cf and atomic number 98, californium represents a significant achievement in the synthesis of heavy elements.</p>
+
+<p class="aboutElementDetailParagraph">Physically, californium is not found in nature and must be produced through nuclear reactions. As a radioactive metal, californium exhibits unique properties, including its role as a strong neutron emitter. These characteristics make californium valuable in various scientific and industrial applications.</p>
+
+<p class="aboutElementDetailParagraph">One notable application of californium is in neutron sources for nuclear reactors. The element's ability to emit neutrons makes it suitable for initiating and sustaining nuclear reactions. Californium-252, a specific isotope, is particularly prized for its use in portable neutron sources for industrial applications, such as moisture gauges and metal detectors.</p>
+
+<p class="aboutElementDetailParagraph">Californium has several isotopes, with californium-251 and californium-252 being the most stable. The radioactive nature of californium requires careful handling and storage, and its applications are typically limited to specialized environments where its unique properties are harnessed for specific purposes.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of californium is credited to a team of scientists at the University of California, Berkeley, who synthesized the element in the mid-20th century. The name "californium" reflects the element's place of discovery and emphasizes the collaborative nature of scientific exploration.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary times, californium continues to find applications in nuclear engineering, research, and industrial processes. Its role in neutron source technology contributes to advancements in fields such as materials science, oil exploration, and quality control.</p>
+
+<p class="aboutElementDetailParagraph">As we navigate the complexities of nuclear science and technology, californium stands as a testament to human ingenuity in unlocking the potential of heavy elements. Its use in neutron sources exemplifies the practical applications that emerge from our understanding of the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Californium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

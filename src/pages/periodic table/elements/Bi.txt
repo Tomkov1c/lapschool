@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Bismuth</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Bi</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">83</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">208.98</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Post-Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Bismuth, a fascinating and colorful member of the post-transition metals, unfolds a narrative woven with its unique properties, diverse applications, isotopic intricacies, and a history that blends scientific discovery with aesthetic appeal. Positioned at atomic number 83 with the symbol Bi, bismuth invites exploration into its physical characteristics, roles in technology, isotopic nuances, and the captivating tapestry of its historical significance and contemporary uses.</p>
+
+<p class="aboutElementDetailParagraph">Physically, bismuth distinguishes itself with a distinctive iridescent sheen, often forming stunning hopper crystals. As the most diamagnetic of all metals, bismuth exhibits repulsion to magnetic fields, a property showcased in classroom experiments. Its low thermal conductivity and high electrical resistance contribute to its applications in certain electronic and thermal devices.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, bismuth encompasses several isotopes, with bismuth-209 being the most stable. Bismuth-209's unique status as a "primordial isotope" adds a layer of intrigue to cosmological studies, providing insights into the early universe and nucleosynthesis processes.</p>
+
+<p class="aboutElementDetailParagraph">Historically, bismuth's discovery is attributed to the work of Claude François Geoffroy in the 18th century. While bismuth was initially confused with lead due to its similar appearance, its distinctive properties eventually led to its recognition as a distinct element. Bismuth has been utilized in various cosmetic and medicinal applications, including the creation of bismuth compounds used in stomach remedies.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, bismuth's unique properties find use in diverse areas. Bismuth alloys, such as Wood's metal and Field's metal, melt at low temperatures and are employed in safety devices like fire sprinklers and thermal fuses. Bismuth compounds are also used in the electronics industry, serving as a component in certain types of solder and as a catalyst in the production of acrylonitrile, a key precursor for synthetic fibers.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of bismuth unfolds as a testament to the interplay between scientific exploration, aesthetic appreciation, and technological innovation. From its discovery in the Enlightenment era to its role in cutting-edge applications, bismuth remains a versatile and intriguing element, contributing to both the realms of science and the artistic allure of nature's wonders.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Bismuth" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

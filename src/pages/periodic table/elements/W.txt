@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Tungsten</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">W</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">74</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">183.84</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Tungsten, often referred to as "the metal with the highest melting point," emerges as a stalwart member of the transition metals, contributing to the technological landscape with its unique properties, diverse applications, and a history deeply rooted in scientific discovery. Positioned at atomic number 74 with the symbol W, tungsten beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, tungsten distinguishes itself as a dense, hard metal with exceptional strength and the highest melting point among all elements. Its robust nature makes tungsten an invaluable material in various industrial sectors, where its resilience to high temperatures and wear is exploited to enhance the performance of cutting tools, high-temperature applications, and electrical contacts in challenging environments.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, tungsten boasts multiple isotopes, with tungsten-184 being the most abundant. The systematic study of tungsten isotopes is integral to understanding its behavior in nuclear reactions, contributing to both fundamental scientific research and practical applications in nuclear technology, including isotopic tracers and reactor materials.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the tale of tungsten's discovery unfolds through the collaborative efforts of Spanish chemists Juan José and Fausto Elhuyar, who successfully isolated the element in 1783. The name "tungsten" has roots in the Swedish words "tung sten," meaning heavy stone, reflecting its dense and robust nature.</p>
+
+<p class="aboutElementDetailParagraph">In the modern technological landscape, tungsten plays a multifaceted role across diverse industries. Its high melting point and density make it indispensable in the production of hard materials utilized in cutting tools for metalworking, mining, and construction. Tungsten's exceptional conductivity also positions it as a crucial element in the electronics industry, where it contributes to the production of filaments for incandescent light bulbs and plays a vital role in semiconductor manufacturing.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of tungsten is a testament to the symbiotic relationship between scientific discovery and industrial progress. From its isolation in the late 18th century to its contemporary applications, tungsten stands as a symbol of strength, durability, and its transformative role in advancing industrial and technological frontiers.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Tungsten" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

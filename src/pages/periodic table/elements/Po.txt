@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Polonium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Po</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">84</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">[209]</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Metalloid</span></p>
+
+<p class="aboutElementDetailParagraph">Polonium, a mysterious and highly radioactive metalloid, unravels a story marked by its enigmatic properties, limited applications, isotopic complexities, and a history intertwined with scientific brilliance and geopolitical intrigue. Nestled at atomic number 84 with the symbol Po, polonium invites exploration into its physical characteristics, roles in technology, isotopic nuances, and the captivating tale of its historical significance, from groundbreaking discoveries to sobering incidents in contemporary history.</p>
+
+<p class="aboutElementDetailParagraph">Physically, polonium presents itself as a silvery-gray metalloid, exhibiting a metallic sheen that belies its perilous nature. Its extreme radioactivity, stemming from high atomic mass and the prevalence of unstable isotopes, places it among the most hazardous elements known. Notably, polonium-210, with its short half-life and alpha decay, adds to the element's mystique and danger.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, polonium's story revolves around its isotopes, particularly the highly radioactive polonium-210. This isotope plays a pivotal role in nuclear reactions and has gained infamy due to its association with incidents like the poisoning of Alexander Litvinenko. The complex interplay of isotopes reveals insights into nuclear science, radiation physics, and the challenges of handling such hazardous materials.</p>
+
+<p class="aboutElementDetailParagraph">Historically, polonium's discovery is attributed to the groundbreaking work of Marie and Pierre Curie in 1898. Isolated from pitchblende ore, polonium earned its name in honor of Marie Curie's homeland, Poland. This discovery not only advanced our understanding of radioactivity but also made Marie Curie the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, polonium's use is constrained by its extreme radioactivity and scarcity. While it has been employed in devices like antistatic brushes and neutron initiators, concerns about safety and the development of alternative technologies have reduced its practical applications in various fields.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of polonium unfolds as a complex and multifaceted journey, from the brilliance of scientific discovery to the shadows of geopolitical intrigue. Its story underscores the dual nature of scientific progress, bringing both knowledge and ethical challenges that demand careful consideration and responsible management of potentially hazardous materials.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Polonium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

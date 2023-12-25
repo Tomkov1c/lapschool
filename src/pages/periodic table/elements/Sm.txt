@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Samarium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Sm</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">62</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">150.36</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Samarium, a significant member of the lanthanide series, unveils a narrative marked by its distinct properties, diverse applications, and a historical journey intertwined with the exploration of rare earth elements. Carrying the symbol Sm and gracefully positioned at atomic number 62, samarium invites exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, samarium presents itself as a silvery-white metal with notable magnetic properties. Its unique magnetic characteristics make it a valuable component in the manufacturing of powerful permanent magnets used in applications such as headphones, electric guitars, and certain medical devices.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, samarium encompasses multiple isotopes, with samarium-149 being one of the most abundant and stable. The study of samarium isotopes contributes to understanding its behavior in geological processes, and samarium is often employed in radiometric dating techniques.</p>
+
+<p class="aboutElementDetailParagraph">Historically, samarium's discovery is attributed to Swiss chemist Jean Charles Galissard de Marignac, who isolated it in 1879. The name "samarium" is derived from the mineral samarskite, from which it was initially isolated. The isolation of samarium marked a significant advancement in the understanding of rare earth elements.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, samarium's magnetic properties find diverse uses. Samarium-cobalt magnets, known for their high magnetic strength and stability at elevated temperatures, are employed in various electronic devices, including sensors, actuators, and aerospace components.</p>
+
+<p class="aboutElementDetailParagraph">Samarium is also utilized in the field of nuclear medicine. Samarium-153, a radioactive isotope, is employed in the treatment of bone cancer and other bone-related disorders. The radioactive decay of samarium-153 emits beta particles that target and destroy cancer cells in the bone.</p>
+
+<p class="aboutElementDetailParagraph">The story of samarium is a testament to the intricate relationship between scientific discovery and practical applications. From its role in the development of powerful magnets to its applications in nuclear medicine, samarium stands as a testament to the versatile contributions of rare earth elements in advancing technology and addressing critical medical challenges.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Samarium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

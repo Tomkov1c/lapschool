@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Holmium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ho</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">67</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">164.93</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Lanthanides</span></p>
+
+<p class="aboutElementDetailParagraph">Holmium, a distinctive member of the lanthanide series, unfolds a story defined by its unique properties, diverse applications, and a historical journey intertwined with the exploration of rare earth elements. Positioned at atomic number 67 with the symbol Ho, holmium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, holmium is a soft, silvery-white metal with magnetic properties. It is known for its high magnetic susceptibility, making it useful in certain magnetic applications. Holmium is utilized in the development of specialized magnets and magnetic alloys for various technological purposes.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, holmium encompasses multiple isotopes, with holmium-165 being the most abundant. The study of holmium isotopes contributes to understanding its behavior in magnetic materials, aiding in the design of materials with tailored magnetic properties for specific applications.</p>
+
+<p class="aboutElementDetailParagraph">Historically, holmium's discovery is credited to Swedish chemist Per Theodor Cleve and Swiss chemist Jacques-Louis Soret, who independently identified it in 1878. The name "holmium" is derived from the Latin word "Holmia," meaning Stockholm, the city where the element was discovered.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, holmium finds use in various technological fields. Its magnetic properties make it valuable in the creation of powerful magnets, particularly in research and medical settings. Holmium is also used in certain laser systems, contributing to advancements in medical procedures such as laser lithotripsy for kidney stones.</p>
+
+<p class="aboutElementDetailParagraph">Holmium is employed in the nuclear industry, with holmium-165 being a strong neutron absorber. This property makes holmium useful in control rods for regulating nuclear fission reactions in nuclear reactors, ensuring their safe and controlled operation.</p>
+
+<p class="aboutElementDetailParagraph">The story of holmium intertwines scientific discovery with practical applications, showcasing its importance in both magnetic technology and nuclear safety. From its identification in the late 19th century to its contemporary applications, holmium stands as a testament to the enduring impact of rare earth elements on technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Holmium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Mendelevium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Md</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">101</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">258</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Mendelevium, a synthetic element in the actinide series, represents a milestone in the exploration of the periodic table. With the symbol Md and atomic number 101, mendelevium is a product of controlled nuclear reactions, showcasing the ability to create and study elements beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, mendelevium is not naturally occurring and is exclusively synthesized in laboratories. As a radioactive metal, mendelevium shares properties with other actinides, contributing to our understanding of nuclear reactions and the behavior of heavy elements. Its unique properties make it a valuable asset in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Mendelevium's primary applications lie in the realm of nuclear physics and the study of heavy atomic nuclei. Isotopes of mendelevium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the dynamics of atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Mendelevium has several isotopes, with mendelevium-258 being one of the more stable ones. The radioactive decay of mendelevium isotopes contributes to our understanding of transmutation processes and provides insights into the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of mendelevium is credited to a team of scientists led by Albert Ghiorso at the Lawrence Berkeley National Laboratory in the mid-20th century. The element was named in honor of Dmitri Mendeleev, the Russian chemist who formulated the periodic table and predicted the properties of elements yet to be discovered.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, mendelevium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their role in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the intricacies of atomic structure and behavior, mendelevium stands as a testament to our ability to create and explore elements that challenge the boundaries of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of understanding the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Mendelevium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

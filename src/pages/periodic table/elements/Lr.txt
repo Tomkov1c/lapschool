@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Lawrencium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Lr</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">103</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">262</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Lawrencium, a synthetic element in the actinide series, represents the forefront of human achievement in the creation of heavy elements. With the symbol Lr and atomic number 103, lawrencium is a product of controlled nuclear reactions, allowing scientists to explore the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, lawrencium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, lawrencium shares properties with other actinides, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it an essential tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Lawrencium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of lawrencium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Lawrencium has several isotopes, with lawrencium-262 being one of the more stable ones. The radioactive decay of lawrencium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of lawrencium is credited to a team of scientists led by Albert Ghiorso at the Lawrence Berkeley National Laboratory in the mid-20th century. The element was named in honor of Ernest O. Lawrence, the American physicist and Nobel laureate, in recognition of his pioneering work in the development of the cyclotron and his contributions to nuclear physics.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, lawrencium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the intricacies of atomic structure and behavior, lawrencium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Lawrencium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

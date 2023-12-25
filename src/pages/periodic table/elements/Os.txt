@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Osmium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Os</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">76</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">190.23</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Osmium, a resilient member of the transition metals, reveals a narrative shaped by its unique properties, diverse applications, and a historical journey marked by scientific discovery. Positioned at atomic number 76 with the symbol Os, osmium beckons exploration into its physical characteristics, roles in technology, isotopic diversity, and the fascinating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, osmium is recognized for its dense and lustrous appearance, presenting a bluish-silver hue. It holds the distinction of being one of the densest naturally occurring elements, emphasizing its compact atomic structure. Osmium's hardness and resistance to corrosion make it a valuable material in various industrial applications, particularly in the production of durable electrical contacts and fountain pen tips.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, osmium encompasses several isotopes, with osmium-192 being notable for its use in certain medical applications and radiography. The isotopic composition of osmium contributes to its varied roles, ranging from industrial uses to scientific research.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the discovery of osmium is attributed to English chemist Smithson Tennant and his colleague William Hyde Wollaston in 1803. The name "osmium" is derived from the Greek word "osme," meaning odor, owing to the distinctive, pungent smell of osmium tetroxide, a compound formed by osmium.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, osmium plays a crucial role in niche areas. Its alloy with iridium forms osmiridium, which is employed in the production of fountain pen tips, electrical contacts, and other components requiring hardness and durability. Osmium tetroxide, despite its toxic nature, finds use in biological staining for electron microscopy, showcasing osmium's significance in scientific research and medical imaging.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of osmium extends beyond its utilitarian applications; it embodies the marriage of scientific curiosity and industrial pragmatism. From its discovery in the 19th century to its contemporary uses, osmium stands as a symbol of precision, resilience, and its enduring contributions to materials science and research.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Osmium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -14,7 +14,16 @@ So in my 3rd year of highschool, I constantly had to carry
 Over the course of the development, I'll port tools, charts, etc. and make them more interactive.
 <br>
 ### The Periodic Table
-This is currently the only ported tool. It has everything that a regular paper periodic table would have but I added a new feature. You can click on the element and the site will display some additional information about that element. I am not a chemist and all data is sourced from Wikipedia, so please report any mistakes you find.
+This is currently the only ported tool. It has everything that a regular paper periodic table would have but I added a new feature.
 <br>
 
 ![periodic-table.png](.github/periodic-table.png)
+#### Element inspect
+Is a feature that allows you to click on an element and it will display some additional things about the element. All elements are supported. All element data is sourced from Wikipedia and shortened / modified by ChatGPT (3.0). Report all mistakes you find.
+
+
+#### Advanced Settings
+On the bottom screen is a button with additional features you can activate to make the use of the website easier. Settings are saved in the browser storage and will still be applied on page reload.
+
+#### Lanthanides and Actinoids submanu
+Display all La and Ac elements. All features are applied.

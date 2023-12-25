@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Rutherfordium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Rf</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">104</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">267</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Rutherfordium, a synthetic element in the transition metal group, represents a remarkable achievement in the creation of heavy elements. With the symbol Rf and atomic number 104, rutherfordium is a product of controlled nuclear reactions, allowing scientists to explore the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, rutherfordium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, rutherfordium shares properties with other transition metals, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it an essential tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Rutherfordium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of rutherfordium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Rutherfordium has several isotopes, with rutherfordium-267 being one of the more stable ones. The radioactive decay of rutherfordium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of rutherfordium is credited to a team of scientists led by Albert Ghiorso at the Joint Institute for Nuclear Research in the mid-20th century. The element was named in honor of Ernest Rutherford, the New Zealand-British physicist and Nobel laureate, in recognition of his contributions to nuclear physics and the understanding of atomic structure.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, rutherfordium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the intricacies of atomic structure and behavior, rutherfordium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Rutherfordium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Astatine</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">At</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">85</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">[210]</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Halogen</span></p>
+
+<p class="aboutElementDetailParagraph">Astatine, the elusive and highly radioactive halogen, unfolds a narrative marked by its scarcity, theoretical significance, and a history intertwined with scientific exploration and the quest for completing the periodic table. Occupying atomic number 85 with the symbol At, astatine beckons exploration into its physical characteristics, roles in theoretical chemistry, isotopic nuances, and the captivating tale of its historical significance within the context of halogens and the periodic table.</p>
+
+<p class="aboutElementDetailParagraph">Physically, astatine aligns with its halogen counterparts, displaying properties akin to iodine. Yet, its rarity and fleeting existence, attributed to extreme radioactivity and short half-lives of its isotopes, render astatine one of the most challenging elements to study directly. Despite these challenges, astatine's inclusion in the halogen group contributes valuable insights into the trends and behaviors of this chemical family.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, astatine presents a variety of isotopes, with astatine-210 being one of the relatively more stable ones. The study of astatine isotopes not only aids in understanding the behavior of halogens but also plays a crucial role in theoretical discussions surrounding the properties of elements in the periodic table, especially those yet to be synthesized.</p>
+
+<p class="aboutElementDetailParagraph">Historically, astatine's story begins with its synthesis in 1940 by Dale R. Corson, Kenneth Ross MacKenzie, and Emilio Segrè at the University of California, Berkeley. The creation of astatine marked a significant achievement in the quest to complete the halogen group, highlighting the collaborative efforts of scientists in expanding our understanding of the periodic table.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, astatine's use is largely confined to the realm of theoretical chemistry and scientific research. Its extreme radioactivity and scarcity limit any practical applications, relegating astatine to a role as a valuable tool for understanding fundamental principles in chemistry and physics.</p>
+
+<p class="aboutElementDetailParagraph">The narrative of astatine resonates within the theoretical foundations of chemistry, symbolizing the challenges and excitement inherent in scientific exploration. As a rare and fleeting element, astatine contributes to the ongoing quest for knowledge, where even elements with limited practical applications serve as crucial pieces in unraveling the mysteries of the natural world.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Astatine" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Bohrium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Bh</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">107</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">270</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Bohrium, a synthetic element in the transition metal group, represents a significant achievement in the exploration of the periodic table. With the symbol Bh and atomic number 107, bohrium is a product of controlled nuclear reactions, enabling scientists to study the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, bohrium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, bohrium shares properties with other transition metals, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it a valuable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Bohrium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of bohrium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Bohrium has several isotopes, with bohrium-270 being one of the more stable ones. The radioactive decay of bohrium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of bohrium is credited to a team of scientists led by Peter Armbruster and Gottfried Münzenberg at the Joint Institute for Nuclear Research in the mid-20th century. The element was named after Niels Bohr, the Danish physicist who made foundational contributions to our understanding of atomic structure and quantum mechanics.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, bohrium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of atomic research, bohrium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Bohrium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

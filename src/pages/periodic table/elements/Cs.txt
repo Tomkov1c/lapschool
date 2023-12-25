@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Cesium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Cs</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">55</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">132.91</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkali Metals</span></p>
+
+<p class="aboutElementDetailParagraph">Cesium, a remarkable alkali metal, unfolds a story marked by its unique properties, applications in diverse fields, and a historical journey that intertwines scientific discovery with technological advancements. Carrying the symbol Cs and gracefully positioned at atomic number 55, cesium beckons exploration into its physical characteristics, roles in atomic timekeeping and photoelectric devices, isotopic diversity, and the captivating tale of its discovery and contributions to modern science.</p>
+
+<p class="aboutElementDetailParagraph">Physically, cesium is a soft, silvery-gold alkali metal with exceptional reactivity to air and water. Its reactive nature makes cesium valuable in certain applications, such as photoelectric devices where it can exhibit the photoelectric effect. Additionally, cesium is a key component in atomic clocks, contributing to highly accurate timekeeping standards.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, cesium includes several isotopes, with cesium-133 being the most stable and commonly used in atomic clocks. The precision of cesium atomic clocks has led to their adoption as the primary standard for defining the unit of time, the second, in the International System of Units (SI).</p>
+
+<p class="aboutElementDetailParagraph">Historically, cesium was discovered by German chemists Robert Bunsen and Gustav Kirchhoff in 1860 through the use of spectroscopy. Its name is derived from the Latin word "caesius," meaning sky-blue, reflecting the blue lines observed in its emission spectrum.</p>
+
+<p class="aboutElementDetailParagraph">In modern applications, cesium's role extends beyond timekeeping. It finds use in photoelectric cells, where its unique photoemissive properties contribute to the conversion of light into electric current. Cesium compounds are also utilized in certain drilling fluids and the removal of unwanted electron charges on spacecraft surfaces.</p>
+
+<p class="aboutElementDetailParagraph">Cesium's impact on technology and precision measurement is exemplified by its use in atomic clocks, contributing to advancements in fields ranging from telecommunications to global positioning systems (GPS). The accurate measurement of time facilitated by cesium has become integral to modern technologies and scientific research.</p>
+
+<p class="aboutElementDetailParagraph">The story of cesium spans from its discovery in the 19th century to its pivotal role in contemporary technologies. Its journey from a spectroscopic curiosity to a key player in precise timekeeping and electronic devices underscores the ongoing synergy between scientific exploration and technological innovation.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Cesium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

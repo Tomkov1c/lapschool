@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Radium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ra</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">88</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(226)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Alkaline Earth Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Radium, a captivating member of the alkaline earth metals, epitomizes the intrigue and complexities associated with radioactive elements. With an atomic number of 88 and the symbol Ra, radium's narrative spans scientific breakthroughs, luminescent applications, and its role in shaping early medical treatments.</p>
+
+<p class="aboutElementDetailParagraph">Physically, radium reveals itself as a brilliant white metal, a testament to its position within the alkaline earth metal group. Its luminescent properties were first unveiled by Marie and Pierre Curie, who successfully isolated radium from uranium ore, marking a pivotal moment in the exploration of radioactivity.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, radium presents an array of isotopes, with radium-226 standing out as the most notable. Originating from the decay of uranium and thorium, radium is distributed in minute quantities throughout the Earth's crust, contributing to its natural occurrence and significance.</p>
+
+<p class="aboutElementDetailParagraph">Historically, radium's luminescence captured the public's imagination, leading to its incorporation into self-luminous paint for watch dials and various instruments. However, the health hazards associated with prolonged exposure to radium's radioactive decay products prompted a reevaluation of its applications, leading to the discontinuation of its use in such contexts.</p>
+
+<p class="aboutElementDetailParagraph">In the realm of medicine, radium played a crucial role in early cancer treatments. Its radioactive properties were harnessed for targeted radiation therapy, marking a pioneering era in the fight against cancer. While modern medical practices have shifted to more controlled and safer alternatives, radium's historical contributions to oncology remain significant.</p>
+
+<p class="aboutElementDetailParagraph">In the contemporary landscape, radium serves as a symbol of scientific advancement and responsibility. The cautionary tales associated with its historical applications highlight the ethical considerations that accompany the exploration of elements with potent and potentially hazardous properties.</p>
+
+<p class="aboutElementDetailParagraph">Radium's enduring legacy resonates as a chapter in the ongoing story of humanity's quest for understanding, pushing the boundaries of knowledge while navigating the delicate balance between progress and ethical considerations.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Radium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Nobelium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">No</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">102</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">259</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinide</span></p>
+
+<p class="aboutElementDetailParagraph">Nobelium, a synthetic element in the actinide series, represents the frontier of human achievement in the synthesis of heavy elements. With the symbol No and atomic number 102, nobelium is a product of controlled nuclear reactions, providing insights into the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, nobelium is not naturally occurring and is exclusively produced in laboratories. As a radioactive metal, nobelium shares properties with other actinides, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it an important tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Nobelium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of nobelium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces at play in atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Nobelium has several isotopes, with nobelium-259 being one of the more stable ones. The radioactive decay of nobelium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of nobelium is credited to a team of scientists led by Albert Ghiorso at the Lawrence Berkeley National Laboratory in the mid-20th century. The element was named in honor of Alfred Nobel, the Swedish chemist, engineer, and inventor of dynamite, in recognition of his contributions to the field of chemistry.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, nobelium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we delve into the intricacies of atomic structure and behavior, nobelium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Nobelium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

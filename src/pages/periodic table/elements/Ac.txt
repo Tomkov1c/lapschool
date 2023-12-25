@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Actinium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Ac</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">89</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(227)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Actinium, a captivating element nestled within the actinides group of the periodic table, beckons scientific exploration with its unique properties and historical significance. Bearing the atomic number 89 and the symbol Ac, actinium's story unfolds as a testament to the enduring quest to understand the complexities of the atomic world.</p>
+
+<p class="aboutElementDetailParagraph">Physically, actinium manifests as a silvery-white, highly radioactive metal. Its discovery in 1902 by Friedrich Oskar Hagemann and Friedrich Oskar Giesel marked a pivotal moment in the exploration of radioactive elements. However, it was the subsequent efforts of Friedrich Otto Giesel and H. Friedrich Otto Hahn that led to the isolation of pure actinium in 1907, shedding light on its distinct properties.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, actinium boasts a single naturally occurring isotope, actinium-227. This isotope undergoes radioactive decay, transforming into thorium-227. The emission of alpha particles during this decay process accentuates actinium's inherent radioactivity, making it a subject of fascination and study in the field of nuclear physics.</p>
+
+<p class="aboutElementDetailParagraph">Historically, the nomenclature "actinium" draws inspiration from the Greek word "aktinos," meaning "ray" or "beam," emphasizing its propensity for emitting radiation. The element's historical journey is intertwined with the broader narrative of the discovery and understanding of radioactivity during the early 20th century.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, actinium's practical uses are limited due to its scarcity and radioactivity. However, its isotopes find valuable applications in scientific research, particularly in studies related to radiation and nuclear physics. Actinium-225, with its potential in targeted alpha-particle cancer therapy, represents a contemporary avenue of exploration in the medical field.</p>
+
+<p class="aboutElementDetailParagraph">The significance of actinium extends beyond its individual characteristics; it plays a crucial role in the decay series of uranium-235. As uranium-235 undergoes radioactive decay, actinium-231 is produced, contributing to the natural occurrence of actinium in trace amounts within uranium and thorium ores.</p>
+
+<p class="aboutElementDetailParagraph">Actinium's allure lies not only in its intrinsic properties but also in its role as a key player in the broader understanding of nuclear processes. As technology advances and scientific curiosity propels us forward, actinium remains an enigmatic element, offering a window into the fundamental forces that govern the universe.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Actinium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

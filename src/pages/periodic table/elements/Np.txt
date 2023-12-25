@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Neptunium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Np</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">93</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(237)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Neptunium, a captivating member of the actinide series, unfolds its story with intricacy and scientific relevance. With an atomic number of 93 and the symbol Np, neptunium beckons us to explore its diverse facets, from its synthetic origins to its applications that extend beyond our planet.</p>
+
+<p class="aboutElementDetailParagraph">Physically, neptunium exhibits the characteristics of a malleable, silvery metal, prone to tarnishing in atmospheric conditions. Its synthesis in 1940 marked a pivotal moment in the annals of nuclear science, as scientists ventured into the realm of transuranium elements, showcasing human ingenuity in the quest for knowledge.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, neptunium unfolds a spectrum of isotopes, each contributing to our understanding of nuclear reactions. Neptunium-237, formed through the irradiation of uranium-235 in nuclear reactors, plays a crucial role in the production of plutonium-238—a substance of significant importance in space exploration.</p>
+
+<p class="aboutElementDetailParagraph">Historically, neptunium's discovery not only added a new element to the periodic table but also paved the way for the exploration of transuranium elements. Its nomenclature, inspired by the distant planet Neptune, hints at the mysteries it held and the uncharted territories it helped uncover in the vast landscape of atomic science.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, neptunium's impact reaches beyond Earth's confines. Plutonium-238, derived from neptunium-237, serves as a powerhouse in radioisotope thermoelectric generators (RTGs) for spacecraft, providing a dependable energy source for missions exploring the outer reaches of our solar system.</p>
+
+<p class="aboutElementDetailParagraph">Scientifically, neptunium remains an area of active exploration. Ongoing research delves into its behavior in nuclear fuel cycles, contributing to the development of advanced materials with unique properties. As our understanding of neptunium evolves, so does its potential for applications in fields ranging from nuclear technology to materials science.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Neptunium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

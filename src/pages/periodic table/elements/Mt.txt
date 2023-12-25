@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Meitnerium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Mt</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">109</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">278</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Transition Metal</span></p>
+
+<p class="aboutElementDetailParagraph">Meitnerium, a synthetic element in the transition metal group, stands as a significant achievement in the exploration of the periodic table. With the symbol Mt and atomic number 109, meitnerium is a product of controlled nuclear reactions, enabling scientists to study the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, meitnerium is not found in nature and is exclusively synthesized in laboratories. As a radioactive metal, meitnerium shares properties with other transition metals, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it a valuable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Meitnerium's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of meitnerium are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Meitnerium has several isotopes, with meitnerium-278 being one of the more stable ones. The radioactive decay of meitnerium isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of meitnerium is credited to a team of scientists at the Gesellschaft für Schwerionenforschung (GSI) in Germany in the late 20th century. The element was named in honor of Lise Meitner, an Austrian-Swedish physicist who made significant contributions to the understanding of nuclear physics and nuclear fission.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, meitnerium continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of atomic research, meitnerium stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Meitnerium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

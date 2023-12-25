@@ -1,0 +1,21 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Plutonium</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Pu</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">94</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">(244)</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Actinides</span></p>
+
+<p class="aboutElementDetailParagraph">Plutonium, an element of profound significance, beckons us to unravel its complexities, from its role in the nuclear age to its potential in shaping our energy future. With the symbol Pu and an atomic number of 94, plutonium stands as both a testament to human achievement and a symbol of responsibility in harnessing the power of the atom.</p>
+
+<p class="aboutElementDetailParagraph">Physically, plutonium is a dense, silvery metal that defies conventional expectations. Its synthesis in 1940 marked a triumph in the understanding of transuranium elements, opening new frontiers in nuclear science. The unique properties of plutonium, including its ability to undergo fission, have contributed to its dual role in both constructive and destructive applications.</p>
+
+<p class="aboutElementDetailParagraph">Isotopically, plutonium showcases a range of isotopes, with plutonium-239 taking center stage. This fissile isotope has played a pivotal role in the development of nuclear weapons, earning plutonium its association with geopolitical tensions. Beyond weaponry, plutonium-239 serves as a vital fuel in nuclear reactors, contributing to the global quest for sustainable and efficient energy sources.</p>
+
+<p class="aboutElementDetailParagraph">Historically, plutonium's debut on the global stage occurred during the Manhattan Project, where its transformative role in the creation of the atomic bomb altered the course of World War II. The subsequent decades witnessed the Cold War arms race, with plutonium at its core, shaping the geopolitical landscape and influencing international relations.</p>
+
+<p class="aboutElementDetailParagraph">In terms of applications, plutonium's versatility extends to the realm of nuclear energy. Plutonium-239, with its ability to sustain nuclear reactions, plays a crucial role in powering nuclear reactors. This contributes to the generation of electricity, offering a potential solution to the world's energy challenges, albeit with careful consideration of safety and proliferation concerns.</p>
+
+<p class="aboutElementDetailParagraph">Scientifically, plutonium remains a focus of ongoing research. Efforts center on understanding its behavior in various environments, optimizing nuclear reactor technologies, and addressing the long-term challenges associated with radioactive waste management. The responsible stewardship of plutonium and other nuclear materials is essential for ensuring the benefits of nuclear technology while minimizing its potential risks.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Plutonium" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>

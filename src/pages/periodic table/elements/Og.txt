@@ -1,0 +1,23 @@
+<p class="aboutElementDetailShort">Name: <span class="aboutElementDetailShortNum">Oganesson</span></p>
+<p class="aboutElementDetailShort">Symbol: <span class="aboutElementDetailShortNum">Og</span></p>
+<p class="aboutElementDetailShort">Atomic Number: <span class="aboutElementDetailShortNum">118</span></p>
+<p class="aboutElementDetailShort">Atomic Mass: <span class="aboutElementDetailShortNum">294</span></p>
+<p class="aboutElementDetailShort">Group: <span class="aboutElementDetailShortNum">Noble Gas</span></p>
+
+<p class="aboutElementDetailParagraph">Oganesson, a synthetic element in the noble gas group, represents a significant achievement in the exploration of the periodic table. With the symbol Og and atomic number 118, oganesson is a product of controlled nuclear reactions, enabling scientists to study the behavior of atomic nuclei beyond those found in nature.</p>
+
+<p class="aboutElementDetailParagraph">Physically, oganesson is not found in nature and is exclusively synthesized in laboratories. As a noble gas, oganesson shares properties with other elements in its group, contributing to our understanding of nuclear reactions and the dynamics of heavy atomic nuclei. Its unique characteristics make it a valuable tool in nuclear research.</p>
+
+<p class="aboutElementDetailParagraph">Oganesson's primary applications lie in nuclear physics, particularly in the study of nuclear reactions and the behavior of heavy atomic nuclei. Isotopes of oganesson are used as target materials in experiments, allowing scientists to investigate nuclear structure, decay processes, and the fundamental forces governing atomic interactions.</p>
+
+<p class="aboutElementDetailParagraph">Oganesson has several isotopes, with oganesson-294 being one of the more stable ones. The radioactive decay of oganesson isotopes contributes to our understanding of transmutation processes and provides valuable data on the stability and structure of heavy atomic nuclei.</p>
+
+<p class="aboutElementDetailParagraph">The discovery of oganesson is credited to a team of scientists at the Joint Institute for Nuclear Research (JINR) in Russia in collaboration with Lawrence Livermore National Laboratory in the United States in the early 21st century. The element was named in honor of Yuri Oganessian, a pioneering researcher in the field of nuclear physics and the discovery of superheavy elements.</p>
+
+<p class="aboutElementDetailParagraph">In contemporary scientific research, oganesson continues to play a crucial role in advancing our understanding of nuclear physics. Its applications extend to the investigation of transuranium elements and their significance in the broader context of nuclear science and technology.</p>
+
+<p class="aboutElementDetailParagraph">As we continue to push the boundaries of atomic research, oganesson stands as a symbol of our ability to explore and understand elements that challenge the limits of our knowledge. Its role in unraveling the mysteries of heavy atomic nuclei exemplifies the ongoing pursuit of comprehending the fundamental building blocks of matter.</p>
+
+<div id="aboutElementDetailLinks">
+    <a href="https://en.wikipedia.org/wiki/Oganesson" target="_blank" class="aboutElementDetailLink"><i class="fa-brands fa-wikipedia-w"></i><p>Wikipedia</p></a>
+</div>
