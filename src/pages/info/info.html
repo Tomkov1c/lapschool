@@ -11,27 +11,29 @@
 </head>
 <body>
     <section id="blogPanelL">
-        <div id="blogPanelLLapschoolButton">
+        <a href="../../index.html" id="blogPanelLLapschoolButton">
             <img src="../../images/logo.svg" alt="" id="blogPanelLLapschoolButtonImage">
             <h1 id="blogPanelLLapschoolButtonTitle">Lapschool</h1>
-        </div>
+        </a>
 
         <section id="blogPanelLPosts">
-            <p class="blogPanelLPostButton" onclick="DisplayPost(this)">About</p>
-            <p class="blogPanelLPostButton">Development</p>
-            <p class="blogPanelLPostButton">Socials and Contact</p>
-            <p class="blogPanelLPostButton">Patch Notes</p>
-            <p class="blogPanelLPostButton">FAQ</p>
+            <p class="blogPanelLPostButton active" onclick="DisplayPost(this)">About</p>
+            <p class="blogPanelLPostButton" onclick="DisplayPost(this)">Development</p>
+            <p class="blogPanelLPostButton" onclick="DisplayPost(this)">Socials and Contact</p>
+            <p class="blogPanelLPostButton" onclick="DisplayPost(this)">Patch Notes</p>
 
         </section>
     </section>
     <section id="blogPanelR">
         <h1>About</h1>
-        <p>Lapschool is an opensourced website that allows you to use a verity of tools
+        <p>Lapschool is an opensourced website that allows you to use a variety of tools
             for your school. Many paper tools (ex. Periodic Table) have been digitalized.
-            it is advised to those who use laptops to take notes and don't want to take
-            an piece of paper  with them to every class. Just you, your bag and your laptop
-            and that's it.
+            it is made for those who use laptops to take notes and don't want to take
+            an piece of paper  with them to every class. Just you, your bag and your laptop.
+            That's it.
+        </p>
+        <p>
+            It's completely <strong>free</strong> since is just a website.
         </p>
         <h2>Tools</h2>
         <h3>The Periodic Table</h3>
@@ -41,6 +43,22 @@
             element and the site will display some additional information about that element. I am not a chemist and all data is sourced
             from Wikipedia, so please report any mistakes you find.
         </p>
+        <img src="../../images/toolScreenshots/periodic-table.png" alt="">
+        <h4>Element inspect</h4>
+        <p>
+            Is a feature that allows you to click on an element and it will display some additional
+            things about the element. All elements are supported. All element data is sourced from
+            Wikipedia and shortened / modified by ChatGPT (3.0). Report all mistakes you find.
+        </p>
+        <h4>Advanced Settings</h4>
+        <p>
+            On the bottom screen is a button with additional features you can activate to make the
+            use easier. Settings are saved in the browser storage and will still
+            be applied on page reload.
+        </p>
+
+        <h4>Lanthanides and Actinoids submanu</h4>
+        <p>Display all La and Ac elements. All features are applied.</p>
     </section>
 </body>
 <script src="info.js"></script>

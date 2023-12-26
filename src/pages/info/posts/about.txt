@@ -1,0 +1,34 @@
+<h1>About</h1>
+        <p>Lapschool is an opensourced website that allows you to use a variety of tools
+            for your school. Many paper tools (ex. Periodic Table) have been digitalized.
+            it is made for those who use laptops to take notes and don't want to take
+            an piece of paper  with them to every class. Just you, your bag and your laptop.
+            That's it.
+        </p>
+        <p>
+            It's completely <strong>free</strong> since is just a website.
+        </p>
+        <h2>Tools</h2>
+        <h3>The Periodic Table</h3>
+        <p>
+            This is currently the only ported "tool". It has everything that
+            a regular paper periodic table would have but I added a new feature. You can click on the
+            element and the site will display some additional information about that element. I am not a chemist and all data is sourced
+            from Wikipedia, so please report any mistakes you find.
+        </p>
+        <img src="../../images/toolScreenshots/periodic-table.png" alt="">
+        <h4>Element inspect</h4>
+        <p>
+            Is a feature that allows you to click on an element and it will display some additional
+            things about the element. All elements are supported. All element data is sourced from
+            Wikipedia and shortened / modified by ChatGPT (3.0). Report all mistakes you find.
+        </p>
+        <h4>Advanced Settings</h4>
+        <p>
+            On the bottom screen is a button with additional features you can activate to make the
+            use easier. Settings are saved in the browser storage and will still
+            be applied on page reload.
+        </p>
+
+        <h4>Lanthanides and Actinoids submanu</h4>
+        <p>Display all La and Ac elements. All features are applied.</p>

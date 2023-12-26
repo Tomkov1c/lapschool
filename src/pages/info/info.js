@@ -1,6 +1,11 @@
 function DisplayPost (e) {
     var inner = event.target.innerHTML;
+    document.location.hash = inner;
     let string = inner.toLowerCase();
+
+    var posts = document.getElementsByClassName("active");
+    posts[0].classList.remove("active");
+    e.classList.add("active");
 
     let path = string + ".txt";
     var filePath = 'posts/' + path;

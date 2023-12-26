@@ -1,0 +1,4 @@
+<h1>Socials and Contact</h1>
+        <p>
+            The only way of contacting me is via my email: <a href="mailto:not.tomkov1c@gmail.com">not.tomkov1c@gmail.com</a>
+        </p>
