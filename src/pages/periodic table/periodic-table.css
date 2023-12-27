@@ -19,7 +19,8 @@
 }
 @keyframes elementLaAcTable {
     0%  {
-        
+        transform: translateY(0) scale(1);
+        opacity: 1;
     }
     100% {
         transform: translateY(-60vh) scale(0.6);
@@ -50,12 +51,14 @@
 }
 @keyframes elementLaAcReverse {
     0%  {
-        transform: translateY(-60vh) scale(0.6);
-        opacity: 0.2;
-    }
-    100% {
+        visibility: visible;
         transform: translateY(0) scale(1);
         opacity: 1;
+    }
+    100% {
+        visibility: visible;
+        transform: translateY(60vh) scale(0.6);
+        opacity: 0;
     }
 }
 @keyframes elementShowcase {
@@ -100,21 +103,41 @@
 }
 @keyframes filterMenu {
     0%  {
-        transform: scale(1) translateY(0);
+        transform: translateY(50vh);
         opacity: 1;
     }
     100% {
-        transform: scale(0.4) translateY(-60vh);
+        transform: translateY(-10vh);
         opacity: 0.5;
     }
 }
 @keyframes filterMenuReverse {
     0%  {
-        transform: scale(0.4) translateY(-60vh);
+        transform: translateY(-10vh);
         opacity: 0.5;
     }
     100% {
-        transform: scale(1) translateY(0);
+        transform: translateY(50vh);
+        opacity: 1;
+    }
+}
+@keyframes filterMenu-LaAc {
+    0%  {
+        transform: translateY(50vh);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(10vh);
+        opacity: 0.5;
+    }
+}
+@keyframes filterMenuReverse-LaAc {
+    0%  {
+        transform: translateY(10vh);
+        opacity: 0.5;
+    }
+    100% {
+        transform: translateY(50vh);
         opacity: 1;
     }
 }
@@ -662,6 +685,53 @@ a {
     z-index: 1;
     visibility: hidden;
 }
+#LaAcClose {
+    color: var(--colorPrimary);
+    background-color: var(--colorBackground);
+
+    display: inline-flex;
+
+    min-width: 14%;
+    width: 17%;
+
+    margin-right: 0.5vw;
+    margin-bottom: 1vh;
+    padding: 2vh 1vw;
+    border-radius: 12px;
+
+    font-size: 1.4rem;
+    font-family: Mulish-Bold;
+
+    cursor: pointer;
+
+    z-index: 99;
+    opacity: 0.2;
+
+    transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+#LaAcClose:hover {
+    color: var(--colorPrimary);
+    opacity: 1;
+}
+#LaAcClose i {
+    margin-left: auto;
+    margin-right: 1vw;
+
+    width: fit-content;
+
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+#LaAcClose p {
+    margin-left: 0;
+    margin-right: auto;
+
+    width: fit-content;
+
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 
 /*                                                  */
@@ -682,6 +752,7 @@ a {
     margin-top: 45vh;
 
     z-index: 1;
+    
 }
 #advancedSettings h1{        
     color: var(--colorText);

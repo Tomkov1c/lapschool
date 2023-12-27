@@ -38,6 +38,8 @@ function DisplayInfo (symbol) {
 
 
 function OnLoad() {
+    sessionStorage.setItem("sectionActive", "");
+    sessionStorage.setItem("sectionBefore", "");
     var displayGroup = localStorage.getItem('groups');
     if (displayGroup == "display") {
         SettingsDisplayGroups()
@@ -55,26 +57,26 @@ function OnLoad() {
     }
 
 
-    if(document.location.hash == "") {
+    // if(document.location.hash == "") {
 
-    }else if (document.location.hash === "#")
-    {
-        document.location.hash == "";
-    }else if (document.location.hash == "#LaAc") {
-        LaAcShow();
-    }else {
-        var elements = document.getElementsByClassName("elementSymbol");
-        for(i = 0; i < elements.length; i++) {
-            var childrenTemp = elements[i];
-            var children = childrenTemp.innerHTML;
+    // }else if (document.location.hash === "#")
+    // {
+    //     document.location.hash == "";
+    // }else if (document.location.hash == "#LaAc") {
+    //     LaAcShow();
+    // }else {
+    //     var elements = document.getElementsByClassName("elementSymbol");
+    //     for(i = 0; i < elements.length; i++) {
+    //         var childrenTemp = elements[i];
+    //         var children = childrenTemp.innerHTML;
 
-            if(("#" + children) == document.location.hash) {
-                 elements[i].click();
-                 break;
-            }
+    //         if(("#" + children) == document.location.hash) {
+    //              elements[i].click();
+    //              break;
+    //         }
                 
-        }
-    }
+    //     }
+    // }
 
 }
 
@@ -154,7 +156,6 @@ function disableHover () {
 }
 function enableHover () {
     var elementsWithClass = document.getElementsByClassName('cellNoHover');
-    document.location.hash = "";
         
         //IDK why but not all cells get the class without another loop
         for(var g = 0; g < (elementsWithClass.length + 10); g++) {
@@ -191,7 +192,8 @@ function selectElement(e) {
         DelementSymbol = getInnerHTMLByClassWithinElement("elementSymbol", e);
         document.getElementById("showcaseElementSymbol").innerHTML = DelementSymbol;
         DisplayInfo(DelementSymbol);
-        document.location.hash = DelementSymbol;
+        sessionStorage.setItem("sectionBefore", sessionStorage.getItem("sectionActive"));
+        sessionStorage.setItem("sectionActive", DelementSymbol);
 
         DelementName = getInnerHTMLByClassWithinElement("elementName", e);
         document.getElementById("showcaseElementName").innerHTML = DelementName;
@@ -213,6 +215,8 @@ function selectElement(e) {
 function selectElementReverse(e) {
 
     enableHover();
+
+    sessionStorage.setItem("sectionActive", sessionStorage.getItem("sectionBefore"));
 
     clicked = false;
     elementDetail.style.display = 'none';
@@ -247,7 +251,8 @@ function getInnerHTMLByClassWithinElement(className, parentElement) {
 //
 //
 //  Lanthanides / Actinides Section
-function LaAcShow() {
+function LaAcShow(e) {
+    e.style.opacity = 0.3;
 
     document.getElementById("section").style.animation="elementLaAcTable 0.7s ease-in-out forwards";
     document.getElementById("LaAcSection").style.animation="elementLaAc 0.7s ease-in-out forwards";
@@ -258,7 +263,25 @@ function LaAcShow() {
             elements[i].setAttribute('onmouseover','');
         }
     disableHover();
-    document.location.hash = "LaAc";
+    sessionStorage.setItem("sectionActive", "LaAc");
+
+}
+function LaAcHide() {
+
+    document.getElementById("section").style.animation="elementLaAcTableReverse 0.7s ease-in-out forwards";
+    document.getElementById("LaAcSection").style.animation="elementLaAcReverse 0.7s ease-in-out forwards";
+
+    enableHover();
+    var elements = document.getElementsByClassName("cell");
+        for(i = 0; i < elements.length; i++) {
+            elements[i].setAttribute('onmouseover','hover(this)');
+            if ((elements[i].dataset.group == "lanthanides" || elements[i].dataset.group == "actinides") || elements[i].dataset.group == "Active_lanthanides" || elements[i].dataset.group == "Active_actinides") {
+                elements[i].setAttribute('onclick','LaAcShow(this)');
+            }else {
+                elements[i].setAttribute('onclick','selectElement(this)');
+            }
+        }
+    sessionStorage.setItem("sectionActive", "");
 }
 
 //
@@ -271,7 +294,13 @@ function advancedClick(e) {
     if(status === "toOpen") {
         e.dataset.status = "toClose";
 
-        document.getElementById("section").style.animation="filterMenu 0.7s ease-in-out forwards";
+        if (sessionStorage.getItem("sectionActive") == "LaAc") {
+            document.getElementById("all").style.animation="filterMenu-LaAc 0.7s ease-in-out forwards";
+
+            console.log(sessionStorage.getItem("sectionActive"))
+        }else {
+            document.getElementById("all").style.animation="filterMenu 0.7s ease-in-out forwards";
+        }
         document.getElementById("advancedSettings").style.animation="menuFilterMenu 0.7s ease-in-out forwards";
         //document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
@@ -288,11 +317,16 @@ function advancedClick(e) {
     }else {
         e.dataset.status = "toOpen";
 
-        document.getElementById("section").style.animation="filterMenuReverse 0.7s ease-in-out forwards";
+        if (sessionStorage.getItem("sectionActive") == "LaAc") {
+            document.getElementById("all").style.animation="filterMenuReverse-LaAc 0.7s ease-in-out forwards";
+            sessionStorage.setItem("sectionActive", "LaAc");
+        }else {
+            document.getElementById("all").style.animation="filterMenuReverse 0.7s ease-in-out forwards";
+            enableHover();
+        }
         document.getElementById("advancedSettings").style.animation="menuFilterMenuReverse 0.7s ease-in-out forwards";
         //document.getElementById("otherButtons").style.animation="filterMove 0.7s ease-in-out forwards";
 
-        enableHover();
         setTimeout(function(){
             advancedSettings.style.display = 'none';
         }, 700);
@@ -302,7 +336,7 @@ function advancedClick(e) {
         var elements = document.getElementsByClassName("cell");
         for(i = 0; i < elements.length; i++) {
             if ((elements[i].dataset.group == "lanthanides" || elements[i].dataset.group == "actinides") || elements[i].dataset.group == "Active_lanthanides" || elements[i].dataset.group == "Active_actinides") {
-                elements[i].setAttribute('onclick','LaAcShow()');
+                elements[i].setAttribute('onclick','LaAcShow(this)');
             }else {
                 elements[i].setAttribute('onclick','selectElement(this)');
             }
@@ -312,7 +346,7 @@ function advancedClick(e) {
 }
 
 
-
+//
 // Advanced Settings Buttons
 function SettingsDisplayGroups(onload) {
     var e = document.getElementById("displayGroups");
