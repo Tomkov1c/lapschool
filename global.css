@@ -1,22 +1,22 @@
 @font-face {
     font-family: Mulish;
-    src: url(fonts/Mulish-Medium.ttf);
+    src: url(src/fonts/Mulish-Medium.ttf);
 }
 @font-face {
     font-family: Mulish-Bold;
-    src: url(fonts/Mulish-Bold.ttf);
+    src: url(src/fonts/Mulish-Bold.ttf);
 }
 @font-face {
     font-family: Mulish-Light;
-    src: url(fonts/Mulish-Light.ttf);
+    src: url(src/fonts/Mulish-Light.ttf);
 }
 @font-face {
     font-family: Mulish-ExtraLight;
-    src: url(fonts/Mulish-ExtraLight.ttf);
+    src: url(src/fonts/Mulish-ExtraLight.ttf);
 }
 @font-face {
     font-family: Mulish-ExtraBold;
-    src: url(fonts/Mulish-ExtraBold.ttf);
+    src: url(src/fonts/Mulish-ExtraBold.ttf);
 }
 
 :root {
