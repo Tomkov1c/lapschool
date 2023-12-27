@@ -3,6 +3,7 @@
 
 # Lapschool
 **Not optimized for mobile devices...** yet
+<br>
 So in my 3rd year of high school, I constantly had to carry
                         some paper database diagrams to my class. I used a laptop to take notes and after some time it
                         became annoying to carry that one specific piece of paper around, so I thought "Why not just
