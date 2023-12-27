@@ -2,13 +2,14 @@
 ![periodic-table.png](.github/banner.png)
 
 # Lapschool
-So in my 3rd year of highschool, I constantly had to carry
-                        some paper database diagrams to my class. I used a laptop to take notes and after sometime it
-                        became annoying to carry that one specific piece of paper around, so it thought "Why not just
+**Not optimized for mobile devices...** yet
+So in my 3rd year of high school, I constantly had to carry
+                        some paper database diagrams to my class. I used a laptop to take notes and after some time it
+                        became annoying to carry that one specific piece of paper around, so I thought "Why not just
                         digitalize it?", so I did. It accrued to me that other students may have the same problem.
                         <br>
                         This is the result. Lapschool is just a place where you can find a lot of diagrams, tools and more 
-                        digitalized and interactive on a computer so you wont have to carry anything with you to classes,
+                        digitalized and interactive on a computer so you won't have to carry anything with you to classes,
                         just your laptop.
 ## Tools
 Over the course of the development, I'll port tools, charts, etc. and make them more interactive.
@@ -25,5 +26,5 @@ Is a feature that allows you to click on an element and it will display some add
 #### Advanced Settings
 On the bottom screen is a button with additional features you can activate to make the use of the website easier. Settings are saved in the browser storage and will still be applied on page reload.
 
-#### Lanthanides and Actinoids submanu
+#### Lanthanides and Actinoids submenu
 Display all La and Ac elements. All features are applied.
