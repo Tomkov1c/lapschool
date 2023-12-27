@@ -1,4 +1,4 @@
-
+# v1.0.0.0
 ![periodic-table.png](.github/banner.png)
 
 # Lapschool
@@ -14,12 +14,12 @@ So in my 3rd year of highschool, I constantly had to carry
 Over the course of the development, I'll port tools, charts, etc. and make them more interactive.
 <br>
 ### The Periodic Table
-This is currently the only ported tool. It has everything that a regular paper periodic table would have but I added a new feature.
+This is currently the only ported tool. It has everything that a regular paper periodic table would have but I added some new feature.
 <br>
 
 ![periodic-table.png](.github/periodic-table.png)
 #### Element inspect
-Is a feature that allows you to click on an element and it will display some additional things about the element. All elements are supported. All element data is sourced from Wikipedia and shortened / modified by ChatGPT (3.0). Report all mistakes you find.
+Is a feature that allows you to click on an element and it will display some additional things about the element. All elements are supported. All elements data is sourced from Wikipedia and shortened / modified by ChatGPT (3.0). Report any mistakes you find.
 
 
 #### Advanced Settings

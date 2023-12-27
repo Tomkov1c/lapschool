@@ -22,9 +22,11 @@ a {
     width: fit-content;
 }
 .toolsWrapper {
-    position: relative;
+    position: absolute;
+    top: 0;
+    bottom: 0;
 
-    margin: 16vh 10vw;
+    margin: auto 10vw;
 
     width: fit-content;
     height: 36vh;
