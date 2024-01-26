@@ -14,7 +14,7 @@ body {
 
     overflow: hidden;
 
-    background-image: url(images/background.svg);
+    background-image: url(src/images/background.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -36,7 +36,7 @@ a {
     width: 80vw;
     height: 30vh;
 
-    margin: 2vh auto;
+    margin: 1vh auto;
 }
 
 .toolButton {
