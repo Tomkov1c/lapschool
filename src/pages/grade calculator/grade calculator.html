@@ -10,30 +10,38 @@
     <title>Grade Calculator</title>
 </head>
 <body>
-    <h1>Grade Calculator</h1>
-    <h3>Calculate your test's grade easier.</h3>
-
-    <div id="DisplayGrade">
-        <div id="DisplayGradeTop">
-            <span><i class="fa-solid fa-hashtag"></i><p>Points</p></span>
-            <span><i class="fa-solid fa-percent"></i><p>Percentage</p></span>
-            <span><i class="fa-solid fa-graduation-cap"></i><p>Grade</p></span>
+    <section id="main">
+        <h1>Grade Calculator</h1>
+        <h3>Calculate your test's grade easier.</h3>
+        <div id="DisplayGrade">
+            <div id="DisplayGradeTop">
+                <span><i class="fa-solid fa-hashtag"></i><p>Points</p></span>
+                <span><i class="fa-solid fa-percent"></i><p>Percentage</p></span>
+                <span><i class="fa-solid fa-graduation-cap"></i><p>Grade</p></span>
+            </div>
+            <div id="DisplayGradeBottom">
+                <span id="PointsDisplay">100</span></span>
+                <span id="PercentageDisplay">100</span>
+                <span id="GradeDisplay">A++</span>
+            </div>
         </div>
-        <div id="DisplayGradeBottom">
-            <span id="PointsDisplay">100</span></span>
-            <span id="PercentageDisplay">100</span>
-            <span id="GradeDisplay">A++</span>
+        <div id="inputsWrapper">
+            <input onkeypress="EnterPress(this)" type="number" placeholder="Max points" id="inputMaxPoints" name="inputMaxPoints">
+            <input onkeypress="EnterPress(this)" type="number" placeholder="Your Points" id="inputPoints" name="inputPoints">
+            <input onkeypress="EnterPress(this)" type="number" placeholder="Percentage" id="inputPercentage" name="inputPercentage">
+            <button class="calcButton" onclick="Calculate()" id="calculateButton">Calculate</button>
+            <button class="calcButtonHelf" onclick="SettingsDisplay()"><i class="fa-solid fa-gear"></i></button>
+            <!-- <button class="calcButtonHelf"><i class="fa-solid fa-circle-info"></i></button> -->
         </div>
-    </div>
+    </section>
+    <section id="settings">
 
-    <div id="inputsWrapper">
-        <input onkeypress="EnterPress(this)" type="number" placeholder="Max points" id="inputMaxPoints" name="inputMaxPoints">
-        <input onkeypress="EnterPress(this)" type="number" placeholder="Your Points" id="inputPoints" name="inputPoints">
-        <input onkeypress="EnterPress(this)" type="number" placeholder="Percentage" id="inputPercentage" name="inputPercentage">
-        <button class="calcButton" onclick="Calculate()" id="calculateButton">Calculate</button>
-        <button class="calcButtonHelf"><i class="fa-solid fa-gear"></i></button>
-        <!-- <button class="calcButtonHelf"><i class="fa-solid fa-circle-info"></i></button> -->
-    </div>
+    </section>
+    <section id="info">
+        <div id="popout">
+
+        </div>
+    </section>
     
 </body>
     <script src="grade calculator.js"></script>
