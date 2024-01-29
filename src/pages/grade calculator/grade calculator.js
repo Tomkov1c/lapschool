@@ -46,7 +46,7 @@ function EnterPress(e) {
     });
 }
 function getGrade(per) {
-    const filePath = "grading systems/" + "slovenia" + ".json";
+    const filePath = "grading systems/" + "slovenia-school" + ".json";
     const value = per;
 
     fetch(filePath)
@@ -73,7 +73,7 @@ function getGrade(per) {
             } else {
                 console.log("No Matching Grade Found"); // Log when no match is found
                 // If no matching grade is found, update the HTML content to "--g"
-                document.getElementById("GradeDisplay").innerHTML = "--g";
+                document.getElementById("GradeDisplay").innerHTML = "bruh";
             }
         })
         .catch(error => {
