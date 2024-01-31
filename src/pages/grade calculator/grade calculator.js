@@ -55,7 +55,6 @@ function getGrade(per) {
             const grades = data.grades[0];
             let foundGrade = null;
 
-            // Manually iterate through the grades object to find the matching grade
             for (const grade in grades) {
                 const range = grades[grade][0];
                 const minValue = parseInt(range.min);
@@ -63,23 +62,16 @@ function getGrade(per) {
 
                 if (value >= minValue && value <= maxValue) {
                     foundGrade = grade;
-                    break; // exit the loop once a match is found
                 }
             }
 
             if (foundGrade) {
-                console.log("Found Grade:", foundGrade); // Log the found grade
                 document.getElementById("GradeDisplay").innerHTML = foundGrade;
             } else {
-                console.log("No Matching Grade Found"); // Log when no match is found
-                // If no matching grade is found, update the HTML content to "--g"
                 document.getElementById("GradeDisplay").innerHTML = "bruh";
             }
         })
         .catch(error => {
-            // Log an error message if there's an issue fetching or parsing the JSON
-            console.log('Error reading JSON file:', error);
-            // Update the HTML content to "error" in case of an error
             document.getElementById("GradeDisplay").innerHTML = "error";
         });
 }

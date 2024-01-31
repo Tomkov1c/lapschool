@@ -14,8 +14,9 @@ So in my 3rd year of high school, I constantly had to carry
 ## Tools
 Over the course of the development, I'll port tools, charts, etc. and make them more interactive.
 <br>
+
 ### The Periodic Table
-This is currently the only ported tool. It has everything that a regular paper periodic table would have but I added some new feature.
+It has everything that a regular paper periodic table would have but I added some new feature.
 <br>
 
 ![periodic-table.png](.github/periodic-table.png)
@@ -28,3 +29,13 @@ On the bottom screen is a button with additional features you can activate to ma
 
 #### Lanthanides and Actinoids submenu
 Display all La and Ac elements. All features are applied.
+<br>
+<br>
+
+
+### Grade Calculator
+This calculates your test results. Input the data (Max points is required) and get the results. **Avalable on mobile.**
+<br>
+
+![periodic-table.png](.github/grade-calculator.png)
+

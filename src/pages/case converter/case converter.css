@@ -1,0 +1,112 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    width: 100vw;
+
+    overflow-x: hidden;
+}
+
+#textBlocks {
+    display: flex;
+}
+textarea {
+    background-color: var(--colorSecundary);
+
+    border: 2px solid transparent;
+    border-radius: 12px;
+
+    padding: 2vh;
+
+    resize: none;
+
+    color: var(--colorText);
+
+    font-family: Roboto;
+    font-size: 1rem;
+
+    overflow-y: auto;
+}
+textarea:focus {
+    outline: 2px solid var(--colorBackground);
+    border: 2px solid var(--colorPrimary);
+
+    transition: border 0.2s ease-in-out;
+}
+#textBlocks > textarea {
+    margin: 0 auto;
+    margin-top: 15vh;
+
+    columns: 30;
+
+    width: 30vw;
+    height: 50vh;
+}
+textarea:first-of-type{
+    margin-right: 3vw !important;
+}
+textarea:last-of-type {
+    margin-left: 3vw !important;
+}
+
+
+#options {
+    width: 100%;
+
+    position: relative;
+}
+#options > .inlineFlex:first-of-type {
+    width: fit-content;
+    margin: 0 auto;
+
+    margin-top: 5vh;
+
+    position: relative;
+    display: block;
+}
+#options > .inlineFlex:last-of-type {
+    width: fit-content;
+    margin: 0 auto;
+
+    margin-top: 2vh;
+
+    position: relative;
+    display: block;
+}
+#options > .inlineFlex:last-of-type > .toggleButton {
+    background-color: var(--colorSecundary);
+
+    font-family: Mulish-Bold;
+    font-size: 1rem;
+    color: var(--colorText);
+
+    padding: 1.5vh 2vw;
+
+    border: 0px solid transparent;
+    border-radius: 7px;
+
+    margin: 0 0.5vw;
+    width: 12vw;
+
+    margin-top: 5vh;
+
+}
+.toggleButton {
+    background-color: var(--colorSecundary);
+
+    font-family: Roboto-Bold;
+    font-size: 1.3rem;
+    color: var(--colorText);
+
+    padding: 2vh 2vw;
+
+    border: 0px solid transparent;
+    border-radius: 7px;
+
+    margin: 0 0.5vw;
+    width: fit-content;
+}

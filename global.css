@@ -18,6 +18,14 @@
     font-family: Mulish-ExtraBold;
     src: url(src/fonts/Mulish-ExtraBold.ttf);
 }
+@font-face {
+    font-family: Roboto;
+    src: url(src/fonts/RobotoMono-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto-Bold;
+    src: url(src/fonts/RobotoMono-Bold.ttf);
+}
 
 :root {
     --colorText: #e9e7ef;

@@ -87,3 +87,28 @@ a {
 
     margin: 1vh 2vw;
 }
+/* .toolButtonTags {
+    display: flex;
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+.toolButtonTag {
+    display: flex;
+    
+    background-color: var(--colorTerciary);
+    
+    color: var(--colorBackground);  
+    font-family: Mulish;
+
+    padding: 0.8vh 1vw;
+
+    border-radius: 100vw;
+
+    margin-right: 1vw;
+}
+.toolButtonTag > * {
+    margin: auto 0;
+}
+.toolButtonTag > p {
+    margin-left: 0.6vw;
+} */
