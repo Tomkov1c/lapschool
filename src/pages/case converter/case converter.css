@@ -72,7 +72,7 @@ textarea:last-of-type {
     width: fit-content;
     margin: 0 auto;
 
-    margin-top: 2vh;
+    margin-top: 0.8vh;
 
     position: relative;
     display: block;
@@ -84,7 +84,7 @@ textarea:last-of-type {
     font-size: 1rem;
     color: var(--colorText);
 
-    padding: 1.5vh 2vw;
+    padding: 2.5vh 2vw;
 
     border: 0px solid transparent;
     border-radius: 7px;
@@ -99,14 +99,38 @@ textarea:last-of-type {
     background-color: var(--colorSecundary);
 
     font-family: Roboto-Bold;
-    font-size: 1.3rem;
+    font-size: 1rem;
     color: var(--colorText);
 
-    padding: 2vh 2vw;
+    padding: 1.5vh 1vw;
 
     border: 0px solid transparent;
     border-radius: 7px;
 
     margin: 0 0.5vw;
-    width: fit-content;
+    width: 10vw;
+
+    cursor: pointer;
+
+    transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+}
+.toggleButton[data-enabled="true"] {
+    background-color: var(--colorTerciary) !important;
+    color: var(--colorBackground) !important;
+}
+.toggleButton > i{
+    margin: auto 0.5vw;
+}
+.toggleButtonToggled {
+    outline: 2px solid var(--colorTerciary);
+    outline-offset: 2px;
+
+    color: var(--colorTerciary) !important;
+
+}
+#convertButton {
+    background-color: var(--colorPrimary) !important;
+    color: var(--colorBackground) !important;
+
+    text-transform: uppercase !important;
 }
