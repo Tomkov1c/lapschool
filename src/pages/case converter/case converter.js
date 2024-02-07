@@ -2,7 +2,18 @@ function FocusTextArea() {
     document.getElementById("inputTextArea").focus();
 }
 
+function LoadSaveData() {
+    if(localStorage.getItem("autoCopy") == "true") {        
+        document.getElementById("AutoCopy").classList.add("toggleButtonToggled");
 
+    }
+    if(localStorage.getItem("autoConvert") == "true") {
+        document.getElementById("AutoConvert").classList.add("toggleButtonToggled");
+        document.getElementById("convertButton").style.opacity = 0.3;
+        document.getElementById("convertButton").innerHTML = "AUTO CONVERT";
+
+    }
+}
 function Convert(e) {
     var buttons = document.getElementsByClassName("toggleButton");
     var toConvert;
@@ -20,16 +31,20 @@ function Convert(e) {
         document.getElementById("outputTextArea").value = newString.toLowerCase();
     }else if(toConvert == "Sentence") {
         newString = document.getElementById("inputTextArea").value;
-
-        for(i = 0; i < newString.length; i++) {
-            if(newString[i] == "." && newString[i+1] == " ") {
-                newString[i+2] == newString[i+2].toUpperCase();
-            }else {
-                newString[i] = newString[i];
-            }
+        let words = newString.toLowerCase().split('. ');
+        for (let i = 0; i < words.length; i++) {
+          words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
         }
+        document.getElementById("outputTextArea").value = words.join('. ');
 
-        document.getElementById("outputTextArea").value = newString.toLowerCase();
+    }else if(toConvert == "Capitalized") {
+        newString = document.getElementById("inputTextArea").value;
+        let words = newString.toLowerCase().split(' ');
+        for (let i = 0; i < words.length; i++) {
+          words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
+        }
+        document.getElementById("outputTextArea").value = words.join(' ');
+        
     }else {
 
     }
@@ -57,7 +72,7 @@ function CaseType(e) {
 
 }
 
-if(document.hasFocus()) {
+if(true) {
     var intervalId = setInterval(function() {
         if(localStorage.getItem("autoConvert") == "true") {
             Convert()
