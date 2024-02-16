@@ -1,4 +1,9 @@
 <h1>Patch Notes</h1>
+        <h2>v2.0.0.0 <i>7.2.2024</i></h2>
+        <ul>
+            <li>&bull; Added the case converter</li>
+            <li>&bull; Added the ability to save settings of the converter</li>
+        </ul>
         <h2>v1.0.0.0 <i>26.12.2023</i></h2>
         <ul>
             <li>&bull; Added the periodic table</li>

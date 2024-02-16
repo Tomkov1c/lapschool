@@ -61,3 +61,6 @@
 .inlineFlex {
     display: inline-flex;
 }
+* {
+    -webkit-tap-highlight-color: transparent;
+}

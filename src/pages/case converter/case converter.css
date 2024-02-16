@@ -30,6 +30,10 @@ textarea {
     font-size: 1rem;
 
     overflow-y: auto;
+
+    width: 90vw;
+
+    argin: 5vh 5vw;
 }
 textarea:focus {
     outline: 2px solid var(--colorBackground);
@@ -81,7 +85,7 @@ textarea:last-of-type {
     background-color: var(--colorSecundary);
 
     font-family: Mulish-Bold;
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: var(--colorText);
 
     padding: 2.5vh 2vw;
@@ -90,7 +94,7 @@ textarea:last-of-type {
     border-radius: 7px;
 
     margin: 0 0.5vw;
-    width: 12vw;
+    width: 16rem;
 
     margin-top: 5vh;
 
@@ -108,7 +112,7 @@ textarea:last-of-type {
     border-radius: 7px;
 
     margin: 0 0.5vw;
-    width: 10vw;
+    width: 14rem;
 
     cursor: pointer;
 
@@ -133,4 +137,67 @@ textarea:last-of-type {
     color: var(--colorBackground) !important;
 
     text-transform: uppercase !important;
+}
+
+
+
+
+@media screen and (max-width: 1200px) and (orientation: portrait){
+    body {
+        width: 100vw !important;
+    
+        overflow-x: hidden;
+    }
+    #options > .inlineFlex, #textBlocks {
+        display: block !important;
+    }
+    #textBlocks > textarea {
+        margin: 0 auto !important;
+        margin-top: 2.5vh !important;
+    
+        width: 80vw;
+        height: 30vh;
+
+        display: block;
+    }
+    #textBlocks > textarea:first-of-type {
+        margin-top: 1vh !important;
+    }
+    #textBlocks{
+        margin-bottom: 7vh;
+    }
+    #options > .inlineFlex:first-of-type > .toggleButton {
+    
+        margin: 1vh auto;
+        display: block;
+        width: 90vw;
+    
+    }
+    #options > .inlineFlex:last-of-type > .toggleButton {
+    
+        margin: 1vh auto;
+        display: block;
+
+        width: 70vw;
+        height: 7vh;
+
+        padding: 1vh 1vw;
+    
+    }
+    #options > .inlineFlex:first-of-type {
+        width: 100vw;
+        margin: 0 auto;
+        padding-bottom: 5vh;
+        display: block;
+
+        justify-content: center;
+    }
+    #options > .inlineFlex:last-of-type {
+
+        
+        width: 100vw;
+        padding-bottom: 20vh;
+
+        justify-content: center;
+    }
 }

@@ -29,7 +29,7 @@
         <h3>Releases</h3>
         <h4>Major Update <i>(v<strong>1</strong>.1.1.1 --> v<strong>2</strong>.1.1.1)</i></h4>
         <p>
-            Every major update will have a new tool available of use.
+            Every major update will have a new tool available for use.
         </p>
         <h4>Tools Updates <i>(v1.<strong>1</strong>.1.1 --> v1.<strong>2</strong>.1.1)</i></h4>
         <p>
