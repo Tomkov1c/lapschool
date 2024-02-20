@@ -16,6 +16,7 @@ function LoadSaveData() {
         document.getElementById("convertButton").onclick = "FocusTextArea()";
         document.getElementById("convertButton").style.cursor = "default";
 
+        console.log("")
 
     }
 }

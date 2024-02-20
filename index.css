@@ -24,17 +24,17 @@ a {
 .toolsWrapper {
     position: relative;
 
-    margin: 16vh 10vw;
+    margin: 30vh 10vw;
 
     width: fit-content;
-    height: 36vh;
+    height: fit-content;
 }
 .toolsRow {
     position: relative;
     display: inline-flex;
 
     width: 80vw;
-    height: 30vh;
+    height: auto;
 
     margin: 1vh auto;
 }

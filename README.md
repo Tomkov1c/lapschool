@@ -1,3 +1,4 @@
+# v2.0.0.0
 ![periodic-table.png](.github/banner.png)
 
 # Lapschool
@@ -29,16 +30,6 @@ On the bottom screen is a button with additional features you can activate to ma
 
 #### Lanthanides and Actinoids submenu
 Display all La and Ac elements. All features are applied.
-<br>
-<br>
-
-
-### Grade Calculator
-This calculates your test results. Input the data (Max points is required) and get the results. **Avalable on mobile.**
-<br>
-
-![periodic-table.png](.github/grade-calculator.png)
-<br>
 <br>
 <br>
 
