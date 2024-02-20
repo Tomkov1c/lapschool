@@ -178,16 +178,18 @@ textarea:last-of-type {
         margin: 1vh auto;
         display: block;
 
-        width: 70vw;
+        width: 90vw;
         height: 7vh;
 
-        padding: 1vh 1vw;
+        font-size: 1rem;
+
+        padding: 0.1vh 1vw;
     
     }
     #options > .inlineFlex:first-of-type {
         width: 100vw;
         margin: 0 auto;
-        padding-bottom: 5vh;
+        padding-bottom: 10vh;
         display: block;
 
         justify-content: center;
@@ -196,7 +198,7 @@ textarea:last-of-type {
 
         
         width: 100vw;
-        padding-bottom: 20vh;
+        padding-bottom: 10vh;
 
         justify-content: center;
     }

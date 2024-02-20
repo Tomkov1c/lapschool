@@ -12,6 +12,11 @@ function LoadSaveData() {
         document.getElementById("convertButton").style.opacity = 0.3;
         document.getElementById("convertButton").innerHTML = "AUTO CONVERT";
 
+        document.getElementById("AutoConvert").dataset.on = "true";
+        document.getElementById("convertButton").onclick = "FocusTextArea()";
+        document.getElementById("convertButton").style.cursor = "default";
+
+
     }
 }
 function Convert(e) {
@@ -96,6 +101,9 @@ function AutoConvert(e) {
         document.getElementById("convertButton").style.opacity = 0.3;
         document.getElementById("convertButton").innerHTML = "AUTO CONVERT";
 
+        document.getElementById("convertButton").onclick = "FocusTextArea()";
+        document.getElementById("convertButton").style.cursor = "default";
+
 
     }else if(status == "true") {
         localStorage.setItem("autoConvert", "false");
@@ -107,6 +115,9 @@ function AutoConvert(e) {
         document.getElementById("convertButton").innerHTML = "CONVERT";
 
         document.getElementById("outputTextArea").value = "";
+
+        document.getElementById("convertButton").onclick = "Convert()";
+        document.getElementById("convertButton").style.cursor = "pointer";
 
     }else {
 
