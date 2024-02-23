@@ -1,0 +1,109 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background-color: var(--colorBackground);
+
+    display: flex;
+
+    width: 100vw;
+
+    overflow-x: hidden;
+}
+#NavMenu {
+    width: 15vw;
+    height: 80vh;
+    margin-top: 5vh;
+    padding: 5vh 0;
+
+    background-color: var(--colorBackground);
+
+    border-right: 1px var(--colorPrimary) solid;
+}
+#NavSubMenu {
+    width: 15vw;
+    height: 80vh;
+    margin-top: 5vh;
+    padding: 5vh 0;
+
+    background-color: var(--colorBackground);
+
+    border-right: 1px var(--colorPrimary) solid;
+}
+#Main {
+    width: 60vw;
+    height: 80vh;
+    padding: 5vh 5vw;
+    margin-top: 5vh;
+
+    background-color: var(--colorBackground);
+
+    overflow-y: scroll;
+}
+button {
+    font-family: Roboto;
+    font-size: 1.2rem;
+
+    background-color: transparent;
+    border: 0px solid transparent;
+    color: var(--colorText);
+    width: 70%;
+    margin: 1vh 15%;
+
+    text-align: right;
+
+    cursor: pointer;
+}
+
+
+
+/*      Main        */
+#Main > * {
+    font-family: Mulish;
+    color: var(--colorText);
+}
+#Main > h1 {
+    font-family: Mulish;
+    font-size: 5rem;
+
+    color: var(--colorText);
+}
+#Main > h2 {
+    font-family: Mulish;
+    font-size: 3rem;
+
+    color: var(--colorText);
+    margin-top: 2vh;
+    margin-bottom: 0.3vh;
+}
+#Main > h3 {
+    font-family: Mulish;
+    font-size: 2rem;
+
+    color: var(--colorText);
+
+    margin-top: 2vh;
+    margin-bottom: 0.3vh;
+}
+#Main > p, 
+#Main > li,
+#Main > ul,
+#Main > ol {
+    font-family: Mulish;
+    font-size: 1.3rem;
+
+    color: var(--colorText);
+}
+#Main > ul,
+#Main > ol {
+    margin-left: 1.5vw;
+}
+.mathFont > i {
+    color: var(--colorText) !important;
+    opacity: 0.6 !important;
+}
+.mathFont {
+    font-family: Roboto !important;
+}

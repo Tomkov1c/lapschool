@@ -161,7 +161,7 @@ textarea:last-of-type {
         display: block;
     }
     #textBlocks > textarea:first-of-type {
-        margin-top: 1vh !important;
+        margin-top: 3.5vh !important;
     }
     #textBlocks{
         margin-bottom: 7vh;
@@ -179,9 +179,9 @@ textarea:last-of-type {
         display: block;
 
         width: 90vw;
-        height: 7vh;
+        height: 6vh;
 
-        font-size: 1rem;
+        font-size: 1.2rem;
 
         padding: 0.1vh 1vw;
     

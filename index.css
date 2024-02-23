@@ -85,9 +85,11 @@ a {
     font-family: Mulish;
     font-size: 0.7vw;
 
+    height: 5vh;
+
     margin: 1vh 2vw;
 }
-/* .toolButtonTags {
+.toolButtonTags {
     display: flex;
     margin-left: 2vw;
     margin-top: 2vh;
@@ -111,4 +113,4 @@ a {
 }
 .toolButtonTag > p {
     margin-left: 0.6vw;
-} */
+}
