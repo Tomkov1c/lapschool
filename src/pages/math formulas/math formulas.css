@@ -1,109 +1,103 @@
 * {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
-}
 
+    font-family: Mulish;
+    color: var(--colorText);
+}
+html {
+    overflow: hidden;
+}
 body {
     background-color: var(--colorBackground);
 
     display: flex;
 
     width: 100vw;
+    height: 100vh;
 
-    overflow-x: hidden;
+    overflow-y: hidden;
 }
-#NavMenu {
-    width: 15vw;
-    height: 80vh;
-    margin-top: 5vh;
-    padding: 5vh 0;
+#Lside {
+    height: 100vh;
+    width: 40vw;
 
-    background-color: var(--colorBackground);
+    overflow-y: auto;
 
-    border-right: 1px var(--colorPrimary) solid;
+    padding-bottom: 20vh;
 }
-#NavSubMenu {
-    width: 15vw;
-    height: 80vh;
-    margin-top: 5vh;
-    padding: 5vh 0;
-
-    background-color: var(--colorBackground);
-
-    border-right: 1px var(--colorPrimary) solid;
-}
-#Main {
+#Rside {
+    height: 100vh;
     width: 60vw;
-    height: 80vh;
-    padding: 5vh 5vw;
-    margin-top: 5vh;
 
-    background-color: var(--colorBackground);
+    display: flex;
+    flex-wrap: wrap;
 
-    overflow-y: scroll;
+    padding-bottom: 20vh;
+
+    overflow-x: none;
+    overflow-y: auto;
 }
-button {
-    font-family: Roboto;
-    font-size: 1.2rem;
 
-    background-color: transparent;
-    border: 0px solid transparent;
+#Lside  > h1{
+    font-family: Mulish-ExtraBold;
     color: var(--colorText);
-    width: 70%;
-    margin: 1vh 15%;
-
-    text-align: right;
-
-    cursor: pointer;
-}
-
-
-
-/*      Main        */
-#Main > * {
-    font-family: Mulish;
-    color: var(--colorText);
-}
-#Main > h1 {
-    font-family: Mulish;
-    font-size: 5rem;
-
-    color: var(--colorText);
-}
-#Main > h2 {
-    font-family: Mulish;
     font-size: 3rem;
 
-    color: var(--colorText);
-    margin-top: 2vh;
-    margin-bottom: 0.3vh;
+    width: 100%;
+
+    text-align: center;
+    margin-top: 5vh;
 }
-#Main > h3 {
+#Lside  > p{
     font-family: Mulish;
-    font-size: 2rem;
-
     color: var(--colorText);
+    font-size: 1.2rem;
 
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2vh;
-    margin-bottom: 0.3vh;
 }
-#Main > p, 
-#Main > li,
-#Main > ul,
-#Main > ol {
-    font-family: Mulish;
-    font-size: 1.3rem;
+#Lside  > img{
+    position: relative;
+    padding: 10%;
 
-    color: var(--colorText);
+    margin: 0 auto;
+    display: block;
+
+    width: 50%;
 }
-#Main > ul,
-#Main > ol {
-    margin-left: 1.5vw;
+
+
+#Rside > .card-info {
+    width: 90%;
+    height: fit-content;
+
+    padding: 2.5%;
+    margin: 10vh auto 2vh;
+
+    background-color: var(--colorSecundary);
+    border-radius: 7px;
 }
-.mathFont > i {
-    color: var(--colorText) !important;
-    opacity: 0.6 !important;
+#Rside > .card-info > h1 {
+    font-size: 3rem;
+    padding-bottom: 2vh;
 }
-.mathFont {
-    font-family: Roboto !important;
+#Rside > .card-info > p {
+    font-family: serif;
+    font-style: italic;
+
+    font-size: 1.2rem;
+}
+#Rside > .card {
+    width: 10%;
+    height: 20vh;
+
+    padding: 10%;
+
+    margin: 2.5%;
+
+    background-color: var(--colorSecundary);
+    border-radius: 7px;
 }
