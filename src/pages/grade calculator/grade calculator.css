@@ -97,6 +97,11 @@ option {
 
     transition: background-color 0.2s ease-in-out;
 }
+.calcButton:focus,
+.calcButtonHelf:focus {
+    outline-offset: 2px;
+    outline: 2px solid var(--colorTerciary);
+}
 
 .calcButton:hover {
     background-color: var(--colorTerciary);
